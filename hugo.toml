@@ -23,7 +23,7 @@ pygmentsUseClasses = true
     identifier = "til"
     name = "til"
     title = "til"
-    url = "/til"
+    url = "/til/"
     weight = 10
 
   [[menu.main]]
@@ -35,11 +35,13 @@ pygmentsUseClasses = true
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:slug/"
-  snippets = "/gists/:year/:slug"
+  snippets = "/gists/:year/:slug/"
+  til = "/til/:title/"
 
 [permalinks.section]
-  posts = '/articles/'
-  snippets = '/gists/'
+  posts = '/posts/'
+  snippets = '/gist/'
+  tils = '/til/'
 
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
