@@ -27,11 +27,11 @@ pygmentsUseClasses = true
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
-    weight = 20
+    identifier = "Github"
+    name = "github"
+    title = "github"
+    url = "https://github.com/haydenk"
+    weight = 99
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:slug/"
