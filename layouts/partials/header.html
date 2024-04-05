@@ -1,8 +1,9 @@
 <header id="banner">
+    <a href="/" class="home-link" class="visually-hidden">haydenk</a>
     <nav>
-        <ul>
+        <ul class="nav">
             {{ range .Site.Menus.main.ByWeight -}}
-            <li>
+            <li class="nav-item">
                 {{ .Pre }}<a href="{{ .URL }}" title="{{ .Title }}">{{- .Name -}}</a>{{ .Post }}
             </li>
             {{- end }}
