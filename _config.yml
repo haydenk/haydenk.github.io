@@ -50,3 +50,4 @@ exclude:
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
+  - CNAME
