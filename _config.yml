@@ -21,6 +21,7 @@
 title: haydenk
 tagline: My Ramblings
 url: https://haydenk.blog
+repository: haydenk/haydenk.blog
 paginate: 3
 baseurl: ""
 permalink: pretty
