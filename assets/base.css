@@ -1,0 +1,22 @@
+body {
+    font-family: var(--body-font);
+    font-size: var(--body-font-size);
+    line-height: var(--body-line-height);
+    color: var(--body-color);
+    background-color: var(--body-bg);
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+a {
+    color: var(--link-color);
+
+    &:hover,
+    &:focus {
+        color: var(--link-hover-color);
+    }
+
+    strong {
+        color: inherit;
+    }
+}
