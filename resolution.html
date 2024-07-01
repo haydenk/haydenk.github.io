@@ -10,6 +10,9 @@ title: Screen Resolution
     <p>Absolute Resolution</p>
     <p id="absoluteResolution"></p>
     <br />
+    <p>Pixel Ratio</p>
+    <p id="pixelRatio"></p>
+    <br />
     <p>User Agent</p>
     <p id="userAgent"></p>
 </div>
@@ -20,6 +23,7 @@ title: Screen Resolution
         const absoluteResolution = `${window.screen.width} X ${window.screen.height}`;
         document.getElementById('availableResolution').innerHTML = availableResolution;
         document.getElementById('absoluteResolution').innerHTML = absoluteResolution;
+        document.getElementById('pixelRatio').innerHTML = window.devicePixelRatio;
         document.getElementById('userAgent').innerHTML = window.navigator.userAgent;
     });
 </script>
