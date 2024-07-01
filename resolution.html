@@ -9,13 +9,17 @@ title: Screen Resolution
     <br />
     <p>Absolute Resolution</p>
     <p id="absoluteResolution"></p>
+    <br />
+    <p>User Agent</p>
+    <p id="userAgent"></p>
 </div>
 
 <script>
     document.addEventListener("DOMContentLoaded", (event) => {
-        const availableResolution = `${window.screen.availHeight} X ${window.screen.availWidth}`;
-        const absoluteResolution = `${window.screen.height} X ${window.screen.width}`;
+        const availableResolution = `${window.screen.availWidth} X ${window.screen.availHeight}`;
+        const absoluteResolution = `${window.screen.width} X ${window.screen.height}`;
         document.getElementById('availableResolution').innerHTML = availableResolution;
         document.getElementById('absoluteResolution').innerHTML = absoluteResolution;
+        document.getElementById('userAgent').innerHTML = window.navigator.userAgent;
     });
 </script>
