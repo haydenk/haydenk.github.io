@@ -1,0 +1,21 @@
+---
+layout: page
+title: Screen Resolution 
+---
+
+<div style="display: flex; flex-direction: column; justify-content: center; margin-top: 5rem; text-align: center;">
+    <p>Available Resolution</p>
+    <p id="availableResolution"></p>
+    <br />
+    <p>Absolute Resolution</p>
+    <p id="absoluteResolution"></p>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", (event) => {
+        const availableResolution = `${window.screen.availHeight} X ${window.screen.availWidth}`;
+        const absoluteResolution = `${window.screen.height} X ${window.screen.width}`;
+        document.getElementById('availableResolution').innerHTML = availableResolution;
+        document.getElementById('absoluteResolution').innerHTML = absoluteResolution;
+    });
+</script>
