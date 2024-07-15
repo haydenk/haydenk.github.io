@@ -29,6 +29,14 @@
 *
 */
 
+.atm {
+    text-shadow: 1px 1px 2px black; 
+    min-height: 200px;
+    background-image: url('/images/at_the_movies.jpg');
+    background-size: 330px;
+    background-position: center;
+}
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {

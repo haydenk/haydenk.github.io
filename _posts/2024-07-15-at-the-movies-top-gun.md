@@ -1,23 +1,14 @@
 ---
 layout: post
-title: "At The Movies: Top Gun Maverick Breakdown"
+title: "Top Gun: Maverick Parable"
 date: 2024-07-15 11:23 -0500
-tags: atm atthemovies topgun maverick lakepointe
+tags: atm atthemovies topgun maverick lakepointe parables
 ---
 
 This is my take on the key points. My notetaking is not all that great so it's possible I may have missed something. This is not going to be
 very wordy either but my hopes is that I will get better at writing these posts and expressing what I mean better. So, if there's something
 you don't like, I'm sorry, it's what it is. I will get better over time.
 <!--more-->
-
-|||
-|:---|:---|
-|**Movie**|Top Gun: Maverick|
-|**Event**|At The Movies Series at Lake Pointe Church in Rockwall|
-|**Date**|Saturday, July 13, 2024|
-
-This is a four week series, not on this movie there will be others but if you are interested in checking it out,
-check out [Lake Pointe Church - At The Movies](https://lakepointe.church/at-the-movies/){:target="_blank"}
 
 **Disclaimer** I have not actually seen this movie in its entirety.
 
