@@ -2,6 +2,18 @@
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
+  
+  nav {
+    margin-top: var(--spacer);
+    a {
+      margin-left: var(--spacer);
+    }
+
+    a:first-child {
+      margin-left: 0;
+    }
+
+  }  
 }
 
 .masthead-title {
