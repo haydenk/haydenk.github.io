@@ -2,6 +2,7 @@
 layout: post
 title:  "Initial macOS (Apple Silicon) Setup"
 date:   2024-06-21 10:18:53 -0500
+tags: development macos dotfiles
 ---
 
 Sometimes I like to wipe my Macbook and start over but I forget some little things that make
