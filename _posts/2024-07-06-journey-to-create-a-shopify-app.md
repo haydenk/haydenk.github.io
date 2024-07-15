@@ -2,6 +2,7 @@
 layout: post
 title: Journey to Create A Shopify App
 date: 2024-07-06 22:06 -0500
+tags: development shopify ruby rails
 ---
 
 When I started, I struggled with what I was going to use. I wanted to use Rails but I couldn't find much
