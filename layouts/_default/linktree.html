@@ -31,7 +31,9 @@
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="/images/haydenk.png">
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="10923760-f663-4795-b33b-b5794cc0ecce"></script>
+  {{ if hugo.IsProduction }}
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="10923760-f663-4795-b33b-b5794cc0ecce"></script>
+  {{ end }}
 </head>
 <body>
 <!-- Primary Page Layout
