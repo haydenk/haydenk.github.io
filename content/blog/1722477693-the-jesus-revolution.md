@@ -5,7 +5,7 @@ slug: "the-jesus-revolution"
 tags: ["atm","atthemovies","the-jesus-revolution","lakepointe","parable"]
 ---
 
-I had not actually head of this movie before this last weekend but it was actually really good. [IMDB](https://www.imdb.com/title/tt10098448)
+I had not actually heard of this movie before this last weekend but it was actually really good. [IMDB](https://www.imdb.com/title/tt10098448)
 
 I am normally skeptical of christian movies because they are either cheesy or someone trying to explain how Jesus was just a man and nothing more.
 
