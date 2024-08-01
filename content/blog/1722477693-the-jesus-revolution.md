@@ -65,3 +65,9 @@ Jennette's faith is renewed after seeing how much her father has changed and wha
 Don't give up on Jesus because you met bad counterfiets.
 
 > It's not my church, It's yours
+
+<br />
+
+---
+
+[Lake Pointe - At The Movies](https://lakepointe.church/at-the-movies/ "At The Movies")
