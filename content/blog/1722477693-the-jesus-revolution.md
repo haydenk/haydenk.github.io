@@ -28,7 +28,7 @@ I really liked the part of the movie I saw and noticed it is available on Netfli
 * Check begins to love the people he is there for.
 
 
-> The Pharisees and their scribes began grumbling to His disciples, saying, “Why do you eat and drink with the tax collectors and sinners?" 31 And Jesus answered and said to them, “It is not those who are healthy who need a physician, but those who are sick. 32 I have not come to call the righteous to repentance, but sinners.”
+> The Pharisees and their scribes began grumbling to His disciples, saying, “Why do you eat and drink with the tax collectors and sinners?" And Jesus answered and said to them, “It is not those who are healthy who need a physician, but those who are sick. I have not come to call the righteous to repentance, but sinners.”
 > 
 > [Luke 5:30-32](https://www.biblegateway.com/passage/?search=Luke+5%3A30-32&version=NASB)
 
