@@ -1,5 +1,6 @@
 # Latest Posts
 
+* [Warrior](https://www.haydenk.blog/blog/2024/08/03/warrior/) - 2024-08-03
 * [The Jesus Revolution](https://www.haydenk.blog/blog/2024/07/31/the-jesus-revolution/) - 2024-07-31
 * [12 Mighty Orphans](https://www.haydenk.blog/blog/2024/07/22/12-mighty-orphans/) - 2024-07-22
 * [Top Gun: Maverick](https://www.haydenk.blog/blog/2024/07/15/top-gun-maverick/) - 2024-070-15
