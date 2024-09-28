@@ -1,8 +1,16 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
+<meta name="language" content="en">
+<meta name="description" content="{{ if .IsHome}}{{ .Site.Params.Description }}{{ else }}{{.Page.Params.Description}}{{ end }}">
+<meta name="keywords" content="{{ delimit .Keywords " , " }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 {{- with .OutputFormats.Get "rss" -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">
 {{- end -}}
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{- partialCached "head/css.html" . -}}
 {{- partialCached "head/js.html" . -}}
+{{ if hugo.IsProduction }}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="10923760-f663-4795-b33b-b5794cc0ecce"></script>
+{{ end }}
