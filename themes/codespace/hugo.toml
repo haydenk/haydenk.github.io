@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'My New Hugo Site'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+[params]
+  mainCss = '/assets/css/main.css'
+  mainJs = '/assets/js/main.js'
+  [[params.baseStyles]]
+  src = 'css/variables.css'
+  [[params.baseStyles]]
+  src = 'css/main.css'

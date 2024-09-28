@@ -1,0 +1,10 @@
+{{- define "main" -}}
+  {{- .Content -}}
+  <ul class="posts">
+    {{- range site.RegularPages -}}
+      {{- if not .Params.hidden -}}
+      <li><span><time datetime="{{ .Date }}">{{ .Date.Format "02 Jan 2006" }}</time></span><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+{{- end -}}
