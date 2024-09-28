@@ -1,0 +1,19 @@
+{{- $styles := .Scratch.Get "styles" -}}
+
+{{- if eq hugo.Environment "development" -}}
+  {{- range $styles -}}
+    {{- with resources.Get .src -}}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- $CSS := slice -}}
+  {{- range $styles -}}
+    {{- if (gt ( len . ) 0) -}}
+      {{- $CSS = $CSS | append (resources.Get .src) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $CSS | resources.Concat .Site.Params.mainCss | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{- end -}}
+{{- end -}}

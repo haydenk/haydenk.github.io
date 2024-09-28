@@ -1,12 +1,21 @@
 baseURL = 'https://www.haydenk.blog/'
 languageCode = 'en-us'
-title = 'haydenk'
-theme = 'hugo-theme-codex'
+title = "Hayden's blog"
+theme = 'codespace'
 buildDrafts = false
 summaryLength = 30
-copyright = "© {year}"
+disableHugoGeneratorInject = true
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
+
+[pagination]
+  pagerSize = 5
 
 [params]
+  mainSections = ['blog','atm']
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
@@ -44,21 +53,29 @@ copyright = "© {year}"
 
 [permalinks]
   [permalinks.page]
-    blog = '/blog/:year/:month/:day/:slug/'
+    blog = '/:year/:month/:day/:slug/'
+    atm = '/at-the-movies/:year/:month/:day/:slug/'
   [permalinks.section]
     blog = '/blog/'
+    atm = '/at-the-movies/'
+    linktree = '/quick-links/'
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
+  name = '~/'
+  pageRef = '/'
+  weight = 10
 
 [[menus.main]]
-name = 'Blog'
-pageRef = '/blog'
-weight = 20
+  name = 'Blog'
+  pageRef = 'blog'
+  weight = 20
 
 [[menus.main]]
-name = 'At The Movies'
-pageRef = '/tags/atm'
-weight = 30
+  name = 'At The Movies'
+  pageRef = 'atm'
+  weight = 30
+
+[[menus.main]]
+  name = 'Feed'
+  url = '/feed.xml'
+  weight = 30
