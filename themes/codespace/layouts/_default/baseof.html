@@ -11,6 +11,7 @@
   {{- $base_scripts := slice (dict "src" "js/main.js") $custom_scripts -}}
   {{- .Scratch.Set "scripts" $base_scripts -}}
   {{- partial "head.html" . -}}
+  {{ partial "favicon.html" }}
 </head>
 <body>
   <header>{{- partial "header.html" . -}}</header>
