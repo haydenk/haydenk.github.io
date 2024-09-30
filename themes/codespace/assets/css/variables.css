@@ -35,7 +35,7 @@
     --screen-size-medium: 300px;
     --screen-size-large: 1400px;
 
-    --hr-border-color: var(--aghast);
+    --hr-border-color: var(--walk-of-fame);
 }
 
 @media (prefers-color-scheme: dark) {
