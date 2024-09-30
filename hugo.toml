@@ -7,9 +7,20 @@ summaryLength = 30
 disableHugoGeneratorInject = true
 
 [outputFormats]
-  [outputFormats.RSS]
+  [outputFormats.rss]
     mediaType = "application/rss+xml"
     baseName = "feed"
+[outputFormats.json]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+
+[outputs]
+  home = ['html', 'rss', 'json']
+  page = ['html']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
 
 [pagination]
   pagerSize = 5
