@@ -81,4 +81,10 @@ footer {
   padding-top: 20px;
   border-top: 1px dotted var(--hr-border-color);
   text-align: center;
+  color: var(--walk-of-fame);
+
+  span.copyright {
+    font-size: 1.25rem;
+    vertical-align: middle;
+  }
 }
