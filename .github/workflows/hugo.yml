@@ -71,7 +71,7 @@ jobs:
             title="$(echo $j|jq -cr .title)"; 
             url="$(echo $j|jq -cr .url)"; 
             date_published=`date -d "$(echo $j|jq -cr .date)" +"%Y-%m-%d"`; 
-            echo "* [$title]($url){:target=\"_blank\" rel=\"noopener\"} - $date_published" >> $GITHUB_STEP_SUMMARY; 
+            echo "* [$title]($url) - $date_published" >> $GITHUB_STEP_SUMMARY; 
           done
       
 
