@@ -1,20 +1,16 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "{{ .Site.Title }}",
-    "home_page_url": {{ .Permalink | jsonify }},
-    "feed_url": {{ with .OutputFormats.Get "json" -}}
-      {{- .Permalink | jsonify -}}
-    {{- end }},
-    "items": [
-      {{ range $index, $entry := first 15 site.RegularPages }}
-      {{- if $index }}, {{ end }}
-      {
-        "id": {{ .Permalink | jsonify }},
-        "url": {{ .Permalink | jsonify }},
-        "title": {{ .Title | jsonify }},
-        "date_published": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-        "content_html": {{ .Content | jsonify }}
-      }
-      {{- end }}
-    ]
-  }
+{{- $items := slice -}}
+{{- range $index, $entry := site.RegularPages -}}
+{{- $items = $items | append (dict
+  "id" .Slug
+  "url" .Permalink
+  "title" .Title
+  "date_published" (.Date.Format "2006-01-02T15:04:05Z07:00")
+) -}}
+{{- end -}}
+{{- (dict
+  "version" "https://jsonfeed.org/version/1"
+  "title" .Site.Title
+  "home_page_url" .Permalink
+  "feed_url" (.OutputFormats.Get "json").Permalink
+  "items" $items
+) | jsonify -}}
