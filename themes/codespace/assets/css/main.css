@@ -71,6 +71,25 @@ main {
   }
 }
 
+.tag-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: normal;
+
+  .item {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    margin: 1.5rem;
+  }
+}
+
 hr {
   border: 0;
   border-top: 1px dotted var(--hr-border-color);

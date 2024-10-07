@@ -87,6 +87,11 @@ disableHugoGeneratorInject = true
   weight = 30
 
 [[menus.main]]
+  name = 'Tags'
+  pageRef = 'tags'
+  weight = 40
+
+[[menus.main]]
   name = 'Feed'
   url = '/feed.xml'
-  weight = 30
+  weight = 99
