@@ -2,7 +2,7 @@
 title: "12 Mighty Orphans"
 date: 2024-07-22T19:19:44-05:00
 slug: "12-mighty-orphans"
-tags: ["atm","atthemovies","12-mighty-orphans","lakepointe","parable"]
+tags: ["atm","lakepointe","parable"]
 ---
 
 This weeks movie was one I that not only have I never seen but was completely anware of the movie. [IMDB](https://www.imdb.com/title/tt8482584)

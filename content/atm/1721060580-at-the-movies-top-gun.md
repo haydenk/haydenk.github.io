@@ -2,7 +2,7 @@
 title: "Top Gun: Maverick"
 slug: "top-gun-maverick"
 date: 2024-07-15T11:23:00-05:00
-tags: ["atm","atthemovies","topgun","maverick","lakepointe","parable"]
+tags: ["atm","topgun","lakepointe","parable"]
 ---
 
 This is my take on the key points. My notetaking is not all that great so it's possible I may have missed something. This is not going to be

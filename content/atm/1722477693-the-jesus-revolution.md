@@ -2,7 +2,7 @@
 title: "The Jesus Revolution"
 date: 2024-07-31T21:01:33-05:00
 slug: "the-jesus-revolution"
-tags: ["atm","atthemovies","the-jesus-revolution","lakepointe","parable"]
+tags: ["atm","lakepointe","parable"]
 ---
 
 I had not actually heard of this movie before this last weekend but it was actually really good. [IMDB](https://www.imdb.com/title/tt10098448)
