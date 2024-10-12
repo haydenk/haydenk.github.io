@@ -6,11 +6,9 @@ body {
   padding: 20px;
   max-width: var(--width);
   text-align: left;
-  background-color: var(--background-color);
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
-  color: var(--text-color);
 }
 
 a {

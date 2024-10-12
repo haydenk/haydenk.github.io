@@ -28,4 +28,6 @@ weight = 30
   [[params.baseStyles]]
   src = 'css/variables.css'
   [[params.baseStyles]]
+  src = 'css/reset.css'
+  [[params.baseStyles]]
   src = 'css/main.css'

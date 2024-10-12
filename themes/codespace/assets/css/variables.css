@@ -6,6 +6,7 @@
 :root {
     --width: 720px;
 
+    --transparent: transparent;
     --black: #000;
     --white: #fff;
     --aghast: #7c7b7a;
@@ -20,6 +21,7 @@
     --base-font-scale: 0.9em;
     --background-color: var(--missing);
     --primary-color: var(--black);
+    --accent-color: var(--darkwear);
     --link-color: var(--black);
     --link-color-hover: var(--missing);
     --link-border-width: 3px;

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{- block "styles" . -}} {{- end -}} <!-- Get "style_opts" variable from "styles" block -->
+  {{- $custom_styles := .Scratch.Get "style_opts" | default dict -}}
+  {{- $base_styles := .Site.Params.baseStyles -}}
+  {{- $base_styles := $base_styles | append $custom_styles -}}
+  {{- .Scratch.Set "styles" $base_styles -}}
+  {{- block "scripts" . }} {{ end }} <!-- Get "script_opts" variable from "scripts" block -->
+  {{- $custom_scripts := .Scratch.Get "script_opts" | default dict -}}
+  {{- $base_scripts := slice (dict "src" "js/main.js") $custom_scripts -}}
+  {{- .Scratch.Set "scripts" $base_scripts -}}
+  {{- partial "head.html" . -}}
+  {{ partial "favicon.html" }}
+</head>
+<body>
+  <main class="splash">{{- block "main" . -}}{{- end -}}</main>
+  <script>
+    feather.replace();
+  </script>
+</body>
+</html>
