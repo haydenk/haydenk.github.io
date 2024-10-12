@@ -5,6 +5,8 @@
 
 :root {
     --width: 720px;
+    --screen-size-medium: 800px;
+    --screen-size-large: 1400px;
 
     --transparent: transparent;
     --black: #000;
