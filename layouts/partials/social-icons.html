@@ -1,0 +1,20 @@
+{{- $currentPage := . -}}
+{{- $icons := .Site.Params.iconOrder | default (slice "Twitter" "GitHub" "Email" "Mastodon" "Facebook" "GitLab" "Instagram" "LinkedIn" "YouTube") -}}
+
+<div class="social-icons">
+  <a class="social-icons__link" title="Hayden's Blog" href="/blog">
+    <i data-feather="terminal"></i>
+  </a>
+  {{- range $icons -}}
+  {{- $icon := anchorize . -}}
+  {{- if isset $currentPage.Site.Params $icon -}}
+  <a class="social-icons__link" title="{{ . }}" href="{{ index $currentPage.Site.Params $icon }}" target="_blank"
+    rel="me noopener">
+    <i data-feather="{{ $icon }}"></i>
+  </a>
+  {{- end -}}
+  {{- end -}}
+  <a class="social-icons__link" title="Feed" href="/feed.xml">
+    <i data-feather="rss"></i>
+  </a>
+</div>

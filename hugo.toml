@@ -92,6 +92,9 @@ disableHugoGeneratorInject = true
   weight = 40
 
 [[menus.main]]
-  name = 'Feed'
-  url = '/feed.xml'
+  name = 'Github'
+  url = 'https://github.com/haydenk'
   weight = 99
+  [menus.main.params]
+    target = '_blank'
+    rel = 'external'
