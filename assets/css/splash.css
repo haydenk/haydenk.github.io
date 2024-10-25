@@ -54,10 +54,22 @@ main.splash {
                       margin-right: 1em;
                     }
                   
-                    .feather {
+                    svg {
                       width: 2.5rem;
                       height: 2.5rem;
                     }
+                }
+
+                .social-icons__link.github:hover {
+                    background-color: #000;
+                }
+
+                .social-icons__link.instagram:hover {
+                    background-color: #e1306c;
+                }
+
+                .social-icons__link.linkedin:hover {
+                    background-color: #0a66c2;
                 }
             }
         }
