@@ -2,19 +2,26 @@
 {{- $icons := .Site.Params.iconOrder | default (slice "Twitter" "GitHub" "Email" "Mastodon" "Facebook" "GitLab" "Instagram" "LinkedIn" "YouTube") -}}
 
 <div class="social-icons">
-  <a class="social-icons__link" title="Hayden's Blog" href="/blog">
-    <i data-feather="terminal"></i>
+  <a class="social-icons__link terminal" title="Hayden's Blog" href="/blog">
+    {{- with resources.Get "feather/terminal.svg" -}}
+        {{- .Content | safeHTML -}}
+    {{- end -}}
   </a>
   {{- range $icons -}}
   {{- $icon := anchorize . -}}
   {{- if isset $currentPage.Site.Params $icon -}}
-  <a class="social-icons__link" title="{{ . }}" href="{{ index $currentPage.Site.Params $icon }}" target="_blank"
-    rel="me noopener">
-    <i data-feather="{{ $icon }}"></i>
+  <a class="social-icons__link {{ $icon }}" title="{{ . }}" href="{{ index $currentPage.Site.Params $icon }}" target="_blank"
+    rel="noopener">
+    {{- $iconPath := print "feather/" $icon ".svg" -}}
+    {{- with resources.Get $iconPath -}}
+        {{- .Content | safeHTML -}}
+    {{- end -}}
   </a>
   {{- end -}}
   {{- end -}}
-  <a class="social-icons__link" title="Feed" href="/feed.xml">
-    <i data-feather="rss"></i>
+  <a class="social-icons__link rss" title="Feed" href="/feed.xml">
+    {{- with resources.Get "feather/rss.svg" -}}
+        {{- .Content | safeHTML -}}
+    {{- end -}}
   </a>
 </div>

@@ -62,6 +62,15 @@ disableHugoGeneratorInject = true
   [markup.goldmark.renderer]
       unsafe = true
 
+[module]
+  [[module.imports]]
+    ignoreConfig = true
+    path = "github.com/feathericons/feather"
+
+    [[module.imports.mounts]]
+      source = "icons"
+      target = "assets/feather"
+
 [permalinks]
   [permalinks.page]
     blog = '/:year/:month/:day/:slug/'
