@@ -23,8 +23,10 @@ weight = 30
     min = "0.116.0"
 
 [params]
-  mainCss = '/assets/css/main.css'
-  mainJs = '/assets/js/main.js'
+  mainCss = '/css/main.css'
+  mainJs = '/js/main.js'
+  [[params.baseStyles]]
+  src = 'css/fonts.css'
   [[params.baseStyles]]
   src = 'css/variables.css'
   [[params.baseStyles]]

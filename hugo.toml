@@ -71,6 +71,14 @@ disableHugoGeneratorInject = true
       source = "icons"
       target = "assets/feather"
 
+  [[module.imports]]
+    ignoreConfig = true
+    path = "github.com/JetBrains/JetBrainsMono"
+
+    [[module.imports.mounts]]
+      source = "fonts/webfonts"
+      target = "static/fonts"
+
 [permalinks]
   [permalinks.page]
     blog = '/:year/:month/:day/:slug/'
