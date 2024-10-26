@@ -26,6 +26,8 @@ disableHugoGeneratorInject = true
   pagerSize = 5
 
 [params]
+  description = "Hayden King Personal Blog Site"
+  keywords = ['software development','programming','woodworking','life','jesus','bible','php','ruby','python','java','rails']
   mainSections = ['blog','atm']
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
