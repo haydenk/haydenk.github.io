@@ -51,4 +51,8 @@
         --hr-border-color: var(--missing);
         --text-color: var(--missing);
     }
+
+    .gist {
+        filter: invert(1);
+    }
 }
