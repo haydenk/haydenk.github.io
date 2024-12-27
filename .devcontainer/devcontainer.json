@@ -1,13 +1,10 @@
 {
   "image": "mcr.microsoft.com/devcontainers/base:dev-noble",
   "features": {
-  },
-  "settings": {
-      "terminal.integrated.profiles.linux": {
-      "zsh": {
-        "path": "/usr/bin/zsh"
-      }
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "configureZshAsDefaultShell": true
     },
-    "terminal.integrated.defaultProfile.linux": "zsh"
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/hugo:1": {}
   }
 }
