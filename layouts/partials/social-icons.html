@@ -2,7 +2,7 @@
 {{- $icons := .Site.Params.iconOrder | default (slice "Twitter" "GitHub" "Email" "Mastodon" "Facebook" "GitLab" "Instagram" "LinkedIn" "YouTube") -}}
 
 <div class="social-icons">
-  <a class="social-icons__link terminal" title="Hayden's Blog" href="/blog">
+  <a class="social-icons__link terminal" title="Hayden's Blog" href="/posts">
     {{- with resources.Get "feather/terminal.svg" -}}
         {{- .Content | safeHTML -}}
     {{- end -}}
