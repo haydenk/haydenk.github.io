@@ -83,11 +83,9 @@ disableHugoGeneratorInject = true
 
 [permalinks]
   [permalinks.page]
-    blog = '/:year/:month/:day/:slug/'
-    atm = '/at-the-movies/:year/:month/:day/:slug/'
+    posts = '/p/:year/:month/:day/:slug/'
   [permalinks.section]
-    blog = '/blog/'
-    atm = '/at-the-movies/'
+    posts = '/posts/'
     linktree = '/quick-links/'
 
 [[menus.main]]
@@ -96,14 +94,9 @@ disableHugoGeneratorInject = true
   weight = 10
 
 [[menus.main]]
-  name = 'Blog'
-  pageRef = 'blog'
+  name = 'Posts'
+  pageRef = 'posts'
   weight = 20
-
-[[menus.main]]
-  name = 'At The Movies'
-  pageRef = 'atm'
-  weight = 30
 
 [[menus.main]]
   name = 'Tags'
