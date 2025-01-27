@@ -40,8 +40,6 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -63,19 +61,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Update Steps Output
-        run: |
-          echo "# Latest Posts" >> $GITHUB_STEP_SUMMARY;
-          echo >> $GITHUB_STEP_SUMMARY;
-          END=$(jq -cr '.items|length' ./public/feed.json);
-          for index in $(seq 0 $((END - 1))); 
-          do 
-            j="$(jq -cr --arg index $index '.items | map({url: .url, title: .title, date: .date_published}) | .[$index|tonumber]' ./public/feed.json)"; 
-            title="$(echo $j|jq -cr .title)"; 
-            url="$(echo $j|jq -cr .url)"; 
-            date_published=`date -d "$(echo $j|jq -cr .date)" +"%Y-%m-%d"`; 
-            echo "* [$title]($url) - $date_published" >> $GITHUB_STEP_SUMMARY; 
-          done
       
 
   # Deployment job
