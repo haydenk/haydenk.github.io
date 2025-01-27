@@ -1,7 +1,7 @@
 baseURL = 'https://www.haydenk.blog/'
 languageCode = 'en-us'
 title = "Hayden's blog"
-theme = 'codespace'
+theme = 'xmin'
 buildDrafts = false
 summaryLength = 30
 disableHugoGeneratorInject = true
