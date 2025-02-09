@@ -10,6 +10,8 @@
 * 2024-06-21 - [Fresh Start macOS Setup](/content/posts/1718983133-fresh-start-macos-setup.md)
 
 
+[All Posts](/content/index.md)
+
 ---
 
 :wave: Hey, if you have a small business (or a business) or know someone who does and need electricity service, <br>
