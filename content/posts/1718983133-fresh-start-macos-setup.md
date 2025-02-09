@@ -1,9 +1,4 @@
----
-title: "Initial macOS (Apple Silicon) Setup"
-slug: "initial-macos-setup"
-date: 2024-06-21T10:18:53-05:00
-tags: ["development","macos","dotfiles"]
----
+# Fresh Start macOS (Apple Silicon) Setup
 
 Sometimes I like to wipe my Macbook and start over but I forget some little things that make
 starting over frustrating.
@@ -78,3 +73,9 @@ I basically use the information from topbug.net with some revisions.
 * slack
 * visual-studio-code
 * zoom
+
+---
+
+**Post Date:** 2024-06-21T10:18:53-05:00
+
+**Tags:** development, macos, dotfiles

@@ -1,7 +1,0 @@
-{{- define "main" -}}
-    <div class="tag-container">
-        {{- range .Data.Pages -}}
-        <div class="item {{ .Kind }}"><a href="{{ .Permalink }}">{{ lower .LinkTitle }}</a></div>
-        {{- end -}}
-    </div>
-{{- end -}}
