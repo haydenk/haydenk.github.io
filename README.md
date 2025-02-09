@@ -7,12 +7,7 @@
 
 ## Latest Posts
 
-* [Warrior](https://www.haydenk.blog/p/2024/08/03/warrior/) - 2024-08-04
-* [The Jesus Revolution](https://www.haydenk.blog/p/at-the-movies/2024/07/31/the-jesus-revolution/) - 2024-08-01
-* [12 Mighty Orphans](https://www.haydenk.blog/p/2024/07/22/12-mighty-orphans/) - 2024-07-23
-* [Top Gun: Maverick](https://www.haydenk.blog/p/2024/07/15/top-gun-maverick/) - 2024-07-15
-* [Journey to Create A Shopify App](https://www.haydenk.blog/p/2024/07/06/shopify-app-journey-part-1/) - 2024-07-07
-* [Initial macOS (Apple Silicon) Setup](https://www.haydenk.blog/p/2024/06/21/initial-macos-setup/) - 2024-06-21
+* 2024-06-21 - [Fresh Start macOS Setup](posts/1718983133-fresh-start-macos-setup.md)
 
 
 ---
