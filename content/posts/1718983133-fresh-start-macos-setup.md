@@ -1,5 +1,9 @@
 # Fresh Start macOS (Apple Silicon) Setup
 
+**UPDATE 2025-02-27** Replaced `asdf` for `mise`. I had some oddities pop up on the latest asdf update that I didn't have with mise and mise seems to work nicer.
+
+---
+
 Sometimes I like to wipe my Macbook and start over but I forget some little things that make
 starting over frustrating.
 
@@ -31,7 +35,7 @@ I basically use the information from topbug.net with some revisions.
 
 ### Homebrew Packages
 * ansible
-* asdf
+* ~~asdf~~
 * awscli
 * binutils
 * bzip2
@@ -53,6 +57,7 @@ I basically use the information from topbug.net with some revisions.
 * jq
 * libpq
 * make
+* mise
 * mysql-client
 * mysql-client@5.7
 * openssl
@@ -77,5 +82,8 @@ I basically use the information from topbug.net with some revisions.
 ---
 
 **Post Date:** 2024-06-21T10:18:53-05:00
+
+**Updated:** 2025-02-27T10:55:05-0600
+
 
 **Tags:** development, macos, dotfiles
