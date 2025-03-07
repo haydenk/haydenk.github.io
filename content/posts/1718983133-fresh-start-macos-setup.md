@@ -19,6 +19,7 @@ from the project site. I will only include nuances that I may do different or in
 * My dotfiles - [https://github.com/haydenk/dotfiles]()
 * asdf - [https://asdf-vm.com]()
 * 1Password - [https://1password.com]()
+* MonitorControl - [https://github.com/MonitorControl/MonitorControl]()
 
 First thing first, `xcode-select --install`, we want to install the Command Line Tools to get some basic packages installed. More specifically,
 we want git installed so we can clone Homebrew, oh-my-zsh, and the dotfiles.
