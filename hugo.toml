@@ -1,0 +1,75 @@
+baseURL = 'https://haydenk.github.io/'
+languageCode = 'en-us'
+title = 'Hayden King'
+theme = 'github.com/yihui/hugo-xmin'
+
+summaryLength = 30
+disableHugoGeneratorInject = true
+disableKinds = [ 'taxonomy', 'term' ]
+ignoreErrors = [ 'error-disable-taxonomy' ]
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'monokai'
+    tabWidth = 4
+    wrapperClass = 'highlight'
+
+
+[outputFormats]
+  [outputFormats.rss]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
+
+[outputs]
+  home = ['html', 'rss']
+  page = ['html']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
+
+[pagination]
+  pagerSize = 5
+
+[permalinks]
+  [permalinks.page]
+    posts = '/post/:year/:month/:day/:slug/'
+  [permalinks.section]
+    posts = '/posts/'
+
+[module]
+  [[module.imports]]
+    path = "github.com/yihui/hugo-xmin"
+
+[[menu.main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Categories"
+  url = "categories/"
+  weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags/"
+  weight = 4
+
+[[menu.main]]
+  name = "Subscribe"
+  url = "index.xml"

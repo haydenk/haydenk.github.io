@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/post/2025/02/20/simple-guide-to-split-monorepo/</loc>
+    <lastmod>2025-02-20T11:03:05-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-20T11:03:05-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-20T11:03:05-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2025/02/15/removing-hugo/</loc>
+    <lastmod>2025-02-15T20:45:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2024/07/06/shopify-app-journey-part1/</loc>
+    <lastmod>2024-07-06T22:06:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2024/06/21/fresh-start-macos-silicon/</loc>
+    <lastmod>2024-06-21T10:18:53-05:00</lastmod>
+  </url>
+</urlset>

@@ -1,4 +1,10 @@
-# A Simple Guide to Split a Monorepo into a Separate Repository
++++
+title = 'A Simple Guide to Split a Monorepo into a Separate Repository'
+slug = 'simple-guide-to-split-monorepo'
+date = 2025-02-20T11:03:05-06:00
+draft = false
+tags = ['git', 'development', 'monorepo']
++++
 
 Assume we have monorepo at `git@github.com/haydenk/monorepo.git`
 

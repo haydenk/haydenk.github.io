@@ -1,4 +1,10 @@
-# Journey to Create A Shopify App
++++
+title = 'Journey to Create A Shopify App'
+slug = 'shopify-app-journey-part1'
+date = 2024-07-06T22:06:00-05:00
+draft = false
+tags = ['development', 'shopify', 'ruby', 'rails']
++++
 
 When I started, I struggled with what I was going to use. I wanted to use Rails but I couldn't find much
 information on how to use Rails with an embedded app in Shopify. That has since been debunked.
@@ -30,7 +36,16 @@ standard Turbo JS setup for rails.
 I had to modify the `package.json` and `bun.config.js` to "compile" both entrypoints.
 
 <br />
-{{< gist haydenk d248642fda2c49b0ba0b830c9d63d7dd bun.config.js >}}
+
+{{< highlight js >}}
+// bun.config.js
+
+const config = {
+    sourcemap: "external",
+    entrypoints: ["app/javascript/application.js", "app/javascript/shopify.js"],
+    outdir: path.join(process.cwd(), "app/assets/builds"),
+};
+{{< / highlight >}}
 
 
 <br />
@@ -40,9 +55,3 @@ I had to modify the `package.json` and `bun.config.js` to "compile" both entrypo
 Bun will work with both application.js and shopify.js while sass and postcss will handle both application.bootstrap.scss and shopify.scss. So, now I can use both polaris styles and polaris javascript with my shopify app and use something else for the rest of the application.
 
 Next steps: I am working on using Grape API to handle the JSON API requests, whether it be requests for the shopify app or for this application itself. The tricky part here is that some of the shopify endpoints will require shopify shop, and possibly user, authorization for it to work correctly.
-
----
-
-Post Date: 2024-07-06T22:06:00-05:00
-
-Tags: development, shopify, ruby, rails

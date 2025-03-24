@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fresh Start macOS (Apple Silicon) Setup | Hayden King</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Fresh Start macOS (Apple Silicon) Setup</span></h1>
+
+<h2 class="date">2024/06/21</h2>
+</div>
+
+<main>
+<p>Sometimes I like to wipe my Macbook and start over but I forget some little things that make
+starting over frustrating.</p>
+<p>I am not going to give full detail instructions on how I install it. I usually just follow the steps
+from the project site. I will only include nuances that I may do different or in addition to the normal steps.</p>
+<h3 id="app-list">App List:</h3>
+<ul>
+<li>Homebrew - <a href="">https://brew.sh</a></li>
+<li>oh-my-zsh - <a href="">https://ohmyz.sh</a></li>
+<li>Docker - <a href="">https://docs.docker.com/desktop/install/mac-install/</a></li>
+<li>My dotfiles - <a href="">https://github.com/haydenk/dotfiles</a></li>
+<li>asdf - <a href="">https://asdf-vm.com</a></li>
+<li>1Password - <a href="">https://1password.com</a></li>
+</ul>
+<p>First thing first, <code>xcode-select --install</code>, we want to install the Command Line Tools to get some basic packages installed. More specifically,
+we want git installed so we can clone Homebrew, oh-my-zsh, and the dotfiles.</p>
+<p>While we&rsquo;re at it we will go ahead and install rosetta, <code>softwareupdate --install-rosetta</code>. I don&rsquo;t really like installing this if I don&rsquo;t have to but
+there&rsquo;s some versions in asdf that do not have an arm version for Apple Silicon.</p>
+<p>Homebrew, oh-my-zsh, and dotfiles are the first to be installed. There is no particular order. Homebrew gets installed in the user&rsquo;s home directory under
+<code>~/.brew</code>, I don&rsquo;t have to worry about system conflicts or permission issues in the home directory because <em>I</em> have full access here.</p>
+<p>I basically use the information from topbug.net with some revisions.</p>
+<ul>
+<li><a href="">https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/</a></li>
+</ul>
+<h3 id="homebrew-packages">Homebrew Packages</h3>
+<ul>
+<li>ansible</li>
+<li>asdf</li>
+<li>awscli</li>
+<li>binutils</li>
+<li>bzip2</li>
+<li>coreutils</li>
+<li>curl</li>
+<li>diffutils</li>
+<li>findutils</li>
+<li>gawk</li>
+<li>gnu-getopt</li>
+<li>gnu-sed</li>
+<li>gnu-tar</li>
+<li>gnu-which</li>
+<li>gzip</li>
+<li>grep</li>
+<li>gcc</li>
+<li>gh</li>
+<li>git</li>
+<li>git-flow-avh</li>
+<li>jq</li>
+<li>libpq</li>
+<li>make</li>
+<li>mysql-client</li>
+<li><a href="mailto:mysql-client@5.7">mysql-client@5.7</a></li>
+<li>openssl</li>
+<li>pwgen</li>
+<li>session-manager-plugin</li>
+<li>sqlite</li>
+<li>tree</li>
+<li>vim</li>
+<li>wget</li>
+<li>zsh</li>
+<li>zsh-autosuggestions</li>
+<li>zsh-syntax-highlighting</li>
+</ul>
+<h3 id="macos-ui-applications-from-homebrew">macOS UI Applications from Homebrew</h3>
+<ul>
+<li>firefox</li>
+<li>github</li>
+<li>google-chrome</li>
+<li>slack</li>
+<li>visual-studio-code</li>
+<li>zoom</li>
+</ul>
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+
