@@ -1,4 +1,10 @@
-# Fresh Start macOS (Apple Silicon) Setup
++++
+title = 'Fresh Start macOS (Apple Silicon) Setup'
+slug = 'fresh-start-macos-silicon'
+date = 2024-06-21T10:18:53-05:00
+draft = false
+tags = ['development', 'macos', 'dotfiles']
++++
 
 **UPDATE 2025-02-27** Replaced `asdf` for `mise`. I had some oddities pop up on the latest asdf update that I didn't have with mise and mise seems to work nicer.
 
@@ -79,12 +85,3 @@ I basically use the information from topbug.net with some revisions.
 * slack
 * visual-studio-code
 * zoom
-
----
-
-**Post Date:** 2024-06-21T10:18:53-05:00
-
-**Updated:** 2025-02-27T10:55:05-0600
-
-
-**Tags:** development, macos, dotfiles

@@ -13,7 +13,8 @@
     "vscode": {
       "extensions": [
         "budparr.language-hugo-vscode",
-        "tamasfe.even-better-toml"
+        "tamasfe.even-better-toml",
+        "yzhang.markdown-all-in-one"
       ]
     }
   }
