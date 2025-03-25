@@ -7,10 +7,10 @@
 
 ## Latest Posts
 
-* 2025-02-20 - [Simple Guide to Split Monorepo into Multiple Repositories](https://haydenk.github.io/post/2025/02/20/simple-guide-to-split-monorepo/)
-* 2025-02-15 - [Removing Hugo as a Blog](https://haydenk.github.io/post/2025/02/15/removing-hugo/)
-* 2024-07-06 - [Journey to Create a Shopify App](https://haydenk.github.io/post/2024/07/06/shopify-app-journey-part1/)
-* 2024-06-21 - [Fresh Start macOS Setup](https://haydenk.github.io/post/2024/06/21/fresh-start-macos-silicon/)
+* 2025-02-20 - [Simple Guide to Split Monorepo into Multiple Repositories](https://haydenk.blog/post/2025/02/20/simple-guide-to-split-monorepo/)
+* 2025-02-15 - [Removing Hugo as a Blog](https://haydenk.blog/post/2025/02/15/removing-hugo/)
+* 2024-07-06 - [Journey to Create a Shopify App](https://haydenk.blog/post/2024/07/06/shopify-app-journey-part1/)
+* 2024-06-21 - [Fresh Start macOS Setup](https://haydenk.blog/post/2024/06/21/fresh-start-macos-silicon/)
 
 ---
 
