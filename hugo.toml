@@ -1,4 +1,4 @@
-baseURL = 'https://haydenk.github.io/'
+baseURL = 'https:/haydenk.blog/'
 languageCode = 'en-us'
 title = 'Hayden King'
 theme = 'github.com/yihui/hugo-xmin'
