@@ -20,14 +20,28 @@ are my own.
 
 <br />
 
-{{< gist haydenk d248642fda2c49b0ba0b830c9d63d7dd routes.rb >}}
+```ruby
+# config/routes.rb
+
+get '/shopify/', :to => 'shopify#index'
+mount ShopifyApp::Engine, at: '/shopify'
+```
 
 
 The odd duck was the login url. It is not affected by the prefix for the `ShopifyApp::Engine`. It took quite a bit of digging but
 I ended up figuring out you can set the login url in the shopify app initializer.
 
 <br />
-{{< gist haydenk d248642fda2c49b0ba0b830c9d63d7dd shopify_app.rb >}}
+
+```ruby
+# config/initializers/shopify_app.rb
+
+ShopifyApp.configure do |config|
+  ...
+  config.login_url = '/shopify/login'
+  ...
+end
+```
 
 
 The javascript setup in rails has two entrypoints, one for `shopify.js` that the shopify app will load and `application.js` which is the 
@@ -37,7 +51,7 @@ I had to modify the `package.json` and `bun.config.js` to "compile" both entrypo
 
 <br />
 
-{{< highlight js >}}
+```javascript
 // bun.config.js
 
 const config = {
@@ -45,11 +59,24 @@ const config = {
     entrypoints: ["app/javascript/application.js", "app/javascript/shopify.js"],
     outdir: path.join(process.cwd(), "app/assets/builds"),
 };
-{{< / highlight >}}
+```
 
 
-<br />
-{{< gist haydenk d248642fda2c49b0ba0b830c9d63d7dd package.json >}}
+<br /><br />
+
+```json
+// package.json
+
+{
+  "scripts": {
+    "build:css:compile": "sass ./app/assets/stylesheets/application.bootstrap.scss:./app/assets/builds/application.css ./app/assets/stylesheets/shopify.scss:./app/assets/builds/shopify.css --no-source-map --load-path=node_modules",
+    "build:css:prefix": "postcss ./app/assets/builds/*.css --use=autoprefixer --dir=./app/assets/builds",
+    "build:css": "bun run build:css:compile && bun run build:css:prefix",
+    "watch:css": "nodemon --watch ./app/assets/stylesheets/ --ext scss --exec \"bun run build:css\"",
+    "build": "bun bun.config.js"
+  },
+}
+```
 
 
 Bun will work with both application.js and shopify.js while sass and postcss will handle both application.bootstrap.scss and shopify.scss. So, now I can use both polaris styles and polaris javascript with my shopify app and use something else for the rest of the application.
