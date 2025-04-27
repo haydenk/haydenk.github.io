@@ -21,3 +21,6 @@ post:
 
 today:
 	hugo new content --kind today "today/$(shell date +%s)_$(shell date +%Y%m%d).md"
+
+snippet:
+	hugo new content --kind snippet "snippet/$(slug).md"
