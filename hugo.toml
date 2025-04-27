@@ -33,6 +33,11 @@ ignoreErrors = [ "error-disable-taxonomy" ]
   weight = 12
 
 [[menus.main]]
+  name = "Snippets"
+  pageRef = "/snippet"
+  weight = 14
+
+[[menus.main]]
   name = 'About'
   pageRef = '/about'
   weight = 20
@@ -57,9 +62,11 @@ ignoreErrors = [ "error-disable-taxonomy" ]
   [permalinks.page]
     posts = '/post/:year/:month/:day/:slug/'
     today = '/today/:year-:month-:day/'
+    snippet = '/snippet/:year/:month/:day/:slug/'
   [permalinks.section]
     posts = '/post/'
     today = '/today/'
+    snippet = '/snippet/'
 
 [outputFormats]
   [outputFormats.rss]
