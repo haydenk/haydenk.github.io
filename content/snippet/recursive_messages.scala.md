@@ -2,6 +2,7 @@
 title = 'recursive_messages.scala'
 date = 2025-04-27T14:01:21Z
 type = "snippet"
+tags = ['scala']
 +++
 
 ```scala
