@@ -7,4 +7,6 @@
 |LinkedIn|https://linkedin.com/haydenking||
 |Patreon|https://patreon.com/haydenk||
 |Github|https://github.com/haydenk||
+|StackOverflow|https://stackoverflow.com/users/464467/hayden||
+|keybase|https://keybase.io/hayd3nk||
 |5 Digital Energy|https://5digitalenergy.referralrock.com/l/HAYDENKING74/|If you need electricity service for your small business, check that out!|
