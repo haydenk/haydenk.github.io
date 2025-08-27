@@ -31,6 +31,12 @@ disableKinds = ["taxonomy", "term", "section"]
     github = "https://github.com/haydenk"
 
   [[params.author.links]]
+    stack-overflow = "https://stackoverflow.com/users/464467/hayden"
+
+  [[params.author.links]]
+    keybase = "https://keybase.io/hayd3nk"
+
+  [[params.author.links]]
     [params.author.links.link]
     href = "https://5digitalenergy.referralrock.com/l/HAYDENKING74/"
     text = "Need electricity for your small business?"
