@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.148.2-extended
+      HUGO_VERSION: extended_0.148.2
     steps:
       - uses: actions/setup-go@v5
         with:
