@@ -1,0 +1,48 @@
+baseURL = 'https://haydenk.github.io/'
+languageCode = 'en-us'
+theme = "github.com/jpanther/lynx"
+title = "Hayden King"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term", "section"]
+
+[params.author]
+  name = "Hayden King"
+  image = "https://avatars.githubusercontent.com/u/81236"
+
+  [[params.author.links]]
+    [params.author.links.link]
+    href = "https://haydenk.github.io/blog/"
+    text = "Blog"
+    icon = "code"
+
+  [[params.author.links]]
+    [params.author.links.link]
+    href = "https://haydenk.github.io/isitup/"
+    text = "Is it up? - Check if server is available"
+
+  [[params.author.links]]
+    linkedin = "https://linkedin.com/haydenking"
+
+  [[params.author.links]]
+    patreon = "https://patreon.com/haydenk"
+
+  [[params.author.links]]
+    github = "https://github.com/haydenk"
+
+  [[params.author.links]]
+    [params.author.links.link]
+    href = "https://5digitalenergy.referralrock.com/l/HAYDENKING74/"
+    text = "Need electricity for your small business?"
+    icon = "plug"
+
+[outputs]
+  home = ['html']
+  page = []
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
