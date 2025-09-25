@@ -29,6 +29,9 @@ disableKinds = ["taxonomy", "term", "section"]
 
   [[params.author.links]]
     github = "https://github.com/haydenk"
+  
+  [[params.author.links]]
+    twitter = "https://x.com/__haydenk"
 
   [[params.author.links]]
     stack-overflow = "https://stackoverflow.com/users/464467/hayden"
