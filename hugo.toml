@@ -1,14 +1,15 @@
 baseURL = 'https://haydenk.github.io/blog/'
 languageCode = 'en-us'
 title = 'Hayden King'
-theme = 'github.com/haydenk/hugo-hondo'
+theme = 'github.com/athul/archie'
 disableHugoGeneratorInject = true
 disableKinds = [ "taxonomy" ]
 ignoreErrors = [ "error-disable-taxonomy" ]
+mainSections = ['posts']
 
 [module]
   [[module.imports]]
-    path = "github.com/haydenk/hugo-hondo"
+    path = "github.com/athul/archie"
 [params]
   description = "Hayden King Personal Blog"
   keywords = ['hayden', 'king', 'blog', 'software', 'development', 'aws']
