@@ -3,7 +3,6 @@
 |**Title**|**URL**|**Description**|
 |:---|:---|:---|
 |Blog|https://haydenk.github.io/blog/|My blog space. Posts about software development or life.|
-|Is it up?|https://haydenk.github.io/isitup/|Side project that checks if a particular server address is available|
 |LinkedIn|https://linkedin.com/haydenking||
 |Patreon|https://patreon.com/haydenk||
 |Github|https://github.com/haydenk||

@@ -17,11 +17,6 @@ disableKinds = ["taxonomy", "term", "section"]
     icon = "code"
 
   [[params.author.links]]
-    [params.author.links.link]
-    href = "https://haydenk.github.io/isitup/"
-    text = "Is it up? - Check if server is available"
-
-  [[params.author.links]]
     linkedin = "https://linkedin.com/haydenking"
 
   [[params.author.links]]
