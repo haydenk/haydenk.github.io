@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+#MISE description="Run local server"
+#MISE depends=["clean"]
+
+hugo server --buildDrafts --noBuildLock --cleanDestinationDir --watch
