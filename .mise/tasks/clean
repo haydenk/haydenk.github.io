@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+#MISE description="Clean up files created in build or serve"
+
+source="$MISE_PROJECT_ROOT/exampleSite"
+themeDir=`dirname $MISE_PROJECT_ROOT`
+
+[ -d "$source/public" ] && rm -rfv $source/public
+[ -f "$source/hugo_stats.json" ] && rm -rfv $source/hugo_stats.json
+[ -d "$MISE_PROJECT_ROOT/dist" ] && rm -rfv $MISE_PROJECT_ROOT/dist
+echo

@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+#MISE description="Build Hugo site"
+#MISE depends=["clean"]
+
+baseUrl="${1:-/}"
+
+hugo --gc --minify --noBuildLock --cleanDestinationDir --destination $MISE_PROJECT_ROOT/dist --baseURL $baseUrl
