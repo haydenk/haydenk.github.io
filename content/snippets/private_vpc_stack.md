@@ -4,6 +4,7 @@ date = 2025-04-27T13:45:28Z
 type = "snippet"
 tags = ['aws', 'cloudformation']
 +++
+<!--more-->
 
 ```yaml
 AWSTemplateFormatVersion: '2010-09-09'

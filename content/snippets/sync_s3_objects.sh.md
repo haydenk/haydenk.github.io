@@ -5,6 +5,7 @@ type = "snippet"
 +++
 
 This assumes you have already fetched the list of s3 objects with `aws s3api list-objects-v2` and saved the json result to files.json
+<!--more-->
 
 ```sh
 jsonFile="$HOME/files.json"

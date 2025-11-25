@@ -1,0 +1,13 @@
+{{- define "main" -}}
+
+    {{- if .Site.Params.description -}}
+    <p class="site-description">{{ .Site.Params.description }}</p>
+    {{- end -}}
+
+    {{- $posts := first (or .Site.Params.home.post_limit 5) (where .Site.RegularPages "Section" "in" .Site.MainSections) -}}
+    {{- if $posts -}}
+        <h2>Recent Posts</h2>
+        {{- partial "posts.html" (dict "context" . "posts" $posts) -}}
+        <a href="{{ "archive" | relURL }}" class="view-all">View all posts →</a>
+    {{- end -}}
+{{- end -}}

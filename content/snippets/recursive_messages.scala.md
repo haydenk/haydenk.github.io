@@ -4,6 +4,7 @@ date = 2025-04-27T14:01:21Z
 type = "snippet"
 tags = ['scala']
 +++
+<!--more-->
 
 ```scala
 class Msg(val id: Int, val parent: Option[Int], val text: String)
