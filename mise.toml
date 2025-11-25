@@ -1,3 +1,4 @@
 [tools]
+bun = "latest"
 go = "1.25.0"
-hugo = "0.148.2"
+hugo = "latest"

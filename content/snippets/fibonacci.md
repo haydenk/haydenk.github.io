@@ -4,6 +4,7 @@ date = 2025-04-27T13:36:17Z
 type = "snippet"
 tags = ['python']
 +++
+<!--more-->
 
 ```python
 def fibonacci(n: int) -> int:

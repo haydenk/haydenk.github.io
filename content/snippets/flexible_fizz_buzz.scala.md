@@ -4,6 +4,7 @@ date = 2025-04-27T14:01:01Z
 type = "snippet"
 tags = ['scala']
 +++
+<!--more-->
 
 ```scala
 def flexibleFizzBuzz(start: Int, end: Int) (callback: String => Unit): Unit = {

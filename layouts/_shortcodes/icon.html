@@ -1,0 +1,3 @@
+{{- /* Get arguments. */}}
+{{- $name := or ($.Get "name") $name }}
+<i class="ti-{{ $name }}"></i>

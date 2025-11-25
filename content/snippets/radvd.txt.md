@@ -5,6 +5,7 @@ type = "snippet"
 +++
 
 This helps pihole to be the authority for ipv6 dhcpcd
+<!--more-->
 
 ```text
 interface eth0 {

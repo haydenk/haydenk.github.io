@@ -5,6 +5,7 @@ type = "snippet"
 tags = ['aws', 'cloudformation']
 +++
 
+<!--more-->
 ```yaml
 AWSTemplateFormatVersion: '2010-09-09'
 Description: DNS Host Management
