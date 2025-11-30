@@ -1,5 +1,5 @@
 +++
-title = 'Evidence of the Unseen Realm '
+title = 'Evidence of the Unseen Realm'
 slug = 'evidence-of-the-unseen-realm'
 date = '2025-11-22T16:30:00-05:00'
 draft = false
