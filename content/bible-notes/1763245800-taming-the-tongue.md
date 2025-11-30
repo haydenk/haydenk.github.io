@@ -51,9 +51,7 @@ James 3:1–13; James 1:19; James 4:7; Galatians 6:1; Proverbs 10:21; Proverbs 1
 4. When correction is needed, ensure the Holy Spirit’s prompting, speak in love (Gal 6:1), and consider tone/medium.  
 5. Memorize or revisit key Proverbs on speech to reshape reflexive patterns.  
 
-## Prayer / Intercession Items  
-– Kurt King: strength and comfort while caring for his terminally ill mother in Arizona.  
-– Lance: perseverance through a difficult personal season.  
+## Prayer / Intercession Items
 – Collective petition for Holy Spirit control over tongues; desire to reflect Christ in every word.
 
 ---
