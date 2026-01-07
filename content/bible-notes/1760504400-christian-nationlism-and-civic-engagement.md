@@ -1,7 +1,7 @@
 +++
 title = 'Christian Nationalism & Civic Engagement'
 slug = 'christian-nationlism-and-civic-engagement'
-date = '2025-10-15T00:00:00-05:00'
+date = 2025-10-15T00:00:00-05:00
 draft = false
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
@@ -17,10 +17,10 @@ Jeremiah 29:4–7; Matthew 28:18–20; Matthew 5:13–16; Psalm 33:12; Proverbs 
 ## Key Points  
 - “Christian nationalism” (rightly defined) = Christians wanting the moral, cultural, and political life of their nation shaped by explicitly Christian principles.  
 - It does NOT mean:  
-  • equating America with the Kingdom of God  
-  • forced conversion or a state-controlled church  
-  • overturning the U.S. Constitution  
-  • ignoring historic sins or refusing to repent of them.  
+  - equating America with the Kingdom of God  
+  - forced conversion or a state-controlled church  
+  - overturning the U.S. Constitution  
+  - ignoring historic sins or refusing to repent of them.  
 - Three governmental spans exist: tribalism, nationalism, globalism. Scripture depicts God affirming nations (Acts 17:26) while Babel (Gen 11) and the final Antichrist model globalism.  
 - Power is morally neutral; its righteousness depends on who wields it (Prov 29:2). If godly people avoid power, the godless fill the vacuum.  
 - Early America was overtly Christian: congressional prayers in Jesus’ name, Bible-based public-school curricula, the Aitken Bible funded by Congress, Sabbath and blasphemy laws, etc.  

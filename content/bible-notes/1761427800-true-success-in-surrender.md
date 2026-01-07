@@ -1,7 +1,7 @@
 +++
 title = 'True Success in Surrender'
 slug = 'true-success-in-surrender'
-date = '2025-10-25T16:30:00-05:00'
+date = 2025-10-25T16:30:00-05:00
 draft = false
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
@@ -31,8 +31,8 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 ### 2. An Unnamed Servant Girl: Faithful in Captivity  
 - Captured Israeli teen suggests Naaman visit the prophet Elisha (v. 3).  
 - Demonstrates:  
-  • Kingdom influence is not bound by circumstance or status.  
-  • God often advances His plans through overlooked, ordinary obedience.  
+  - Kingdom influence is not bound by circumstance or status.  
+  - God often advances His plans through overlooked, ordinary obedience.  
 
 ### 3. The Clash of Expectations  
 - Naaman arrives with (a) a royal letter and (b) ~\$7.5 million in gifts, assuming healing can be bought.  
@@ -48,9 +48,9 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 ### 5. The Jordan Decision: Practicality vs. Simplicity  
 - Command sounds illogical and too easy, mirroring the scandal of the gospel.  
 - Parallel drawn:  
-  • Our “spiritual leprosy” = sin.  
-  • Only Christ’s cross and resurrection cleanse (Romans 6:23).  
-  • Many stumble because grace feels “too simple.”
+  - Our “spiritual leprosy” = sin.  
+  - Only Christ’s cross and resurrection cleanse (Romans 6:23).  
+  - Many stumble because grace feels “too simple.”
 
 ### 6. True Success = Surrender  
 - Naaman finally obeys, is healed, and confesses, “Now I know there is no God in all the earth except in Israel” (v. 15).  

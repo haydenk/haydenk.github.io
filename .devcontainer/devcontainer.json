@@ -1,21 +1,34 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/base:dev-noble",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/devcontainers/features/common-utils:2": {
-      "configureZshAsDefaultShell": true
+      "installZsh": "true",
+      "username": "vscode",
+      "configureZshAsDefaultShell": true,
+      "userUid": "1000",
+      "userGid": "1000",
+      "upgradePackages": "true"
     },
-    "ghcr.io/devcontainers-extra/features/fish-apt-get:1": {},
-    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/git:1": {
+      "version": "latest",
+      "ppa": "false"
+    },
     "ghcr.io/devcontainers/features/github-cli:1": {},
-    "ghcr.io/devcontainers/features/hugo:1": {},
-    "ghcr.io/devcontainers/features/go:1": {}
+    "ghcr.io/devcontainers-extra/features/mise:1": {}
   },
   "customizations": {
     "vscode": {
       "extensions": [
+        "hverlin.mise-vscode",
         "budparr.language-hugo-vscode",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
         "tamasfe.even-better-toml",
-        "yzhang.markdown-all-in-one"
+        "redhat.vscode-yaml",
+        "ecmel.vscode-html-css",
+        "bradlc.vscode-tailwindcss",
+        "dbaeumer.vscode-eslint",
+        "golang.go"
       ]
     }
   }

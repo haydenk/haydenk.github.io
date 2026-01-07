@@ -1,20 +1,22 @@
 baseURL = 'https://www.haydenk.blog/'
 languageCode = 'en-us'
 title = 'Hayden King'
-theme = ['hugo-plain']
+theme = 'github.com/haydenk/hugo-cayman'
 disableHugoGeneratorInject = true
 ignoreErrors = [ "error-disable-taxonomy" ]
 enableEmoji = true
 canonifyURLs = true
 enableRobotsTXT = true
-mainSections = ['posts', 'bible-notes']
+mainSections = ['posts']
 
 [module]
   [[module.imports]]
-    path = "github.com/gethugothemes/hugo-modules/icons/themify-icons"
+    path = "github.com/haydenk/hugo-cayman"
 
 [params]
   keywords = ['hayden', 'king', 'blog', 'software', 'development', 'aws']
+  [params.home]
+      post_limit = 20
   [[params.plugins.css]]
     link = "plugins/themify-icons/icons.css"
 
@@ -27,12 +29,17 @@ mainSections = ['posts', 'bible-notes']
   [[menus.main]]
     name = "Tags"
     pageRef = "/tags"
-    weight = 13
+    weight = 15
 
   [[menus.main]]
     name = "Snippets"
     pageRef = "/snippets"
     weight = 12
+
+  [[menus.main]]
+    name = "Bible Notes"
+    pageRef = "/bible-notes"
+    weight = 13
 
   [[menus.main]]
     name = "Archive"

@@ -1,4 +1,0 @@
-[tools]
-bun = "latest"
-go = "1.25.0"
-hugo = "latest"
