@@ -1,7 +1,7 @@
 +++
 title = 'Righteousness, Self-Control & the Judgment to Come'
 slug = 'righteousness-self-control-judgement-to-come'
-date = '2025-11-15T16:30:00-05:00'
+date = 2025-11-15T16:30:00-05:00
 draft = false
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
@@ -21,7 +21,7 @@ Acts 22–24; Proverbs 25:28; 1 Thessalonians 4:3–5; 1 Corinthians 7:3–5; Ro
 
 ### 1. Righteousness: Achieved or Received?  
 - Every world religion & secular philosophy views righteousness as something to earn; Christianity alone sees it as a gift to receive.  
-    • Islam: Five Pillars; Buddhism: Eightfold Path; Mormonism: obedience for salvation; secular humanism: activism & virtue signaling.  
+    - Islam: Five Pillars; Buddhism: Eightfold Path; Mormonism: obedience for salvation; secular humanism: activism & virtue signaling.  
 - Romans says “There is no one righteous, not even one.”  
 - Ten-Commandment “pop quiz” demonstrates universal guilt (adultery, murder in the heart, theft, lying).  
 - Two possible paths:  
@@ -33,8 +33,8 @@ Acts 22–24; Proverbs 25:28; 1 Thessalonians 4:3–5; 1 Corinthians 7:3–5; Ro
 - Principle: most destructive sins flow from lack of self-control (gluttony, addiction, gossip, greed, wrath).  
 - Proverbs 25:28—person without self-control is a city with broken walls.  
 - Specific cultural application:  
-    • Singles: any sex outside covenant marriage = porneia (1 Thess 4).  
-    • Marrieds: commanded not to deprive one another (1 Cor 7), yet many neglect intimacy.  
+    - Singles: any sex outside covenant marriage = porneia (1 Thess 4).  
+    - Marrieds: commanded not to deprive one another (1 Cor 7), yet many neglect intimacy.  
 - Bodies belong to Christ (Rom 12:1); believers must “learn to control” desires, not be ruled by them.
 
 ### 3. The Judgment to Come  
@@ -43,8 +43,8 @@ Acts 22–24; Proverbs 25:28; 1 Thessalonians 4:3–5; 1 Corinthians 7:3–5; Ro
     1. Jesus Himself is Judge (John 5:22).  
     2. Everyone will face judgment (Heb 9:27; Rom 14:10).  
     3. Two distinct judgments:  
-        • Great White Throne—condemnation for unbelievers.  
-        • Bema Seat—commendation & rewards for believers (Matt 16:27).  
+        - Great White Throne—condemnation for unbelievers.  
+        - Bema Seat—commendation & rewards for believers (Matt 16:27).  
     4. Christ’s return is certain and could interrupt ordinary life (Matt 24:37-39).  
 - Historical prophecies already fulfilled (nation of Israel, Messiah’s virgin birth, 1948 statehood) assure future ones will also occur—Jesus will return.
 

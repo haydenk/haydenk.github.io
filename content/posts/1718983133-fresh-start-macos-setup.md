@@ -18,14 +18,15 @@ from the project site. I will only include nuances that I may do different or in
 
 <!--more-->
 
-### App List:
-* Homebrew - [https://brew.sh]()
-* oh-my-zsh - [https://ohmyz.sh]()
-* Docker - [https://docs.docker.com/desktop/install/mac-install/]()
-* My dotfiles - [https://github.com/haydenk/dotfiles]()
-* asdf - [https://asdf-vm.com]()
-* 1Password - [https://1password.com]()
-* MonitorControl - [https://github.com/MonitorControl/MonitorControl]()
+### App List
+
+* Homebrew - <https://brew.sh>
+* oh-my-zsh - <https://ohmyz.sh>
+* Docker - <https://docs.docker.com/desktop/install/mac-install/>
+* My dotfiles - <https://github.com/haydenk/dotfiles>
+* asdf - <https://asdf-vm.com>
+* 1Password - <https://1password.com>
+* MonitorControl - <https://github.com/MonitorControl/MonitorControl>
 
 First thing first, `xcode-select --install`, we want to install the Command Line Tools to get some basic packages installed. More specifically,
 we want git installed so we can clone Homebrew, oh-my-zsh, and the dotfiles.
@@ -38,9 +39,10 @@ Homebrew, oh-my-zsh, and dotfiles are the first to be installed. There is no par
 
 I basically use the information from topbug.net with some revisions.
 
-* [https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/]()
+* <https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/>
 
 ### Homebrew Packages
+
 * ansible
 * ~~asdf~~
 * awscli
@@ -79,6 +81,7 @@ I basically use the information from topbug.net with some revisions.
 * zsh-syntax-highlighting
 
 ### macOS UI Applications from Homebrew
+
 * firefox
 * github
 * google-chrome

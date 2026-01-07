@@ -1,0 +1,6 @@
+[env]
+MISE_ENV_FILE = ".env"
+
+[tools]
+go = "latest"
+hugo = "latest"

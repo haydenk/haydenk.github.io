@@ -1,7 +1,7 @@
 +++
 title = 'Freedom from Loneliness'
 slug = 'freedom-from-loneliness'
-date = '2025-11-29T20:33:06-06:00'
+date = 2025-11-29T20:33:06-06:00
 draft = false
 tags = ['glad-tidings-we-bring', 'sermon', 'lakepointe']
 +++
@@ -59,9 +59,9 @@ Luke 2:10; Genesis 2:18; Genesis 1–2; Ecclesiastes 4:8–12; 2 Timothy 4:16–
 - Conduct a relational inventory; list names that stir resentment and verbally release forgiveness.  
 - Set daily reminders of God’s presence—read Matthew 1:23 each morning, pray “Thank You that You are with me.”  
 - Identify at least one lonely person (elderly neighbor, single coworker, estranged family member) and:  
-  • initiate a visit or call this week,  
-  • invite them to a Christmas service,  
-  • serve a practical need (meal, ride, small gift).  
+  - initiate a visit or call this week,  
+  - invite them to a Christmas service,  
+  - serve a practical need (meal, ride, small gift).  
 - Join or host a small group to embed yourself in ongoing Christian community.  
 
 ## Conclusion & Call to Response  

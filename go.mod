@@ -1,7 +1,5 @@
-module github.com/haydenk/haydenk
+module github.com/haydenk/haydenk.github.io
 
 go 1.24.0
 
-require (
-	github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20251117073232-ef5b4666824c // indirect
-)
+require github.com/haydenk/hugo-cayman v0.0.0-20260107020015-125c9e4093b6 // indirect

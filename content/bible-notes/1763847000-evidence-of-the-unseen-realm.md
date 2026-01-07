@@ -1,7 +1,7 @@
 +++
 title = 'Evidence of the Unseen Realm'
 slug = 'evidence-of-the-unseen-realm'
-date = '2025-11-22T16:30:00-05:00'
+date = 2025-11-22T16:30:00-05:00
 draft = false
 tags = ['seeing-the-supernatural', 'sermon', 'lakepointe']
 +++
@@ -26,17 +26,17 @@ The speaker—an investigative journalist and former skeptic—opens with a humo
 - Biblical prototype: Stephen (Acts 7) sees Jesus as he is stoned.  
 - Hospice study: 88 % of dying patients reported vivid pre-death visions; researchers found them “the most awake, alert, and present” moments of life.  
 - Corroborated cases:  
-  • Doris sees deceased sister Vida—unknown to her—minutes before dying.  
-  • Charles Templeton (former atheist evangelist) describes angels with “beautiful eyes” calling him home.  
+  - Doris sees deceased sister Vida—unknown to her—minutes before dying.  
+  - Charles Templeton (former atheist evangelist) describes angels with “beautiful eyes” calling him home.  
 - Children’s accounts lack cultural angelic clichés (e.g., wings), suggesting authenticity over imagination.
 
 ### 3. Near-Death Experiences (NDEs) Supply Empirical Corroboration  
 - Distinct from deathbed visions: victims are clinically dead (no heartbeat/brain waves) then revived.  
 - 900+ scholarly papers span 40 years; no naturalistic theory explains verified perceptions.  
 - Evidential cases:  
-  • “Mary” describes a hidden red sticker atop a ceiling-fan blade during resuscitation—later confirmed by nurses.  
-  • Drowned girl recounts detailed family activities while comatose for three days.  
-  • Study of 21 blind people—many blind from birth—report accurate visual perceptions during NDEs; medically inexplicable.  
+  - “Mary” describes a hidden red sticker atop a ceiling-fan blade during resuscitation—later confirmed by nurses.  
+  - Drowned girl recounts detailed family activities while comatose for three days.  
+  - Study of 21 blind people—many blind from birth—report accurate visual perceptions during NDEs; medically inexplicable.  
 - Pastor-researcher John Burke identifies 100 % consistency between core NDE events and biblical teaching; another scholar lists 47 specific parallels.
 
 ### 4. Contemporary Angelic Encounters  
@@ -46,8 +46,8 @@ The speaker—an investigative journalist and former skeptic—opens with a humo
 ### 5. Dreams and Visions Leading Muslims to Christ  
 - Roughly one-third of recent Muslim converts report pre-conversion dreams of Jesus—an unprecedented phenomenon.  
 - Case studies:  
-  • Noor, Cairo mother of eight, dreams of Jesus by a lake; next day meets the man indicated in the dream who explains the gospel.  
-  • Omar, extremist-minded youth, is intercepted by a vision of Christ en route to join Hamas; redirected, discipled by Christian neighbors, now an underground church planter.  
+  - Noor, Cairo mother of eight, dreams of Jesus by a lake; next day meets the man indicated in the dream who explains the gospel.  
+  - Omar, extremist-minded youth, is intercepted by a vision of Christ en route to join Hamas; redirected, discipled by Christian neighbors, now an underground church planter.  
 - Expert Tom Doyle documents numerous parallel stories across borders, underscoring global consistency.
 
 ### 6. Sobering Reality of Negative Spiritual Encounters  

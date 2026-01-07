@@ -1,7 +1,7 @@
 +++
 title = 'Passing the Baton: Running the Relay of Faith'
 slug = 'passing-the-baton'
-date = '2025-11-08T16:30:00-05:00'
+date = 2025-11-08T16:30:00-05:00
 draft = false
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
@@ -25,9 +25,9 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 ### 1. The Christian Life Is a Relay Race  
 - Hebrews 12:1–2 links believers to the “great cloud of witnesses” (Heb 11).  
 - Analogy progression:  
-  • Sprint = initial zeal (energy fades).  
-  • Marathon = long-term rhythms (helpful but incomplete).  
-  • Relay = success hinges on the baton pass.  
+  - Sprint = initial zeal (energy fades).  
+  - Marathon = long-term rhythms (helpful but incomplete).  
+  - Relay = success hinges on the baton pass.  
 - Olympic 4×100 illustration (Tokyo 2021): U.S. team lost despite fastest runners; failure occurred in the exchange zone.  
 - Spiritual exchange zone: the unbroken transfer of the gospel from the apostles to today’s church.
 
@@ -48,16 +48,16 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 - Judges 2:7–10—tragic failure when one generation doesn’t pass on what it has “seen.”  
 - Gospel is always one generation from extinction; complacency is dangerous even in seasons of growth.  
 - Biblical model of multigenerational transfer: Abraham → Isaac → Jacob.  
-  • Abraham: first believer in family, a “blessed mess,” but changed the family tree.  
-  • Isaac: did “a little better”—one wife, prayed, trusted God.  
-  • Jacob: walked intimately with God; father of the 12 tribes.  
-  • Principle: each generation’s ceiling becomes the next generation’s floor.  
+  - Abraham: first believer in family, a “blessed mess,” but changed the family tree.  
+  - Isaac: did “a little better”—one wife, prayed, trusted God.  
+  - Jacob: walked intimately with God; father of the 12 tribes.  
+  - Principle: each generation’s ceiling becomes the next generation’s floor.  
 - Societal commentary: culture dismantles fatherhood and expects government to fill the gap; church must raise strong spiritual mothers and fathers.  
 - Pastor’s testimony:  
-  • Grandfather Jerry—saved late, first college graduate at 50, small-church pastor.  
-  • Father Rick—encourager, seminary-trained, church planter.  
-  • Josh—beneficiary of 80 years of accumulated ministry experience at 35, now leading Lake Pointe.  
-  • Illustration of baton successfully passed.
+  - Grandfather Jerry—saved late, first college graduate at 50, small-church pastor.  
+  - Father Rick—encourager, seminary-trained, church planter.  
+  - Josh—beneficiary of 80 years of accumulated ministry experience at 35, now leading Lake Pointe.  
+  - Illustration of baton successfully passed.
 
 ## Major Lessons & Revelations  
 - God sovereignly places believers in a particular time with specific gifts to advance His kingdom.  

@@ -1,2 +1,4 @@
-github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20251117073232-ef5b4666824c h1:jhTkDeiUDQ2872SzH2BXtcTN3cDqKON/iTkpcFEw/ck=
-github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20251117073232-ef5b4666824c/go.mod h1:hWopv9exSUsFbNUzWemaFvPdyPay0lrqTMHkJXi4n+Y=
+github.com/haydenk/hugo-cayman v0.0.0-20260106135746-62afb946a448 h1:zIqbrXfQYEAFNFli9RYizdS+/YWeevx7FPhZtVv7UG0=
+github.com/haydenk/hugo-cayman v0.0.0-20260106135746-62afb946a448/go.mod h1:dEZ6kQ9aB+2eyqx41zT1HVrP7B6bzsTWD3KG5+Rf/Ig=
+github.com/haydenk/hugo-cayman v0.0.0-20260107020015-125c9e4093b6 h1:9ndw8qggWIpu2r5BZ28VC4PXjXNu2ERdBU2zm7cTOoQ=
+github.com/haydenk/hugo-cayman v0.0.0-20260107020015-125c9e4093b6/go.mod h1:dEZ6kQ9aB+2eyqx41zT1HVrP7B6bzsTWD3KG5+Rf/Ig=

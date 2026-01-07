@@ -1,15 +1,15 @@
 +++
 title = 'Is President Trump Saved?!'
 slug = 'is-president-trump-saved'
-date = '2025-10-20T00:00:00-05:00'
+date = 2025-10-20T00:00:00-05:00
 draft = false
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
-• Pastors Josh Howerton, Carlos Rosas, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
-• CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
-• Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
+- Pastors Josh Howerton, Carlos Rosas, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
+- CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
+- Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
 
 <!--more-->
 
@@ -28,8 +28,8 @@ tags = ['live-free', 'podcast', 'lakepointe']
 - Absence of God in a culture elevates government to “god-status.”  
 - Death is certain; Satan’s ancient lie “you will not surely die” keeps people from preparing for judgment (Heb 9:27).  
 - Two judgments for humanity:  
-  • Believers – commendation/rewards (Bēma seat).  
-  • Unbelievers – condemnation (Great White Throne).  
+  - Believers – commendation/rewards (Bēma seat).  
+  - Unbelievers – condemnation (Great White Throne).  
 - Scripture teaches varying degrees of reward in heaven (1 Cor 3:12-15) and punishment in hell (Luke 12:47-48; Matt 11:21-24).  
 - Christians run a unique, God-marked race; comparison distracts (illustrated by Michael Phelps photo).  
 - Athletic metaphors dominate the New Testament because discipline, focus, and sacrifice mirror discipleship.  
@@ -41,8 +41,8 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ## Theological / Exegetical Points  
 1. Judgment Frameworks  
-   • Dispensational view: multiple end-time judgments (Bēma after rapture; national, sheep-goats, Great White Throne).  
-   • Covenant view: single final judgment with distinct outcomes for believers/unbelievers.  
+   - Dispensational view: multiple end-time judgments (Bēma after rapture; national, sheep-goats, Great White Throne).  
+   - Covenant view: single final judgment with distinct outcomes for believers/unbelievers.  
 2. Degrees of Accountability – Luke 12:47-48  
    “That servant who knew his master’s will…will receive a severe beating, but the one who did not know…will receive a light beating. Everyone to whom much was given, of him much will be required.”  
 3. National Light & Responsibility – Matthew 11:21-24  
