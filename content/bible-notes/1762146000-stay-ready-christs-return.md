@@ -15,8 +15,32 @@ A free-flowing discussion (Carlos Razer, Ps. Josh Howerton, Ps. Paul, and team) 
 
 <!--more-->
 
-## Scripture References  
-Acts 1; Psalm 22; Isaiah 5:20; Isaiah 66:7-9; Ezekiel 44:1-3; Zechariah 14:3-5; Daniel 12:4; Matthew 24:14; Matthew 25:40; John 16:2; 1 Corinthians 2:7-8; 1 Timothy 5:8; 2 Thessalonians 2; 2 Thessalonians 3:10; Romans 13; James 2; 2 Peter 3; Revelation 11; Revelation 13:3, 5-6, 16-18; Revelation 20:4; Revelation 21–22; Genesis 1–3
+## Scripture References
+
+* Acts 1
+* Psalm 22
+* Isaiah 5:20
+* Isaiah 66:7-9
+* Ezekiel 44:1-3
+* Zechariah 14:3-5
+* Daniel 12:4
+* Matthew 24:14
+* Matthew 25:40
+* John 16:2
+* 1 Corinthians 2:7-8
+* 1 Timothy 5:8
+* 2 Thessalonians 2
+* 2 Thessalonians 3:10
+* Romans 13
+* James 2
+* 2 Peter 3
+* Revelation 11
+* Revelation 13:3
+* Revelation 13:5-6
+* Revelation 13:16-18
+* Revelation 20:4
+* Revelation 21–22
+* Genesis 1–3
 
 ## Key Points  
 - The church proclaims God’s word and functions as society’s moral conscience.  
@@ -71,5 +95,4 @@ Acts 1; Psalm 22; Isaiah 5:20; Isaiah 66:7-9; Ezekiel 44:1-3; Zechariah 14:3-5; 
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

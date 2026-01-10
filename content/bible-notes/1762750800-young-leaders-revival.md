@@ -57,5 +57,4 @@ From Hebrews 12’s call to run unencumbered to the cultural upheavals of 2023, 
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

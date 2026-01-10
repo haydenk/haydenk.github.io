@@ -16,7 +16,13 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 ## Scripture Reference(s)
 
-Acts 23; Acts 24; 2 Timothy 1:7; Joshua 1:9; Proverbs 6:32; Proverbs 29:25; 1 Corinthians 15:55  
+* Acts 23
+* Acts 24
+* 2 Timothy 1:7
+* Joshua 1:9
+* Proverbs 6:32
+* Proverbs 29:25
+* 1 Corinthians 15:55  
 
 ## Key Points / Exposition  
 
@@ -95,5 +101,4 @@ Jesus’ whispered assurance—“Take courage, I’m not done with you”—is 
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

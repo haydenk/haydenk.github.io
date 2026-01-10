@@ -14,8 +14,18 @@ tags = ['glad-tidings-we-bring', 'sermon', 'lakepointe']
 
 <!--more-->
 
-## Scripture References  
-Luke 2:10; Genesis 2:18; Genesis 1–2; Ecclesiastes 4:8–12; 2 Timothy 4:16–17; Matthew 1:23; Hebrews 13:5; 2 Corinthians 2:10–11; James 3:14–15; Ephesians 4:26–27  
+## Scripture References
+
+* Luke 2:10
+* Genesis 2:18
+* Genesis 1–2
+* Ecclesiastes 4:8–12
+* 2 Timothy 4:16–17
+* Matthew 1:23
+* Hebrews 13:5
+* 2 Corinthians 2:10–11
+* James 3:14–15
+* Ephesians 4:26–27  
 
 ## Key Points / Exposition  
 
@@ -79,5 +89,4 @@ Christ’s birth heralds glad tidings for “all people,” including the lonely
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

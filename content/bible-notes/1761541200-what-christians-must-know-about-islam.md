@@ -11,8 +11,22 @@ The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pri
 
 <!--more-->
 
-## Scripture References  
-2 Kings 5; Matthew 18:3; Isaiah 65:5; Romans 10:9; John 3:16; 1 Corinthians 8; Romans 14; Galatians 1:8; John 16:2; 1 Timothy 2:5–6; Revelation 20:4; Ephesians 5:11; 1 John 4:1; Matthew 5:14
+## Scripture References
+
+* 2 Kings 5
+* Matthew 18:3
+* Isaiah 65:5
+* Romans 10:9
+* John 3:16
+* 1 Corinthians 8
+* Romans 14
+* Galatians 1:8
+* John 16:2
+* 1 Timothy 2:5–6
+* Revelation 20:4
+* Ephesians 5:11
+* 1 John 4:1
+* Matthew 5:14
 
 ## Key Points  
 - Archaeological find (Assyrian cuneiform, ca. 700 BC) reinforces biblical history—“The Bible really happened.”  
@@ -81,5 +95,4 @@ The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pri
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

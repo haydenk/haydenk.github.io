@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A5568;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#2D3748;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667EEA;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#764BA2;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="500" height="100" rx="8" fill="url(#grad1)"/>
+  <rect width="6" height="100" rx="3" fill="url(#grad2)"/>
+
+  <rect x="25" y="25" width="40" height="50" rx="2" fill="#8B7355" stroke="#6B5745" stroke-width="1.5"/>
+  <rect x="28" y="28" width="34" height="44" rx="1" fill="#A0826D"/>
+
+  <line x1="45" y1="33" x2="45" y2="67" stroke="#6B5745" stroke-width="1"/>
+  <line x1="33" y1="40" x2="57" y2="40" stroke="#6B5745" stroke-width="0.5" opacity="0.5"/>
+  <line x1="33" y1="47" x2="57" y2="47" stroke="#6B5745" stroke-width="0.5" opacity="0.5"/>
+  <line x1="33" y1="54" x2="57" y2="54" stroke="#6B5745" stroke-width="0.5" opacity="0.5"/>
+  <line x1="33" y1="61" x2="57" y2="61" stroke="#6B5745" stroke-width="0.5" opacity="0.5"/>
+
+  <line x1="45" y1="37" x2="45" y2="44" stroke="#FFD700" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="41.5" y1="40.5" x2="48.5" y2="40.5" stroke="#FFD700" stroke-width="1.8" stroke-linecap="round"/>
+
+  <rect x="75" y="45" width="6" height="25" rx="0.5" fill="#FFA500" transform="rotate(-45 78 57.5)"/>
+  <polygon points="75,50 81,50 78,43" fill="#FFD700" transform="rotate(-45 78 46.5)"/>
+  <rect x="75" y="67" width="6" height="3" fill="#E91E63" transform="rotate(-45 78 68.5)"/>
+
+  <text x="105" y="48" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">
+    Bible Note Taker &amp; Recorder
+  </text>
+
+  <text x="105" y="68" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#CBD5E0">
+    Deepen Your Study, Strengthen Your Walk
+  </text>
+
+  <rect x="385" y="35" width="100" height="32" rx="6" fill="#000000"/>
+
+  <circle cx="398" cy="51" r="8" fill="#FFFFFF"/>
+  <path d="M 398 47 L 398 43 M 398 43 Q 398 41 396 41 M 396 41 Q 394 41 394 43" stroke="#000000" stroke-width="1.5" fill="none"/>
+
+  <text x="412" y="46" font-family="system-ui, -apple-system, sans-serif" font-size="7" fill="#FFFFFF">
+    Download on the
+  </text>
+  <text x="412" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">
+    App Store
+  </text>
+</svg>

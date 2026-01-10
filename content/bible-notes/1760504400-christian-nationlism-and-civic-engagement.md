@@ -11,8 +11,16 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
 
 <!--more-->
 
-## Scripture Reference(s)  
-Jeremiah 29:4–7; Matthew 28:18–20; Matthew 5:13–16; Psalm 33:12; Proverbs 29:2; Romans 13:1–4; Colossians 2:15; 2 Thessalonians 3:6–12  
+## Scripture Reference(s)
+
+* Jeremiah 29:4–7
+* Matthew 28:18–20
+* Matthew 5:13–16
+* Psalm 33:12
+* Proverbs 29:2
+* Romans 13:1–4
+* Colossians 2:15
+* 2 Thessalonians 3:6–12  
 
 ## Key Points  
 - “Christian nationalism” (rightly defined) = Christians wanting the moral, cultural, and political life of their nation shaped by explicitly Christian principles.  
@@ -90,5 +98,4 @@ Jeremiah 29:4–7; Matthew 28:18–20; Matthew 5:13–16; Psalm 33:12; Proverbs 
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

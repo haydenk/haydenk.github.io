@@ -11,8 +11,15 @@ The speaker—an investigative journalist and former skeptic—opens with a humo
 
 <!--more-->
 
-## Scripture References  
-2 Kings 6:15-17; Acts 7; Luke 16; Hebrews 1:14; Hebrews 13:2; Hebrews 9:27; 1 John 5:13
+## Scripture References
+
+* 2 Kings 6:15-17
+* Acts 7
+* Luke 16
+* Hebrews 1:14
+* Hebrews 13:2
+* Hebrews 9:27
+* 1 John 5:13
 
 ## Key Points / Exposition  
 
@@ -85,5 +92,4 @@ A corporate prayer thanks Jesus for His sacrificial love, asks Him to seal decis
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

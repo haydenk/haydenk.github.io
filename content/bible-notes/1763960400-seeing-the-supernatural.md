@@ -15,8 +15,25 @@ The conversation centers on the unseen realm—angels, demons, territorial spiri
 - Setting: Deliver Free Podcast, Lake Pointe Church, Dallas, TX  
 - Leaders / Voices: Pastor Josh Howerton, Paul Cunningham, host Carlos Arazzo  
 
-## Scripture References  
-2 Kings 6; Numbers 2; Deuteronomy 32:8; Job 38:7; Judges 5:20; Daniel 8:10; Daniel 10; Ezekiel 28:12–17; Mark 5:10; Galatians 1:8; Ephesians 1:18; Ephesians 2:2; Colossians 2:15; Revelation 1:20; Revelation 4; Revelation 12:3–9; 1 John 4:4  
+## Scripture References
+
+* 2 Kings 6
+* Numbers 2
+* Deuteronomy 32:8
+* Job 38:7
+* Judges 5:20
+* Daniel 8:10
+* Daniel 10
+* Ezekiel 28:12–17
+* Mark 5:10
+* Galatians 1:8
+* Ephesians 1:18
+* Ephesians 2:2
+* Colossians 2:15
+* Revelation 1:20
+* Revelation 4
+* Revelation 12:3–9
+* 1 John 4:4  
 
 ## Key Points  
 - One reality, two realms: a visible physical realm and an invisible spiritual realm (2 Kings 6; Ephesians 1:18).  
@@ -62,5 +79,4 @@ The conversation centers on the unseen realm—angels, demons, territorial spiri
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

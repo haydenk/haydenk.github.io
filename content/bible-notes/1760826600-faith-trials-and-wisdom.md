@@ -13,8 +13,16 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 
 <!--more-->
 
-## Scripture Reference(s)  
-James 1:1-12; James 2:14-26 • Romans 3:28 • Ephesians 2:8-9 • Acts 12; 14 • Luke 23:39-43 • Matthew 5–7
+## Scripture Reference(s)
+
+* James 1:1-12
+* James 2:14-26
+* Romans 3:28
+* Ephesians 2:8-9
+* Acts 12
+* Acts 14
+* Luke 23:39-43
+* Matthew 5–7
 
 ## Key Points  
 1. Authorship & Audience  
@@ -63,5 +71,4 @@ James 1:1-12; James 2:14-26 • Romans 3:28 • Ephesians 2:8-9 • Acts 12; 14 
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

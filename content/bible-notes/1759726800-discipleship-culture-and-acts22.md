@@ -14,9 +14,20 @@ Hosts Carlos Sarazin, Pastor Josh Howerton, and Pastor Paul Cunningham review Ca
 
 ## Scripture Reference(s)
 
-* Acts 21; Acts 22; Acts 7; Matthew 18:6; Matthew 19:14; Matthew 28:19–20; Matthew 5:20  
-* Luke 15:11–32; John 8:32; Ephesians 2:1–10; Romans 8:29  
-* 1 Corinthians 16:13–14; 2 Corinthians 4:4; 2 Corinthians 10:5  
+* Acts 21
+* Acts 22
+* Acts 7
+* Matthew 18:6
+* Matthew 19:14
+* Matthew 28:19–20
+* Matthew 5:20
+* Luke 15:11–32
+* John 8:32
+* Ephesians 2:1–10
+* Romans 8:29
+* 1 Corinthians 16:13–14
+* 2 Corinthians 4:4
+* 2 Corinthians 10:5
 * Genesis 12:2–3  
 
 ## Key Points
@@ -67,5 +78,4 @@ Hosts Carlos Sarazin, Pastor Josh Howerton, and Pastor Paul Cunningham review Ca
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
