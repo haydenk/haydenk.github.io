@@ -13,8 +13,19 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 <!--more-->
 
-## Scripture References  
-1 Corinthians 9:24–27; Hebrews 12:1–2; Hebrews 9:27; Romans 2:12; Luke 12:47–48; Matthew 11:21–24; Ephesians 2:8–9; Romans 5:3–5; James 1:2–4; Galatians 6:14; Romans 8:15  
+## Scripture References
+
+* 1 Corinthians 9:24–27
+* Hebrews 12:1–2
+* Hebrews 9:27
+* Romans 2:12
+* Luke 12:47–48
+* Matthew 11:21–24
+* Ephesians 2:8–9
+* Romans 5:3–5
+* James 1:2–4
+* Galatians 6:14
+* Romans 8:15  
 
 > 1 Corinthians 9:24–27  
 > “Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable. So I do not run aimlessly; I do not box as one beating the air. But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified.”  
@@ -82,5 +93,4 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

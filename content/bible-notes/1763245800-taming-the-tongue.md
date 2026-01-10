@@ -12,8 +12,17 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 
 <!--more-->
 
-## Scripture References  
-James 3:1–13; James 1:19; James 4:7; Galatians 6:1; Proverbs 10:21; Proverbs 12:25; Proverbs 16:24; Proverbs 18:21; Matthew 10:14  
+## Scripture References
+
+* James 3:1–13
+* James 1:19
+* James 4:7
+* Galatians 6:1
+* Proverbs 10:21
+* Proverbs 12:25
+* Proverbs 16:24
+* Proverbs 18:21
+* Matthew 10:14  
 
 ## Key Points  
 1. Teachers are judged more strictly (James 3:1) - spiritual stewardship brings weight and accountability.  
@@ -56,5 +65,4 @@ James 3:1–13; James 1:19; James 4:7; Galatians 6:1; Proverbs 10:21; Proverbs 1
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

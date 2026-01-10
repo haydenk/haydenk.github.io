@@ -13,8 +13,22 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 <!--more-->
 
-## Scripture References  
-Revelation 22:12; John 14:3; Matthew 24; Matthew 24:9; Matthew 24:14; Daniel 12; Revelation 11; Revelation 13; Acts 1; Acts 17; Ezekiel 44:1-3; Zechariah 14:3-5; 2 Thessalonians 2:3; 2 Peter 3:9
+## Scripture References
+
+* Revelation 22:12
+* John 14:3
+* Matthew 24
+* Matthew 24:9
+* Matthew 24:14
+* Daniel 12
+* Revelation 11
+* Revelation 13
+* Acts 1
+* Acts 17
+* Ezekiel 44:1-3
+* Zechariah 14:3-5
+* 2 Thessalonians 2:3
+* 2 Peter 3:9
 
 ## Key Points / Exposition  
 
@@ -77,5 +91,4 @@ Pastor urges listeners: “Ready or not, here He comes.” Examine your life: Ar
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

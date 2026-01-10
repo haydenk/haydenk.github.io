@@ -15,8 +15,21 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 <!--more-->
 
-## Scripture Reference(s)  
-Romans 14:10-12; Revelation 20:11-15; 2 Corinthians 5:10; Matthew 7:21-23; Romans 1:16; 1 Corinthians 9:24-25; 1 Corinthians 3:13-14; Matthew 16:27; Revelation 22:12; 1 John 1:7; Psalm 51:1; Isaiah 43:25; Habakkuk 1:13
+## Scripture Reference(s)
+
+* Romans 14:10-12
+* Revelation 20:11-15
+* 2 Corinthians 5:10
+* Matthew 7:21-23
+* Romans 1:16
+* 1 Corinthians 9:24-25
+* 1 Corinthians 3:13-14
+* Matthew 16:27
+* Revelation 22:12
+* 1 John 1:7
+* Psalm 51:1
+* Isaiah 43:25
+* Habakkuk 1:13
 
 ## Key Points / Exposition  
 
@@ -84,5 +97,4 @@ Romans 14:10-12; Revelation 20:11-15; 2 Corinthians 5:10; Matthew 7:21-23; Roman
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

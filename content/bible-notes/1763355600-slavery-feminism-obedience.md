@@ -19,11 +19,20 @@ The conversation centres on Paul’s trial before Felix (Acts 24) and three link
 - Setting: Live recording of “Live Free” podcast (Episode 50) with rooted-group members present
 
 ## Scripture References
-Acts 23:31–35; Acts 24; Acts 26  
-Luke 1–2; Matthew 1–2  
-1 Corinthians 7:21; Galatians 3:28; 1 Timothy 1:8-10  
-Exodus 21:16; Deuteronomy 24:7  
-Hebrews 3:7-8; Joshua 1; Romans 2:4  
+
+* Acts 23:31–35
+* Acts 24
+* Acts 26
+* Luke 1–2
+* Matthew 1–2
+* 1 Corinthians 7:21
+* Galatians 3:28
+* 1 Timothy 1:8-10
+* Exodus 21:16
+* Deuteronomy 24:7
+* Hebrews 3:7-8
+* Joshua 1
+* Romans 2:4  
 
 ## Key Points
 1. **Acts 24 Narrative**  
@@ -92,5 +101,4 @@ Hebrews 3:7-8; Joshua 1; Romans 2:4
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

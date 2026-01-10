@@ -11,16 +11,18 @@ Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shor
 
 <!--more-->
 
-## Scripture Reference(s)  
-- Acts 22–23  
-- Numbers 11  
-- Luke 12:11-12  
-- Joshua 1  
-- Galatians 6:11  
-- Romans 8:15; Romans 13:1-7  
-- Genesis 9:6  
-- Psalm 101:8  
-- 1 Peter 5:7  
+## Scripture Reference(s)
+
+* Acts 22–23
+* Numbers 11
+* Luke 12:11-12
+* Joshua 1
+* Galatians 6:11
+* Romans 8:15
+* Romans 13:1-7
+* Genesis 9:6
+* Psalm 101:8
+* 1 Peter 5:7  
 
 ## Key Points  
 
@@ -88,5 +90,4 @@ Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shor
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

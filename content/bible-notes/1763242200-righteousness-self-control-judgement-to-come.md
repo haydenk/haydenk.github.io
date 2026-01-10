@@ -14,8 +14,20 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 <!--more-->
 
-## Scripture References  
-Acts 22–24; Proverbs 25:28; 1 Thessalonians 4:3–5; 1 Corinthians 7:3–5; Romans 12:1; 2 Corinthians 5:21; John 5:22; Matthew 16:27; Hebrews 9:27; Romans 14:10; Matthew 24:37–39; Isaiah 66  
+## Scripture References
+
+* Acts 22–24
+* Proverbs 25:28
+* 1 Thessalonians 4:3–5
+* 1 Corinthians 7:3–5
+* Romans 12:1
+* 2 Corinthians 5:21
+* John 5:22
+* Matthew 16:27
+* Hebrews 9:27
+* Romans 14:10
+* Matthew 24:37–39
+* Isaiah 66  
 
 ## Key Points / Exposition  
 
@@ -73,5 +85,4 @@ Acts 22–24; Proverbs 25:28; 1 Thessalonians 4:3–5; 1 Corinthians 7:3–5; Ro
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 

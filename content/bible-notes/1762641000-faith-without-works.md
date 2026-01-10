@@ -13,8 +13,12 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 
 <!--more-->
 
-## Scripture References  
-Luke 10 : 25 - 37; James 2 : 14 - 26; Matthew 7 : 21 - 23; Romans 3 : 28  
+## Scripture References
+
+* Luke 10:25-37
+* James 2:14-26
+* Matthew 7:21-23
+* Romans 3:28  
 
 ### Full Texts (NIV)  
 Luke 10 : 25 - 37  
@@ -74,5 +78,4 @@ Romans 3 : 28
 
 ---
 
-Bible Note Taker & Recorder: Deepen Your Study, Strengthen Your Walk 
-Download link:  https://apps.apple.com/us/app/id6743159952
+[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
