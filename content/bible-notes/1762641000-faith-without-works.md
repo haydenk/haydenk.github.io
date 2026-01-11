@@ -7,9 +7,9 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 +++
 
 ## Introduction  
--  The study opened with light conversation on New-Year resolutions, “trying” vs. “doing,” and how mere intention quickly fades.  
--  Tonight’s focus: James 2 : 14 - 26, presented as the “apex” of James—everything before it points forward and everything after it looks back.  
--  Goal: allow the passage to “penetrate marrow,” producing conviction and action rather than mere agreement.
+*  The study opened with light conversation on New-Year resolutions, “trying” vs. “doing,” and how mere intention quickly fades.  
+*  Tonight’s focus: James 2 : 14 - 26, presented as the “apex” of James—everything before it points forward and everything after it looks back.  
+*  Goal: allow the passage to “penetrate marrow,” producing conviction and action rather than mere agreement.
 
 <!--more-->
 
@@ -45,36 +45,36 @@ Romans 3 : 28
 9.  Dead faith is dangerous because it can masquerade as living, leaving a person self-deceived until judgment (Matt 7 : 21-23).
 
 ## Theological / Exegetical Points  
--  “Claims” (2 : 14) signals a profession lacking substance.  
--  Greek for “dead” (νεκρός) denotes lifeless, powerless, incapable of response.  
--  “Justified” (2 : 21) = shown righteous; context determines horizontal evidence, not initial salvation event.  
--  Abraham’s faith was “made complete” (ἐτελειώθη) through his action—faith reaches its intended goal in obedience.  
--  Rahab illustrates inclusivity: gender, ethnicity, and past sin do not bar genuine faith-expressed-in-works.  
+*  “Claims” (2 : 14) signals a profession lacking substance.  
+*  Greek for “dead” (νεκρός) denotes lifeless, powerless, incapable of response.  
+*  “Justified” (2 : 21) = shown righteous; context determines horizontal evidence, not initial salvation event.  
+*  Abraham’s faith was “made complete” (ἐτελειώθη) through his action—faith reaches its intended goal in obedience.  
+*  Rahab illustrates inclusivity: gender, ethnicity, and past sin do not bar genuine faith-expressed-in-works.  
 
 ## Interaction & Group Responses  
--  Why did priest & Levite pass by? Class offered: fear, inconvenience, ceremonial purity, no audience, superiority.  
--  Modern spiritualized excuses: “I’ll pray for you,” “Someone else will help,” “They brought it on themselves,” “Helping would enable sin.”  
--  Extended discussion on helping vs. enabling family members with addictions. Consensus:  
-   -  There is a line where continued aid harms; discernment and conviction mark that boundary.  
-   -  Refusing harmful aid can itself be a work of faith.  
--  Self-examination questions posed:  
-   -  When did you last cross the road for someone you’d normally avoid?  
-   -  What would Jesus say about your calendar and bank statement?  
-   -  If faith were on trial, is there evidence enough to convict?  
--  Group acknowledged corporate guilt in giving words instead of practical help and resolved to seek Spirit-led opportunities for action.
+*  Why did priest & Levite pass by? Class offered: fear, inconvenience, ceremonial purity, no audience, superiority.  
+*  Modern spiritualized excuses: “I’ll pray for you,” “Someone else will help,” “They brought it on themselves,” “Helping would enable sin.”  
+*  Extended discussion on helping vs. enabling family members with addictions. Consensus:  
+   *  There is a line where continued aid harms; discernment and conviction mark that boundary.  
+   *  Refusing harmful aid can itself be a work of faith.  
+*  Self-examination questions posed:  
+   *  When did you last cross the road for someone you’d normally avoid?  
+   *  What would Jesus say about your calendar and bank statement?  
+   *  If faith were on trial, is there evidence enough to convict?  
+*  Group acknowledged corporate guilt in giving words instead of practical help and resolved to seek Spirit-led opportunities for action.
 
 ## Practical Applications  
--  Replace “I’ll try” with concrete, measurable obedience.  
--  Carry emergency cash, water, or tools in the car to act when need appears.  
--  Schedule one deliberate act this week that costs comfort, time, or reputation.  
--  Review monthly budget: earmark a line for benevolence, missions, or local mercy.  
--  Use social-media “faith posts” sparingly; let in-person mercy be primary witness.  
--  Pray for Spirit-given discernment to know when help becomes enabling.  
+*  Replace “I’ll try” with concrete, measurable obedience.  
+*  Carry emergency cash, water, or tools in the car to act when need appears.  
+*  Schedule one deliberate act this week that costs comfort, time, or reputation.  
+*  Review monthly budget: earmark a line for benevolence, missions, or local mercy.  
+*  Use social-media “faith posts” sparingly; let in-person mercy be primary witness.  
+*  Pray for Spirit-given discernment to know when help becomes enabling.  
 
 ## Prayer / Intercession Items  
--  Conviction leading to repentance where talk outweighs walk.  
--  Discernment for members facing complicated family-help situations.  
--  Courage to “cross the road” and engage the marginalized this week.
+*  Conviction leading to repentance where talk outweighs walk.  
+*  Discernment for members facing complicated family-help situations.  
+*  Courage to “cross the road” and engage the marginalized this week.
 
 ---
 
