@@ -1,0 +1,42 @@
+#!/bin/bash
+#MISE description="Create new post"
+
+set -e
+
+# Initialize with current datetime
+post_date=$(date "+%Y-%m-%d %H:%M:%S")
+
+# Prompt for date and override if provided
+read -p "Enter date (YYYY-MM-DD HH:MM:SS, default: now): " input_date
+if [ -n "$input_date" ]; then
+    post_date="$input_date"
+fi
+
+# Prompt for title
+read -p "Enter post title: " post_title
+if [ -z "$post_title" ]; then
+    echo "Error: Title cannot be empty"
+    exit 1
+fi
+
+# Convert title to slug (lowercase, replace spaces with hyphens, remove special chars)
+slug=$(echo "$post_title" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9 -]//g' | sed 's/ /-/g' | sed 's/--*/-/g' | sed 's/^-//' | sed 's/-$//')
+
+# Create Unix timestamp (epoch seconds) from date
+timestamp=$(date -j -f "%Y-%m-%d %H:%M:%S" "$post_date" "+%s" 2>/dev/null)
+if [ -z "$timestamp" ]; then
+    # Fallback for Linux
+    timestamp=$(date -d "$post_date" "+%s" 2>/dev/null)
+fi
+
+# Create filename with epoch timestamp
+filename="${timestamp}-${slug}.md"
+filepath="posts/$filename"
+
+# Use hugo new to create the post
+hugo new "$filepath"
+
+echo "✓ Created new post: content/$filepath"
+echo "  Title: $post_title"
+echo "  Slug: $slug"
+echo "  Timestamp: $timestamp"

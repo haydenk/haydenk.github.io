@@ -10,7 +10,7 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 * Pastor begins by greeting all campuses and online viewers, then poses a penetrating question: “What would you do if you weren’t afraid?”  
 * Acknowledges common, paralyzing fears—rejection, failure, success, loneliness, financial entrapment, relational stagnation.  
-* Sets the stage for Acts 23, continuing Lake Point’s series on the life of Paul.
+* Sets the stage for Acts 23, continuing Lake Pointe's series on the life of Paul.
 
 <!--more-->
 

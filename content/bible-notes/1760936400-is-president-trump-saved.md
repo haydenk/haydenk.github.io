@@ -7,9 +7,9 @@ tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
-- Pastors Josh Howerton, Carlos Rosas, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
-- CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
-- Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
+* Pastors Josh Howerton, Carlos Rosas, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
+* CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
+* Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
 
 <!--more-->
 
@@ -36,24 +36,24 @@ tags = ['live-free', 'podcast', 'lakepointe']
 (Full texts of the other quoted passages appear where they are discussed below.)
 
 ## Key Points  
-- Absence of God in a culture elevates government to “god-status.”  
-- Death is certain; Satan’s ancient lie “you will not surely die” keeps people from preparing for judgment (Heb 9:27).  
-- Two judgments for humanity:  
-  - Believers – commendation/rewards (Bēma seat).  
-  - Unbelievers – condemnation (Great White Throne).  
-- Scripture teaches varying degrees of reward in heaven (1 Cor 3:12-15) and punishment in hell (Luke 12:47-48; Matt 11:21-24).  
-- Christians run a unique, God-marked race; comparison distracts (illustrated by Michael Phelps photo).  
-- Athletic metaphors dominate the New Testament because discipline, focus, and sacrifice mirror discipleship.  
-- Rich Froning’s testimony: a 2010 CrossFit loss exposed misplaced identity, drove him to Romans study, baptism (Gal 6:14), daily Scripture, and outspoken faith.  
-- His “faith–family–fitness–service” rule and nightly self-assessment keep priorities aligned.  
-- Adoption story: three children adopted after infertility; courtroom experience pictures Romans 8:15 (“Spirit of adoption”).  
-- Practical motto from bison behavior: “Into the storm”—face trials, don’t flee (James 1:2-4; Rom 5:3-5).  
-- Evangelism posture: authentic relationship over preachiness; be the church outside church walls.
+* Absence of God in a culture elevates government to “god-status.”  
+* Death is certain; Satan’s ancient lie “you will not surely die” keeps people from preparing for judgment (Heb 9:27).  
+* Two judgments for humanity:  
+  * Believers – commendation/rewards (Bēma seat).  
+  * Unbelievers – condemnation (Great White Throne).  
+* Scripture teaches varying degrees of reward in heaven (1 Cor 3:12-15) and punishment in hell (Luke 12:47-48; Matt 11:21-24).  
+* Christians run a unique, God-marked race; comparison distracts (illustrated by Michael Phelps photo).  
+* Athletic metaphors dominate the New Testament because discipline, focus, and sacrifice mirror discipleship.  
+* Rich Froning’s testimony: a 2010 CrossFit loss exposed misplaced identity, drove him to Romans study, baptism (Gal 6:14), daily Scripture, and outspoken faith.  
+* His “faith–family–fitness–service” rule and nightly self-assessment keep priorities aligned.  
+* Adoption story: three children adopted after infertility; courtroom experience pictures Romans 8:15 (“Spirit of adoption”).  
+* Practical motto from bison behavior: “Into the storm”—face trials, don’t flee (James 1:2-4; Rom 5:3-5).  
+* Evangelism posture: authentic relationship over preachiness; be the church outside church walls.
 
 ## Theological / Exegetical Points  
 1. Judgment Frameworks  
-   - Dispensational view: multiple end-time judgments (Bēma after rapture; national, sheep-goats, Great White Throne).  
-   - Covenant view: single final judgment with distinct outcomes for believers/unbelievers.  
+   * Dispensational view: multiple end-time judgments (Bēma after rapture; national, sheep-goats, Great White Throne).  
+   * Covenant view: single final judgment with distinct outcomes for believers/unbelievers.  
 2. Degrees of Accountability – Luke 12:47-48  
    “That servant who knew his master’s will…will receive a severe beating, but the one who did not know…will receive a light beating. Everyone to whom much was given, of him much will be required.”  
 3. National Light & Responsibility – Matthew 11:21-24  
@@ -62,11 +62,11 @@ tags = ['live-free', 'podcast', 'lakepointe']
    “For by grace you have been saved through faith…not a result of works, so that no one may boast.”  
 
 ## Interaction & Group Responses  
-- Hosts recall personal “rope-climb” failures and how setbacks deepen faith.  
-- Visual aids: World-Series home-plate celebration (Heb 12 cloud of witnesses); Olympic swimmer photo to show focus on own lane.  
-- Group laughs over Rich’s memes and friendly push-up contest (Rich 37, Josh 33, Carlos bowed out).  
-- Audience invited to vote on Paul’s nickname (“Epistle Missile” vs. “Chat G-Paul-C”).  
-- Chat thread encouraged to leave podcast reviews; hats given away to commenters.
+* Hosts recall personal “rope-climb” failures and how setbacks deepen faith.  
+* Visual aids: World-Series home-plate celebration (Heb 12 cloud of witnesses); Olympic swimmer photo to show focus on own lane.  
+* Group laughs over Rich’s memes and friendly push-up contest (Rich 37, Josh 33, Carlos bowed out).  
+* Audience invited to vote on Paul’s nickname (“Epistle Missile” vs. “Chat G-Paul-C”).  
+* Chat thread encouraged to leave podcast reviews; hats given away to commenters.
 
 ## Practical Applications  
 1. Build “grace-driven effort” habits: consistent Scripture intake, prayer, generosity, physical stewardship.  
@@ -77,15 +77,15 @@ tags = ['live-free', 'podcast', 'lakepointe']
 6. Pray for government leaders to humble themselves before God; our nation needs higher authority than the state.
 
 ## Prayer / Intercession Items  
-- Thank God for 2,500+ baptisms at Lake Point this year—ask for 3,000.  
-- Salvation of national leaders; President Trump to move from “God-fearer” to faith in Christ.  
-- Courage for believers to run their unique race and resist comparison.  
-- Endurance for those in trials; may suffering produce character and hope (Rom 5:3-5).  
-- Strength for adoptive families; protection and provision for crisis-pregnancy ministries.
+* Thank God for 2,500+ baptisms at Lake Pointe this year—ask for 3,000.  
+* Salvation of national leaders; President Trump to move from “God-fearer” to faith in Christ.  
+* Courage for believers to run their unique race and resist comparison.  
+* Endurance for those in trials; may suffering produce character and hope (Rom 5:3-5).  
+* Strength for adoptive families; protection and provision for crisis-pregnancy ministries.
 
 ## Next Meeting / Future Arrangements  
-- Continue “Run to Win” series: upcoming messages on storing treasure in heaven.  
-- Podcast listeners: text “NOTES” to 2041 or visit lakepoint.church/shownotes for weekly discipleship guide.
+* Continue “Run to Win” series: upcoming messages on storing treasure in heaven.  
+* Podcast listeners: text “NOTES” to 2041 or visit lakepoint.church/shownotes for weekly discipleship guide.
 
 ---
 

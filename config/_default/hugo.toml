@@ -9,6 +9,10 @@ canonifyURLs = true
 enableRobotsTXT = true
 mainSections = ['posts']
 
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^POST_']
+
 [module]
   [[module.imports]]
     path = "github.com/haydenk/hugo-cayman"
@@ -19,6 +23,8 @@ mainSections = ['posts']
       post_limit = 20
   [[params.plugins.css]]
     link = "plugins/themify-icons/icons.css"
+  [[params.plugins.css]]
+    link = "css/custom.css"
 
 [menus]
   [[menus.main]]

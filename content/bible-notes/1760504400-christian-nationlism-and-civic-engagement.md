@@ -23,21 +23,21 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
 * 2 Thessalonians 3:6–12  
 
 ## Key Points  
-- “Christian nationalism” (rightly defined) = Christians wanting the moral, cultural, and political life of their nation shaped by explicitly Christian principles.  
-- It does NOT mean:  
-  - equating America with the Kingdom of God  
-  - forced conversion or a state-controlled church  
-  - overturning the U.S. Constitution  
-  - ignoring historic sins or refusing to repent of them.  
-- Three governmental spans exist: tribalism, nationalism, globalism. Scripture depicts God affirming nations (Acts 17:26) while Babel (Gen 11) and the final Antichrist model globalism.  
-- Power is morally neutral; its righteousness depends on who wields it (Prov 29:2). If godly people avoid power, the godless fill the vacuum.  
-- Early America was overtly Christian: congressional prayers in Jesus’ name, Bible-based public-school curricula, the Aitken Bible funded by Congress, Sabbath and blasphemy laws, etc.  
-- “Separation of church and state” appears in no founding document; the Establishment Clause limits Congress from creating a national church, not from allowing Christian influence.  
-- Historical quotes (e.g., Adams, Washington, Patrick Henry) and 1850s House/Senate Judiciary statements affirm Christianity as the nation’s “conservative element.”  
-- Modern objections (“exiles in Babylon,” “hurts our witness,” “both parties are equally bad,” “your eschatology won’t allow success”) are biblically and historically unsound.  
-- Moral asymmetry: current U.S. party platforms are not equally aligned with biblical ethics (e.g., abortion, sexual ethics, religious liberty).  
-- Pastors in strongly “blue” states testify that progressive policies tangibly hinder church mission and family flourishing.  
-- Voting is a stewardship issue; in a republic each citizen is a fractional authority under God (Rom 13).  
+* “Christian nationalism” (rightly defined) = Christians wanting the moral, cultural, and political life of their nation shaped by explicitly Christian principles.  
+* It does NOT mean:  
+  * equating America with the Kingdom of God  
+  * forced conversion or a state-controlled church  
+  * overturning the U.S. Constitution  
+  * ignoring historic sins or refusing to repent of them.  
+* Three governmental spans exist: tribalism, nationalism, globalism. Scripture depicts God affirming nations (Acts 17:26) while Babel (Gen 11) and the final Antichrist model globalism.  
+* Power is morally neutral; its righteousness depends on who wields it (Prov 29:2). If godly people avoid power, the godless fill the vacuum.  
+* Early America was overtly Christian: congressional prayers in Jesus’ name, Bible-based public-school curricula, the Aitken Bible funded by Congress, Sabbath and blasphemy laws, etc.  
+* “Separation of church and state” appears in no founding document; the Establishment Clause limits Congress from creating a national church, not from allowing Christian influence.  
+* Historical quotes (e.g., Adams, Washington, Patrick Henry) and 1850s House/Senate Judiciary statements affirm Christianity as the nation’s “conservative element.”  
+* Modern objections (“exiles in Babylon,” “hurts our witness,” “both parties are equally bad,” “your eschatology won’t allow success”) are biblically and historically unsound.  
+* Moral asymmetry: current U.S. party platforms are not equally aligned with biblical ethics (e.g., abortion, sexual ethics, religious liberty).  
+* Pastors in strongly “blue” states testify that progressive policies tangibly hinder church mission and family flourishing.  
+* Voting is a stewardship issue; in a republic each citizen is a fractional authority under God (Rom 13).  
 
 ## Theological / Exegetical Points  
 1. Jeremiah 29:4-7 – God tells exiles to “seek the welfare of the city,” implying civic engagement even in pagan contexts.  
@@ -73,24 +73,24 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
    “If anyone is not willing to work, let him not eat… do their work quietly and earn their own living.”  
 
 ## Interaction & Group Responses  
-- Hosts laughed at media caricatures (“NAR Hawaiian prophet,” “January 6 buffalo horns”) but quickly disavowed extremism.  
-- Strong pushback against straw-man definitions equating Christian nationalism with “idolizing Trump” or denying America’s sins.  
-- Blue-state pastors (Seattle, WA; Wenatchee, WA) recounted assaults on churchgoers, doxxing, and legislative hostility as real-time evidence that governmental ideology matters for gospel ministry.  
-- Reformed-leaning listeners asked whether only post-millennial eschatology justifies cultural optimism; response: all major views anticipate simultaneous gospel advance and rising iniquity (“dueling revivals”).  
-- Some questioned why the panel “punches left”; answer: moral asymmetry and urgency demand louder critique where sin is enshrined.  
+* Hosts laughed at media caricatures (“NAR Hawaiian prophet,” “January 6 buffalo horns”) but quickly disavowed extremism.  
+* Strong pushback against straw-man definitions equating Christian nationalism with “idolizing Trump” or denying America’s sins.  
+* Blue-state pastors (Seattle, WA; Wenatchee, WA) recounted assaults on churchgoers, doxxing, and legislative hostility as real-time evidence that governmental ideology matters for gospel ministry.  
+* Reformed-leaning listeners asked whether only post-millennial eschatology justifies cultural optimism; response: all major views anticipate simultaneous gospel advance and rising iniquity (“dueling revivals”).  
+* Some questioned why the panel “punches left”; answer: moral asymmetry and urgency demand louder critique where sin is enshrined.  
 
 ## Practical Applications  
-- Register, vote, and evaluate platforms through a biblical lens; refusing to vote buries the “talent” of delegated authority.  
-- Teach congregations the historic Christian roots of American liberty; inoculate them against revisionist history.  
-- Engage local school boards, city councils, and state legislatures to keep laws from inviting God’s judgment.  
-- Encourage balanced patriotism: love of country under love for Christ; gratitude without whitewashing national sins.  
-- Pastors in red regions should learn from blue-state challenges and prepare congregations for future ideological pressure.  
+* Register, vote, and evaluate platforms through a biblical lens; refusing to vote buries the “talent” of delegated authority.  
+* Teach congregations the historic Christian roots of American liberty; inoculate them against revisionist history.  
+* Engage local school boards, city councils, and state legislatures to keep laws from inviting God’s judgment.  
+* Encourage balanced patriotism: love of country under love for Christ; gratitude without whitewashing national sins.  
+* Pastors in red regions should learn from blue-state challenges and prepare congregations for future ideological pressure.  
 
 ## Prayer / Intercession Items  
-- For national and local leaders to acknowledge Christ’s lordship and legislate righteously (1 Tim 2:1-4).  
-- Protection and courage for churches ministering in hostile environments.  
-- National repentance for legalized abortion and sexual confusion; revival that merges heart-change with policy change.  
-- Wisdom for Christians holding public office to remain servants of God, not idols of power.  
+* For national and local leaders to acknowledge Christ’s lordship and legislate righteously (1 Tim 2:1-4).  
+* Protection and courage for churches ministering in hostile environments.  
+* National repentance for legalized abortion and sexual confusion; revival that merges heart-change with policy change.  
+* Wisdom for Christians holding public office to remain servants of God, not idols of power.  
 
 ---
 
