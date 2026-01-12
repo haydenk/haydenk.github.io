@@ -2,7 +2,7 @@
 title = 'Was Jesus actually PROGRESSIVE? (React to the Daily Show clip)'
 slug = 'was-jesus-actually-progressive-react-to-the-daily-show-clip'
 date = 2025-12-31 00:00:45-06:00
-draft = true
+draft = false
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
