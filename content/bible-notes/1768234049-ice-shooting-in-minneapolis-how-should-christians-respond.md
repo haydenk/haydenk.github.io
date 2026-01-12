@@ -82,6 +82,15 @@ The episode tackles four main topics:
 * Live Free Prayer & Worship Night – January 21, 7–8:30 p.m. (all campuses + online).
 * Text "EVENT" to 20411 or visit lakepointe.church/events for details.
 
+## Insight
+
+1. God rescues us not by the sweat of our deeds but by the blood of His Son; grace through faith alone opens the door to eternal life.
+2. Once Christ breathes new life into your heart, rise and testify in the waters of baptism; the sign belongs to those who have already begun the journey with Jesus.
+3. Followers of Jesus listen before they judge, because true justice is impossible when we label enemies before hearing their story; the Cross proves God weighed every case with perfect mercy and truth.
+4. The Holy Spirit stirs not riots but repentance, empowering God’s people to build, not burn; reformation replaces the spirit of lawlessness with joyful submission to Christ’s kingdom.
+5. Every authority draws breath from the Father’s throne; when we honor rightful order, we proclaim that Jesus remains the ultimate Lord over earth and heaven, silencing chaos with humble obedience.
+6. Stop measuring your worth by yesterday’s failures; Christ’s finished work shouts that nothing can be added to the salvation He already secured, so walk freely in the confidence of sons and daughters.
+
 ---
 
 {{< youtube id=qrFZznW-K48 class=video-container >}}
