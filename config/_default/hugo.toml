@@ -1,13 +1,13 @@
 baseURL = 'https://haydenk.github.io/'
 languageCode = 'en-us'
 title = 'Hayden King'
-theme = 'github.com/haydenk/hugo-cayman'
+theme = 'github.com/adityatelange/hugo-PaperMod'
 disableHugoGeneratorInject = true
 ignoreErrors = [ "error-disable-taxonomy" ]
 enableEmoji = true
 canonifyURLs = true
 enableRobotsTXT = true
-mainSections = ['posts']
+mainSections = ['posts', 'bible-notes']
 
 [security]
   [security.funcs]
@@ -15,22 +15,43 @@ mainSections = ['posts']
 
 [module]
   [[module.imports]]
-    path = "github.com/haydenk/hugo-cayman"
+    path = "github.com/adityatelange/hugo-PaperMod"
 
 [params]
   keywords = ['hayden', 'king', 'blog', 'software', 'development', 'aws']
-  [params.home]
-      post_limit = 20
+  defaultTheme = "auto"
+  disableThemeToggle = true
+  ShowPostNavLinks = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
   [[params.plugins.css]]
     link = "plugins/themify-icons/icons.css"
-  [[params.plugins.css]]
-    link = "css/custom.css"
+  [params.homeInfoParams]
+    enabled = true
+    title = 'Hi there :wave:'
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/haydenk"
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/imhaydenk/"
+  [[params.socialIcons]]
+    name = "StackOverflow"
+    url = "https://stackoverflow.com/users/464467/hayden"
+
 
 [menus]
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
     weight = 10
+
+  [[menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 11
 
   [[menus.main]]
     name = "Tags"
@@ -49,7 +70,7 @@ mainSections = ['posts']
 
   [[menus.main]]
     name = "Archive"
-    pageRef = "/archive"
+    pageRef = "/archives"
     weight = 99
 
   [[menus.footer]]
@@ -121,10 +142,18 @@ mainSections = ['posts']
   pagerSize = 10
 
 ignoreLogs = ['warning-goldmark-raw-html']
+
 [markup]
   [markup.highlight]
     noClasses = false
     lineNos = true
+
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+        anchor = true
 
 [privacy]
   [privacy.youTube]

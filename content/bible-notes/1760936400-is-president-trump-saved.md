@@ -7,7 +7,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
-* Pastors Josh Howerton, Carlos Rosas, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
+* Pastors Josh Howerton, Carlos Erazo, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
 * CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
 * Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
 
@@ -93,4 +93,4 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

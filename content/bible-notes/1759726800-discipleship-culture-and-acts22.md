@@ -8,7 +8,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ## Introduction
 
-Hosts Carlos Sarazin, Pastor Josh Howerton, and Pastor Paul Cunningham review Carlos’s sermon on Acts 22, explore current cultural pressures (Netflix’s transgender content, historic LGBT strategy), and offer counsel on parenting, testimony-sharing, and discipleship.
+Hosts Carlos Erazo, Pastor Josh Howerton, and Pastor Paul Cunningham review Carlos’s sermon on Acts 22, explore current cultural pressures (Netflix’s transgender content, historic LGBT strategy), and offer counsel on parenting, testimony-sharing, and discipleship.
 
 <!--more-->
 
@@ -78,4 +78,4 @@ Hosts Carlos Sarazin, Pastor Josh Howerton, and Pastor Paul Cunningham review Ca
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

@@ -2,4 +2,4 @@ module github.com/haydenk/haydenk.github.io
 
 go 1.24.0
 
-require github.com/haydenk/hugo-cayman v0.0.0-20260107035940-30c22bf760b2 // indirect
+require github.com/adityatelange/hugo-PaperMod v0.0.0-20260109161122-6c5a8f6b055c // indirect

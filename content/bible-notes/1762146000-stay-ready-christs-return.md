@@ -7,7 +7,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
-A free-flowing discussion (Carlos Razer, Ps. Josh Howerton, Ps. Paul, and team) covering:  
+A free-flowing discussion (Carlos Erazo, Ps. Josh Howerton, Ps. Paul, and team) covering:  
 * The church’s prophetic role (“word”)  
 * How to read current events in light of biblical prophecy  
 * Practical readiness for Christ’s return  
@@ -95,4 +95,4 @@ A free-flowing discussion (Carlos Razer, Ps. Josh Howerton, Ps. Paul, and team) 
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

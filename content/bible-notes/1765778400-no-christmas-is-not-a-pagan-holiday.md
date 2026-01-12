@@ -8,7 +8,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ## Gathering Information
 * Setting: Podcast studio, Lakepointe Church, Dallas, Texas
-* Hosts/Leaders: Carlos Rosas (host), Pastor Josh Howerton, Pastor Paul Cunningham
+* Hosts/Leaders: Carlos Erazo (host), Pastor Josh Howerton, Pastor Paul Cunningham
 * Other Voices: Occasional studio staff & listener comments
 
 ## Scripture References
@@ -117,4 +117,4 @@ The conversation tackles two big themes:
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 
