@@ -43,15 +43,29 @@ get_sort_date() {
 # Function to get URL path from file path
 get_url_path() {
     local file=$1
+    local slug=$2
+    local date_str=$3
+
     # Remove content/ prefix and get directory
     local rel_path="${file#content/}"
     local dir=$(dirname "$rel_path")
-    local slug=$2
 
+    # Extract year, month, day from date string
+    local year=""
+    local month=""
+    local day=""
+
+    if [[ $date_str =~ ([0-9]{4})-([0-9]{2})-([0-9]{2}) ]]; then
+        year="${BASH_REMATCH[1]}"
+        month="${BASH_REMATCH[2]}"
+        day="${BASH_REMATCH[3]}"
+    fi
+
+    # Build URL path with date components
     if [[ "$dir" == "." ]]; then
-        echo "/$slug/"
+        echo "/$year/$month/$day/$slug/"
     else
-        echo "/$dir/$slug/"
+        echo "/$dir/$year/$month/$day/$slug/"
     fi
 }
 
@@ -93,7 +107,7 @@ find "$CONTENT_DIR" -type f -name "*.md" | while read -r file; do
     sort_date=$(get_sort_date "$date")
 
     # Get URL path
-    url_path=$(get_url_path "$file" "$slug")
+    url_path=$(get_url_path "$file" "$slug" "$date")
 
     # Write to temp file: sort_date|display_date|title|url_path
     echo "${sort_date}|${sort_date}|${title}|${url_path}" >> "$temp_file"
