@@ -59,8 +59,8 @@ get_url_path() {
 cat > "$OUTPUT_FILE" << 'EOF'
 # Recent Posts
 
-| Date | Title |
-|------|-------|
+| **Date** | **Title** |
+|----------|-----------|
 EOF
 
 # Temporary file for sorting
