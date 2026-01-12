@@ -45,7 +45,7 @@ cat <<EOF >> "content/$filepath"
 title = '$post_title'
 slug = '$slug'
 date = $post_date
-draft = true
+draft = false
 tags = []
 +++
 EOF

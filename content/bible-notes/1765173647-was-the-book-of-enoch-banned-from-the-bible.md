@@ -2,7 +2,7 @@
 title = 'Was the Book of Enoch BANNED from the Bible...!?'
 slug = 'was-the-book-of-enoch-banned-from-the-bible'
 date = 2025-12-08 00:00:47-06:00
-draft = true
+draft = false
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
