@@ -1,0 +1,113 @@
+#!/bin/bash
+#MISE description="Generate markdown table of 10 most recent posts"
+
+set -e
+
+# Configuration
+CONTENT_DIR="content/"
+OUTPUT_FILE="recent-posts.md"
+NUM_POSTS=10
+
+# Function to extract frontmatter field from markdown file
+extract_field() {
+    local file=$1
+    local field=$2
+
+    # Extract value between +++ markers and find the field
+    awk -v field="$field" '
+        /^\+\+\+$/ { in_fm = !in_fm; next }
+        in_fm && $0 ~ "^"field" = " {
+            # Remove field name and equals sign
+            sub("^"field" = ", "")
+            # Remove quotes if present
+            gsub(/^'\''|'\''$/, "")
+            gsub(/^"|"$/, "")
+            print
+            exit
+        }
+    ' "$file"
+}
+
+# Function to convert date to sortable format
+get_sort_date() {
+    local date_str=$1
+
+    # Try to extract YYYY-MM-DD from various formats
+    if [[ $date_str =~ ([0-9]{4})-([0-9]{2})-([0-9]{2}) ]]; then
+        echo "${BASH_REMATCH[1]}-${BASH_REMATCH[2]}-${BASH_REMATCH[3]}"
+    else
+        echo "0000-00-00"
+    fi
+}
+
+# Function to get URL path from file path
+get_url_path() {
+    local file=$1
+    # Remove content/ prefix and get directory
+    local rel_path="${file#content/}"
+    local dir=$(dirname "$rel_path")
+    local slug=$2
+
+    if [[ "$dir" == "." ]]; then
+        echo "/$slug/"
+    else
+        echo "/$dir/$slug/"
+    fi
+}
+
+# Generate table header
+cat > "$OUTPUT_FILE" << 'EOF'
+# Recent Posts
+
+| Date | Title |
+|------|-------|
+EOF
+
+# Temporary file for sorting
+temp_file=$(mktemp)
+
+# Process all markdown files recursively
+find "$CONTENT_DIR" -type f -name "*.md" | while read -r file; do
+    # Skip _index.md and other special files
+    if [[ "$(basename "$file")" == "_index.md" ]]; then
+        continue
+    fi
+
+    # Extract fields
+    title=$(extract_field "$file" "title")
+    slug=$(extract_field "$file" "slug")
+    date=$(extract_field "$file" "date")
+    draft=$(extract_field "$file" "draft")
+
+    # Skip drafts
+    if [[ "$draft" == "true" ]]; then
+        continue
+    fi
+
+    # Skip if missing required fields
+    if [[ -z "$title" ]] || [[ -z "$slug" ]]; then
+        continue
+    fi
+
+    # Get sortable date
+    sort_date=$(get_sort_date "$date")
+
+    # Get URL path
+    url_path=$(get_url_path "$file" "$slug")
+
+    # Write to temp file: sort_date|display_date|title|url_path
+    echo "${sort_date}|${sort_date}|${title}|${url_path}" >> "$temp_file"
+done
+
+# Sort by date (descending), take top N, format as markdown table
+sort -t'|' -k1 -r "$temp_file" | head -n "$NUM_POSTS" | while IFS='|' read -r sort_date display_date title url_path; do
+    # Escape pipe characters in title
+    title_escaped=$(echo "$title" | sed 's/|/\\|/g')
+    echo "| $display_date | [$title_escaped]($url_path) |" >> "$OUTPUT_FILE"
+done
+
+# Clean up
+rm "$temp_file"
+
+echo "✓ Generated $OUTPUT_FILE with $NUM_POSTS most recent posts"
+cat "$OUTPUT_FILE"

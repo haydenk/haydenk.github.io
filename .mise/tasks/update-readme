@@ -1,0 +1,75 @@
+#!/bin/bash
+#MISE description="Update README.md with recent posts and cleanup"
+
+set -e
+
+# Configuration
+RECENT_POSTS_FILE="recent-posts.md"
+README_FILE="README.md"
+START_MARKER="<!-- ARTICLES:START -->"
+END_MARKER="<!-- ARTICLES:END -->"
+
+# Check if recent-posts.md exists
+if [[ ! -f "$RECENT_POSTS_FILE" ]]; then
+    echo "Error: $RECENT_POSTS_FILE not found"
+    echo "Run 'mise run recent-posts' first to generate the file"
+    exit 1
+fi
+
+# Check if README.md exists
+if [[ ! -f "$README_FILE" ]]; then
+    echo "Error: $README_FILE not found"
+    exit 1
+fi
+
+# Check if markers exist in README
+if ! grep -q "$START_MARKER" "$README_FILE" || ! grep -q "$END_MARKER" "$README_FILE"; then
+    echo "Error: Article markers not found in $README_FILE"
+    echo "Please ensure both $START_MARKER and $END_MARKER are present"
+    exit 1
+fi
+
+# Create temporary files
+temp_readme=$(mktemp)
+temp_content=$(mktemp)
+
+# Extract content from recent-posts.md (skip the "# Recent Posts" header and blank line)
+tail -n +3 "$RECENT_POSTS_FILE" > "$temp_content"
+
+# Build the new README using awk with proper file handling
+awk -v start="$START_MARKER" \
+    -v end="$END_MARKER" \
+    -v content_file="$temp_content" '
+    BEGIN { in_section = 0 }
+    $0 == start {
+        print $0
+        # Read and print content from file
+        while ((getline line < content_file) > 0) {
+            print line
+        }
+        close(content_file)
+        in_section = 1
+        next
+    }
+    $0 == end {
+        print $0
+        in_section = 0
+        next
+    }
+    !in_section { print }
+' "$README_FILE" > "$temp_readme"
+
+# Replace README.md with the updated version
+mv "$temp_readme" "$README_FILE"
+
+# Clean up temp content file
+rm "$temp_content"
+
+echo "✓ Updated $README_FILE with recent posts"
+
+# Delete recent-posts.md
+rm "$RECENT_POSTS_FILE"
+echo "✓ Removed $RECENT_POSTS_FILE"
+
+echo ""
+echo "README.md has been updated successfully!"
