@@ -3,8 +3,8 @@
 ## My latest articles 📝
 
 <!-- ARTICLES:START -->
-| Date | Title |
-|------|-------|
+| **Date** | **Title** |
+|----------|-----------|
 | 2026-01-11 | [Hugo Archtypes are useless](/posts/hugo-archtypes-are-useless/) |
 | 2026-01-10 | [Baptized in Water & Spirit](/bible-notes/baptized-in-water-spirit/) |
 | 2026-01-10 | [Baptism: From God; For God](/bible-notes/baptism-from-god-for-god/) |
