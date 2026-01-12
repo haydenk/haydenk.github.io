@@ -60,7 +60,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 # Recent Posts
 
 | **Date** | **Title** |
-|----------|-----------|
+|:---------|:----------|
 EOF
 
 # Temporary file for sorting
