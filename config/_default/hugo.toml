@@ -27,6 +27,7 @@ mainSections = ['posts', 'bible-notes']
   [params.homeInfoParams]
     enabled = true
     title = 'Hi there :wave:'
+    content = "I am a software developer in Texas. I have done software development or something technical going on 20 years. I don't know everything, I have learned a lot, but sometimes I still make mistakes. I am usually rather blunt and succinct so sometimes posts may be rather short but I am working on it."
   [[params.socialIcons]]
     name = "Github"
     url = "https://github.com/haydenk"
