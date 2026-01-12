@@ -89,4 +89,4 @@ Christ’s birth heralds glad tidings for “all people,” including the lonely
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

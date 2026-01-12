@@ -33,8 +33,23 @@ fi
 filename="${timestamp}-${slug}.md"
 filepath="posts/$filename"
 
-# Use hugo new to create the post
-hugo new "$filepath"
+# Prompt for content directory
+read -p "Enter content directory: " content_directory
+if [ -n "$content_directory" ]; then
+    filepath="$content_directory/$filename"
+fi
+
+# Output the frontmatter to screen
+cat <<EOF >> "content/$filepath"
++++
+title = '$post_title'
+slug = '$slug'
+date = $post_date
+draft = true
+tags = []
++++
+EOF
+
 
 echo "✓ Created new post: content/$filepath"
 echo "  Title: $post_title"

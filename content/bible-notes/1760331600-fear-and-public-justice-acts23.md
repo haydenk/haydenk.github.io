@@ -90,4 +90,4 @@ Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shor
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

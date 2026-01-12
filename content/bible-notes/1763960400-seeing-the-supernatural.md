@@ -13,7 +13,7 @@ The conversation centers on the unseen realm—angels, demons, territorial spiri
 
 ## Gathering Information  
 * Setting: Deliver Free Podcast, Lake Pointe Church, Dallas, TX  
-* Leaders / Voices: Pastor Josh Howerton, Paul Cunningham, host Carlos Arazzo  
+* Leaders / Voices: Pastor Josh Howerton, Paul Cunningham, host Carlos Erazo  
 
 ## Scripture References
 
@@ -79,4 +79,4 @@ The conversation centers on the unseen realm—angels, demons, territorial spiri
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

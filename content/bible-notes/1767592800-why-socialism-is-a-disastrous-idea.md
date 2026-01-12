@@ -9,7 +9,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 ## Gathering Information
 
 * Recorded early January 2026, Lake Pointe Church, Dallas, TX
-* Hosts: Carlos Arza (moderator), Ps. Josh Howerton (preacher), Ps. Paul Cunningham (theology)
+* Hosts: Carlos Erazo (moderator), Ps. Josh Howerton (preacher), Ps. Paul Cunningham (theology)
 * Format: "Delivery Podcast 2026" episode, released the same Sunday Ps. Josh preached John 19  
 
 ## Scripture References
@@ -104,4 +104,4 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ---
 
-[![Bible Note Taker & Recorder App](/bible-notes/app-store-badge.svg)](https://apps.apple.com/us/app/id6743159952) 
+Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/)
