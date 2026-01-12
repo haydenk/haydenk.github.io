@@ -28,21 +28,54 @@ tags = ['live-free', 'podcast', 'lakepointe']
 * 2 Timothy 1:7
 * Romans 16:18  
 
-### Full Texts Quoted or Referred To
+### Full Texts Quoted or Referred 
 
-1 Timothy 4:12 — “Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.”  
+```text {lineNos=false}
+1 Timothy 4:12 
 
-1 Timothy 5:23 — “No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments.”  
+Let no one despise you for your youth, but set the believers an example in speech,
+in conduct, in love, in faith, in purity.
+```
 
-2 Timothy 1:7 — “…for God gave us a spirit not of fear but of power and love and self-control.”  
+```text {lineNos=false}
+1 Timothy 5:23
 
-Proverbs 4:7 — “The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.”  
+No longer drink only water, but use a little wine for the sake of your 
+and your frequent ailments.
+```
 
-Proverbs 7:1-4 — “My son, keep my words … keep my teachings as the apple of your eye; bind them on your fingers; write them on the tablet of your heart. Say to wisdom, ‘You are my sister,’ and call insight your intimate friend.”  
+```text {lineNos=false}
+2 Timothy 1:7 
+...for God gave us a spirit not of fear but of power and love and self-control
+```
 
-Matthew 6:9-13 — “Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from evil.”  
+```text {lineNos=false}
+Proverbs 4:7
+The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.
+```
 
-Romans 16:18 — “For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naïve.”  
+```text {lineNos=false}
+Proverbs 7:1-4
+My son, keep my words ... keep my teachings as the apple of your eye;
+bind them on your fingers; write them on the tablet of your heart.
+Say to wisdom, ‘You are my sister,’ and call insight your intimate friend.
+```
+
+```text {lineNos=false}
+Matthew 6:9-13
+
+Our Father in heaven, hallowed be your name. Your kingdom come, your will be done,
+on earth as it is in heaven. Give us this day our daily bread,
+and forgive us our debts, as we also have forgiven our debtors.
+And lead us not into temptation, but deliver us from evil.
+```
+
+```text {lineNos=false}
+Romans 16:18
+
+For such persons do not serve our Lord Christ, but their own appetites,
+and by smooth talk and flattery they deceive the hearts of the naïve.
+```
 
 ## Introduction  
 The episode centres on two themes:  
