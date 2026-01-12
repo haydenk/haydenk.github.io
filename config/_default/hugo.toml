@@ -9,10 +9,6 @@ canonifyURLs = true
 enableRobotsTXT = true
 mainSections = ['posts', 'bible-notes']
 
-[security]
-  [security.funcs]
-    getenv = ['^HUGO_', '^CI$', '^POST_']
-
 [module]
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
