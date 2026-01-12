@@ -71,6 +71,14 @@ The episode tackles four main topics:
 5. Model godly fatherhood: communicate "You are my beloved child; with you I am well pleased."
 6. Submit to legitimate authorities unless commanded to sin; aim for reformation, not lawlessness.
 
+### Views on Baptism
+
+|  | Who It's For | How It's Done | What It Does |
+|-----------|--------------|---------------|--------------|
+| Roman Catholic | Infants and believers | Typically pouring | * Initiates the person into salvation. Removes original sin and confers regeneration and saving grace.<br> * Brings the person into the Catholic Church. |
+| Protestant Paedobaptist | Infants and believers | Typically sprinkling or pouring, sometimes immersion | * Points expectantly to the salvation of the person that must still happen in the future.<br> * Brings the person into the visible, local church. |
+| Protestant Credobaptist | Believers | Immersion | * Points to the person's salvation that has already happened in the past.<br> * Signifies the person being a part of the invisible, universal Church, and brings the person into the visible, local church. |
+
 ## Prayer / Intercession Items
 * Comfort for the Minneapolis mother's family, the injured agent, and the city's peace.
 * Outpouring of the Spirit at upcoming Prayer & Worship Night (Jan 21).
@@ -83,7 +91,6 @@ The episode tackles four main topics:
 * Text "EVENT" to 20411 or visit lakepointe.church/events for details.
 
 ## Insight
-
 1. God rescues us not by the sweat of our deeds but by the blood of His Son; grace through faith alone opens the door to eternal life.
 2. Once Christ breathes new life into your heart, rise and testify in the waters of baptism; the sign belongs to those who have already begun the journey with Jesus.
 3. Followers of Jesus listen before they judge, because true justice is impossible when we label enemies before hearing their story; the Cross proves God weighed every case with perfect mercy and truth.
