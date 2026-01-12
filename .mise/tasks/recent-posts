@@ -7,7 +7,6 @@ set -e
 CONTENT_DIR="content/"
 OUTPUT_FILE="recent-posts.md"
 NUM_POSTS=10
-BASE_URL="https://haydenk.github.io/"
 
 # Function to extract frontmatter field from markdown file
 extract_field() {
@@ -104,7 +103,7 @@ done
 sort -t'|' -k1 -r "$temp_file" | head -n "$NUM_POSTS" | while IFS='|' read -r sort_date display_date title url_path; do
     # Escape pipe characters in title
     title_escaped=$(echo "$title" | sed 's/|/\\|/g')
-    echo "| $display_date | [$title_escaped]($BASE_URL$url_path) |" >> "$OUTPUT_FILE"
+    echo "| $display_date | [$title_escaped]($HUGO_BASEURL$url_path) |" >> "$OUTPUT_FILE"
 done
 
 # Clean up

@@ -69,8 +69,14 @@ jobs:
       - name: Setup dependencies
         uses: jdx/mise-action@v3          
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Generate Top 10 Recents
         run: mise recent-posts
+        env:
+          HUGO_BASEURL: "${{ steps.pages.outputs.base_url }}"
       
       - name: Update README.md
         run: mise update-readme
