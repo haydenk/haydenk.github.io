@@ -2,4 +2,4 @@
 #MISE description="Build Hugo site"
 #MISE depends=["clean"]
 
-hugo --gc --minify --noBuildLock --cleanDestinationDir --destination $MISE_PROJECT_ROOT/dist
+hugo --gc --minify --noBuildLock --cleanDestinationDir --buildDrafts=false --destination $MISE_PROJECT_ROOT/dist
