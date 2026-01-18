@@ -3,6 +3,7 @@ title = 'Young Leaders, Revival & Cultural Discernment'
 slug = 'young-leaders-revival'
 date = 2025-11-10T00:00:00-05:00
 draft = false
+youtube = 'fJ34PSNJVrU'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -13,7 +14,6 @@ tags = ['live-free', 'podcast', 'lakepointe']
 * Who wrote Hebrews? – strongest cases for Apollos vs. Paul; why Priscilla is unlikely  
 * Jesus now: bodily enthroned, advocating as our defense attorney (1 Jn 2:1-2)  
 * Calling the under-30 crowd: kill distraction, capture a God-sized vision, find mentors  
-<!--more-->
 * Charge to 30-plus: invest in younger believers; your greatest impact may be someone you raise  
 * Screen-time stats: the average 18-year-old is on pace to spend 93 % of free time on a screen  
 * 2023 elections: Muslim-communist mayor (NYC) & VA delegate who texted about killing opponents  
@@ -24,7 +24,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ## Key Information  
 * “Harpazō” (caught up) appears 1 Th 4:17 & 2 Cor 12:2; possible link—Paul personally experienced what believers will at Christ’s return.  
-* Hebrews calls Jesus “seated…at the right hand”; 1 Jn 2 clarifies He is our Advocate—defense, not plea-for-mercy.  
+* Hebrews calls Jesus “seated...at the right hand”; 1 Jn 2 clarifies He is our Advocate—defense, not plea-for-mercy.  
 * Revival leaders’ ages: W​hitfield 25, Finney 29, Lonnie Frisbee 20, Greg Laurie 17, etc.  
 * Voting data: Women 18-29 backed NY & VA progressives 76-84 %; if only women voted, 461 electoral votes would go Democrat; only men, 350 Republican.  
 * NYC mayoral voters: residents <5 yrs backed Mamdani 83 %; U.S.-born New Yorkers only 31 %.  
@@ -50,11 +50,3 @@ tags = ['live-free', 'podcast', 'lakepointe']
 
 ## Conclusion  
 From Hebrews 12’s call to run unencumbered to the cultural upheavals of 2023, the podcast presses believers to fix eyes on Jesus, steward their season (young or old), and engage society with both truth and love—confident that no government can rival the Savior who advocates for us even now.
-
----
-
-{{< youtube id=fJ34PSNJVrU class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

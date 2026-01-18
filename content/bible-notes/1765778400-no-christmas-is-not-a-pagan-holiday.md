@@ -3,6 +3,7 @@ title = 'NO, Christmas Is Not A Pagan Holiday'
 slug = 'no-christmas-is-not-a-pagan-holiday'
 date = 2025-12-15T00:00:00
 draft = false
+youtube = 'BfM0WDNq4FU'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -38,10 +39,10 @@ The conversation tackles two big themes:
    * Happiness depends on *happenings*; joy rests on *Jesus*.
    * Paul (2 Co 6:10) models being "sorrowful, yet always rejoicing."
    * Philippians—written from jail—mentions joy more than any NT book.
-   * Modern echo: golfer Scottie Scheffler's interview ("worked all my life… euphoria lasts minutes").
+   * Modern echo: golfer Scottie Scheffler's interview ("worked all my life... euphoria lasts minutes").
 
 2. **Why Joy is Commanded**
-   * "Rejoice… again I say, rejoice" (Php 4:4).
+   * "Rejoice... again I say, rejoice" (Php 4:4).
    * Guilt cannot fuel long-term discipleship; delight in Christ can.
    * Practical helps: confess hidden sin (Ps 32:3), recall salvation (Ps 51:12), pursue purposeful mission (Ro 8:18), worship through pain (Hab 3).
 
@@ -110,11 +111,3 @@ The conversation tackles two big themes:
 * Gratitude for the Incarnation: "You who were infinite became intimate."
 * Petition: restore joy to believers walking through loss or hardship.
 * Commitment: that every Christmas practice would spotlight Christ, not culture.
-
----
-
-{{< youtube id=BfM0WDNq4FU class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

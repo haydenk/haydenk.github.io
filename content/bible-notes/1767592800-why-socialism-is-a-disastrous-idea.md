@@ -3,6 +3,7 @@ title = 'Why Socialism is a Disastrous Idea (and UNBIBLICAL)?!'
 slug = 'why-socialism-is-a-disastrous-idea'
 date = 2026-01-05T00:00:00
 draft = false
+youtube = 'ahIQRn7bGvw'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -97,11 +98,3 @@ tags = ['live-free', 'podcast', 'lakepointe']
 * Comment on YouTube to enter hat giveaway; topic: effectiveness of resolutions.
 * Download Lake Pointe app (text "APP" to 20411) to follow the 2026 discipleship journey.
 * Night of Prayer & Worship: 21 Jan (on-site & online).
-
----
-
-{{< youtube id=ahIQRn7bGvw class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/)

@@ -3,6 +3,7 @@ title = 'Fearless Living in the Hands of God'
 slug = 'fearless-living-in-the-hands-of-god'
 date = 2025-10-11T16:30:00-05:00
 draft = false
+youtube = 'lO3q2Nn0oHg'
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
 
@@ -11,8 +12,6 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Pastor begins by greeting all campuses and online viewers, then poses a penetrating question: “What would you do if you weren’t afraid?”  
 * Acknowledges common, paralyzing fears—rejection, failure, success, loneliness, financial entrapment, relational stagnation.  
 * Sets the stage for Acts 23, continuing Lake Pointe's series on the life of Paul.
-
-<!--more-->
 
 ## Scripture Reference(s)
 
@@ -36,7 +35,7 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 * Paul claims a clear conscience, is struck on the mouth by order of the high priest, reacts in frustration, then apologizes—revealing his humanity.  
 * Masterful strategy: declares his Pharisee heritage and hope in the resurrection, igniting Pharisee–Sadducee debate and diverting attention.  
-* Roman commander extracts Paul for safety; that night Jesus appears: “Take courage… you must testify in Rome.”  
+* Roman commander extracts Paul for safety; that night Jesus appears: “Take courage... you must testify in Rome.”  
 * Lesson: divine encouragement often follows disappointment, assuring us our calling is not over.
 
 ### 3. Personal Testimony: Vegas to Kentucky
@@ -94,11 +93,3 @@ Jesus’ whispered assurance—“Take courage, I’m not done with you”—is 
 
 * Max Lucado, Fearless  
 * Greek term: hypostasis—foundation, confidence
-
----
-
-{{< youtube id=lO3q2Nn0oHg class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

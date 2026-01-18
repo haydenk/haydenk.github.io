@@ -1,8 +1,9 @@
 +++
-title = 'Why This Christian Podcast Is Reaching Millions (And What’s Coming Next)'
+title = "Why This Christian Podcast Is Reaching Millions (And What's Coming Next)"
 slug = 'why-this-christian-podcast-is-reaching-millions-and-whats-coming-next'
 date = 2025-12-29 00:00:37-06:00
 draft = false
+youtube = 'Zo9fBX2nsdw'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -15,7 +16,7 @@ Laughter, snorts, and a playful “Let’s kick this pig” opened episode 56—
 
 ### Pastor Josh
 
-* Fresh from preaching, he stared at "thousands of people walking through the halls" and kept repeating the numbers with disbelief—"7.5 million… 867 million views… that is stupid!"
+* Fresh from preaching, he stared at "thousands of people walking through the halls" and kept repeating the numbers with disbelief—"7.5 million... 867 million views... that is stupid!"
 * Philosophy: the podcast is "air-war discipleship." Sunday sermons handle the ground war; the pod tackles cultural issues so "the enemy can't take back the ground."
 * Scripture referenced: Acts 17 (the Areopagus) and 2 Corinthians 10:5 ("we destroy arguments and take every thought captive").
 * Heart cry: "We are not in the view-count business; we are in the discipleship business."
@@ -39,7 +40,7 @@ Laughter, snorts, and a playful “Let’s kick this pig” opened episode 56—
 * Jaw-dropping reach—proof that every metric is "a real person with a real hunger for a real God."
 * Organic, unprompted discipleship groups springing up in coffee shops at 7 a.m.
 * Clear sense that social media is today's Areopagus where the gospel must sound.
-* Repeated gratitude: "Praise the Lord… this is insane… completely stunned."  
+* Repeated gratitude: "Praise the Lord... this is insane... completely stunned."  
 
 ## Prayer Points & Next Steps
 
@@ -50,11 +51,3 @@ Laughter, snorts, and a playful “Let’s kick this pig” opened episode 56—
 
 ## Closing Blessing  
 Pastor Josh, hurrying to preach his seventh Christmas service, clasped hands with Carlos and said, “Live free, brother.”
-
----
-
-{{< youtube id=Zo9fBX2nsdw class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

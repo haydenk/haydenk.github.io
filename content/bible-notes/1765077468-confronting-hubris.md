@@ -13,8 +13,6 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 * Matthew 5:3–12
 * Job _(general allusions)_
 
-<!--more-->
-
 ### Full Texts of Every Passage Read Aloud
 
 #### James 5:1–6
@@ -114,8 +112,3 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 4. Replace self-reliance with active patience: worship while you wait, work faithfully, rest when God says rest.  
 5. Speak plainly: let “yes” be yes, “no” be no; refuse to leverage God’s name to prop up personal agendas.  
 6. Daily decision grid: “Would I do or postpone this if Jesus returned tonight?”
-
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

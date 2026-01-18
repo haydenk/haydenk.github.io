@@ -47,7 +47,7 @@ tags = ['bootcamp', 'sermon', 'lakepointe']
 ### 2. The Word of God—Our Only Offensive Weapon
 
 * Armour of God (Ephesians 6:10-17): every piece is defensive except "the sword of the Spirit, which is the Word of God."
-* Jesus' model (Luke 4): three temptations, three answers—"It is written…." (quotes Deuteronomy 6 & 8). Scripture defeats Satan.
+* Jesus' model (Luke 4): three temptations, three answers—"It is written...." (quotes Deuteronomy 6 & 8). Scripture defeats Satan.
 * Nature of Scripture: 66 books, 40 writers, one divine Author whose words "will never pass away" (Matthew 24:35).
 * Historic resilience: French Huguenots, Tyndale's English Bible, Voltaire's failed prediction—"Pound away, you evil hands; the hammer breaks, the anvil stands."
 
@@ -94,7 +94,6 @@ The enemy is real, but the Word is stronger. Pick up your sword—fight for your
 * Lake Pointe Daily Bible Reading Plan (inside the Lake Pointe app)
 * "Rooted" 10-Week Discipleship Experience
 * Historical illustrations: French Huguenots monument; William Tyndale's last words; Voltaire's house Bible press
-
 
 ## Insights
 

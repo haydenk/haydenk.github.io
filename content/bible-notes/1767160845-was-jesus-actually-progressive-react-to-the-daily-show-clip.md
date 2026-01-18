@@ -3,6 +3,7 @@ title = 'Was Jesus actually PROGRESSIVE? (React to the Daily Show clip)'
 slug = 'was-jesus-actually-progressive-react-to-the-daily-show-clip'
 date = 2025-12-31 00:00:45-06:00
 draft = false
+youtube = 'dSDCuY5piDk'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -104,11 +105,3 @@ Christians face mounting pressure to baptize every “progressive” trend. The 
 * Abraham Kuyper, "Sphere Sovereignty" (lectures & writings)
 * Classic Just War Theory (Augustine, Aquinas)
 * Data studies on charitable giving (e.g., Arthur Brooks, Who Really Cares)
-
----
-
-{{< youtube id=dSDCuY5piDk class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

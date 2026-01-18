@@ -12,8 +12,6 @@ tags = ['glad-tidings-we-bring', 'sermon', 'lakepointe']
 * Opening week emphasis: the “all people” element—God’s heart to reach every person wrestling with loneliness.  
 * Film illustration: Home Alone. Beneath its humor lies the universal ache of isolation heightened during Christmas.
 
-<!--more-->
-
 ## Scripture References
 
 * Luke 2:10
@@ -86,7 +84,3 @@ Christ’s birth heralds glad tidings for “all people,” including the lonely
 * Film: Home Alone (1990, dir. Chris Columbus).  
 * Series: “Christmas at the Movies – Glad Tidings We Bring.”  
 * Suggested follow-up: church small-group directory, local outreach opportunities, Lake Pointe Church resources on forgiveness.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

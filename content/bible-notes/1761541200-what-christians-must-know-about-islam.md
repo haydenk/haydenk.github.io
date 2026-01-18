@@ -3,13 +3,12 @@ title = 'What Christians MUST KNOW about Islam in America'
 slug = 'what-christians-must-know-about-islam'
 date = 2025-10-27T00:00:00-05:00
 draft = false
+youtube = '2GuvtmbuEJA'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
 The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pride and humility, addressed whether Christians should take part in Halloween, and considered Islam’s theological and political claims in light of Scripture and current events (New York mayoral race, Nigerian persecution).  
-
-<!--more-->
 
 ## Scripture References
 
@@ -48,7 +47,7 @@ The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pri
 2. Naaman’s request for Israeli soil reflects ancient belief in territorial gods; Yahweh alone rules “hills and valleys.”  
 3. Baptism typology: great man enters dirty water, rises “like a little child” (cf. Matthew 18:3).  
 4. Isaiah 65:5 highlights God’s revulsion at pride:  
- “ …who say, ‘Keep to yourself, do not come near me, for I am holier than you!’ These are a smoke in my nostrils, a fire that burns all the day.”  
+ “ ...who say, ‘Keep to yourself, do not come near me, for I am holier than you!’ These are a smoke in my nostrils, a fire that burns all the day.”  
 5. Salvation text (Romans 10:9) linked to Naaman’s confession.  
 6. Core gospel:  
  “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.” (John 3:16)  
@@ -59,13 +58,13 @@ The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pri
 * 1 Timothy 2:5–6  
  “For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all.”  
 * John 16:2  
- “…the hour is coming when whoever kills you will think he is offering service to God.”  
+ “...the hour is coming when whoever kills you will think he is offering service to God.”  
 * Galatians 1:8  
  “But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed.”  
 * Ephesians 5:11  
  “Take no part in the unfruitful works of darkness, but instead expose them.”  
 * 1 John 4:1  
- “Beloved, do not believe every spirit, but test the spirits to see whether they are from God…”  
+ “Beloved, do not believe every spirit, but test the spirits to see whether they are from God...”  
 * Matthew 5:14  
  “You are the light of the world. A city set on a hill cannot be hidden.”  
 
@@ -88,11 +87,3 @@ The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pri
 3. Protection and comfort for Nigerian Christians; justice against genocidal violence.  
 4. Wise, courageous witness during Halloween; opportunities to share Christ.  
 5. Global church to walk in unity, testing every spirit and exposing darkness.
-
----
-
-{{< youtube id=2GuvtmbuEJA class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

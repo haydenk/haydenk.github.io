@@ -3,13 +3,12 @@ title = 'Christian Nationalism & Civic Engagement'
 slug = 'christian-nationlism-and-civic-engagement'
 date = 2025-10-15T00:00:00-05:00
 draft = false
+youtube = 'c874lvYWR9A'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
 A panel of pastors and ministry leaders discussed the rapidly growing debate over “Christian nationalism.” They clarified definitions, corrected caricatures, examined biblical texts, cited America’s founding documents, answered common objections, and shared pastoral experiences—especially from strongly progressive regions—about why Christians should engage the public square without idolatry.
-
-<!--more-->
 
 ## Scripture Reference(s)
 
@@ -42,15 +41,15 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
 ## Theological / Exegetical Points  
 1. Jeremiah 29:4-7 – God tells exiles to “seek the welfare of the city,” implying civic engagement even in pagan contexts.  
 
-   “Thus says the LORD of hosts… ‘Seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare.’ ”  
+   “Thus says the LORD of hosts... ‘Seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare.’ ”  
 
 2. Matthew 28:18-20 – The Great Commission targets “all nations,” requiring public discipleship.  
 
-   “And Jesus came and said to them, ‘All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations… teaching them to observe all that I have commanded you.’ ”  
+   “And Jesus came and said to them, ‘All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations... teaching them to observe all that I have commanded you.’ ”  
 
 3. Matthew 5:13-16 – Salt/light metaphors demand visible cultural influence.  
 
-   “You are the salt of the earth… You are the light of the world… let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.”  
+   “You are the salt of the earth... You are the light of the world... let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.”  
 
 4. Psalm 33:12 – National blessing is tied to acknowledging the LORD.  
 
@@ -62,7 +61,7 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
 
 6. Romans 13:1-4 – Government is “God’s servant”; servants must obey their Master’s moral law.  
 
-   “Let every person be subject to the governing authorities… for he is God’s servant for your good… he does not bear the sword in vain.”  
+   “Let every person be subject to the governing authorities... for he is God’s servant for your good... he does not bear the sword in vain.”  
 
 7. Colossians 2:15 – Christ’s cross was an act of triumphal power, not capitulation.  
 
@@ -70,7 +69,7 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
 
 8. 2 Thessalonians 3:6-12 – Expectation of Christ’s return must not produce civic idleness.  
 
-   “If anyone is not willing to work, let him not eat… do their work quietly and earn their own living.”  
+   “If anyone is not willing to work, let him not eat... do their work quietly and earn their own living.”  
 
 ## Interaction & Group Responses  
 * Hosts laughed at media caricatures (“NAR Hawaiian prophet,” “January 6 buffalo horns”) but quickly disavowed extremism.  
@@ -91,11 +90,3 @@ A panel of pastors and ministry leaders discussed the rapidly growing debate ove
 * Protection and courage for churches ministering in hostile environments.  
 * National repentance for legalized abortion and sexual confusion; revival that merges heart-change with policy change.  
 * Wisdom for Christians holding public office to remain servants of God, not idols of power.  
-
----
-
-{{< youtube id=c874lvYWR9A class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

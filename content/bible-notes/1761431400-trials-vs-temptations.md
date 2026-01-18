@@ -9,8 +9,6 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 ## Introduction  
 Ice-breaker question: “Which is harder to deal with—trials or temptations?” The group used personal experience to compare the two and set the stage for studying James 1:12-15.
 
-<!--more-->
-
 ## Scripture Reference(s)  
 James 1:12 - 15  
 
@@ -68,7 +66,3 @@ James 1:12 - 15
 * Stay close to God in all seasons (prayer, Word, community) to starve sinful desire.  
 * Establish physical/accountability barriers before the lure appears.  
 * Engage actively in one’s calling; purposeful Kingdom service redirects energy and affections.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

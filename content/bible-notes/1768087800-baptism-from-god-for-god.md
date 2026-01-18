@@ -59,7 +59,3 @@ The group launched week 2 of an eight-week discipleship series that parallels Su
 3. Remember identity precedes assignment—receive God's affirmation before rushing into service.
 4. Approach baptism as a launchpad for Spirit-empowered obedience, not mere "fire-insurance."
 5. Pray—though not a technical prerequisite, prayer is the primary vehicle for fresh filling and guidance by the Spirit.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/)

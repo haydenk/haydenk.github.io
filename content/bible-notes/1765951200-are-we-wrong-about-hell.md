@@ -3,6 +3,7 @@ title = 'Are We WRONG About Hell? (A Response to Kirk Cameron Controversy)'
 slug = 'are-we-wrong-about-hell'
 date = 2025-12-17T00:00:00
 draft = false
+youtube = '6OjMW6Sb0HE'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -48,7 +49,7 @@ The speaker responds to Kirk Cameron's recent podcast segment in which Cameron a
 
 ### 6. Biblical Evidence for Eternal, Conscious, Varied Punishment
 * Degrees of punishment: Romans 2; Matthew 10:15 ("more bearable"); Luke 12:47-48 (severe vs. light beating).
-* Eternity of punishment: Matthew 25 (eternal life / eternal punishment parallel); Revelation 20 (tormented "day and night forever and ever"); Revelation 14 ("no rest day or night … forever and ever").
+* Eternity of punishment: Matthew 25 (eternal life / eternal punishment parallel); Revelation 20 (tormented "day and night forever and ever"); Revelation 14 ("no rest day or night ... forever and ever").
 * Language of "no rest" and "day and night" cannot harmonize with simple cessation of existence.
 
 ### 7. Fairness Reframed
@@ -76,11 +77,3 @@ Believers must hold fast to the historic, scriptural teaching on hell, recognizi
 * R. C. Sproul on "weeping and gnashing of teeth."
 * Mark Twain quip: humanity remakes God in its image.
 * Kirk Cameron podcast dialogue (source of discussion).
-
----
-
-{{< youtube id=6OjMW6Sb0HE class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

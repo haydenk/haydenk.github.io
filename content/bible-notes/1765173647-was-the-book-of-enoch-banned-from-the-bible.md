@@ -3,6 +3,7 @@ title = 'Was the Book of Enoch BANNED from the Bible...!?'
 slug = 'was-the-book-of-enoch-banned-from-the-bible'
 date = 2025-12-08 00:00:47-06:00
 draft = false
+youtube = 'lftwcOn0N2s'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -98,11 +99,3 @@ Christmas week recap (33 000+ in-person), viral “Home Alone is a Christian mov
 
 * Candle-light services (30+ options; text CHRISTMAS to 20411).
 * Next podcast topic teased: "Should Christians teach their kids about Santa Claus?"
-
----
-
-{{< youtube id=lftwcOn0N2s class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

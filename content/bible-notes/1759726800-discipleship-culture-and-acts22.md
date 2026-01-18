@@ -3,14 +3,13 @@ title = 'Discipleship, Culture'
 slug = 'discipleship-culture'
 date = 2025-10-06T00:00:00-05:00
 draft = false
+youtube = 'Y18OrjqkYPo'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction
 
 Hosts Carlos Erazo, Pastor Josh Howerton, and Pastor Paul Cunningham review Carlos’s sermon on Acts 22, explore current cultural pressures (Netflix’s transgender content, historic LGBT strategy), and offer counsel on parenting, testimony-sharing, and discipleship.
-
-<!--more-->
 
 ## Scripture Reference(s)
 
@@ -34,7 +33,7 @@ Hosts Carlos Erazo, Pastor Josh Howerton, and Pastor Paul Cunningham review Carl
 
 * Jesus reshaped history: attitudes toward children, women, education, science, medicine, and social ethics.  
 * Acts 22: Paul’s defense in Aramaic; background under Gamaliel shows Jesus rescues rebels and the religious.  
-* Parallel language links Paul’s speech (“Brothers and fathers…”) with Stephen’s in Acts 7, underscoring Paul’s change.  
+* Parallel language links Paul’s speech (“Brothers and fathers...”) with Stephen’s in Acts 7, underscoring Paul’s change.  
 * Christianity birthed hospitals, schools, literacy movements, and many Ivy-League universities.  
 * Netflix embeds transgender ideology in children’s shows (Cocomelon, Transformers, Monster High); such episodes function as sermons that catechise children.  
 * “After the Ball” (1987) detailed a media strategy—victim narrative, desensitization, vilifying churches—to normalize LGBT doctrine; present culture reflects its success.  
@@ -71,11 +70,3 @@ Hosts Carlos Erazo, Pastor Josh Howerton, and Pastor Paul Cunningham review Carl
 * Salvation for those captive to deceptive ideologies.  
 * Spirit-empowered wisdom for parents; truth and love to fill children.  
 * Strength for the church to stand firm, act in love, and protect the vulnerable.
-
----
-
-{{< youtube id=Y18OrjqkYPo class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

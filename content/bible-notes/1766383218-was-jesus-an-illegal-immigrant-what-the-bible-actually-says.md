@@ -1,8 +1,9 @@
 +++
-title = 'Was Jesus an “Illegal Immigrant”…!? (What the Bible ACTUALLY Says)'
+title = 'Was Jesus an "Illegal Immigrant"...!? (What the Bible ACTUALLY Says)'
 slug = 'was-jesus-an-illegal-immigrant-what-the-bible-actually-says'
 date = 2025-12-22 00:00:18-06:00
 draft = false
+youtube = 'KaNrG8ocfwE'
 tags = []
 +++
 
@@ -73,11 +74,3 @@ The team explored the many biblical “deep cuts” of the Christmas story, cont
 * Peace, joy, and Jesus' presence in every household.
 * Courage and compassion for believers navigating cultural debates with grace + truth.
 * Strength for pastors shepherding congregations affected by immigration fears.
-
----
-
-{{< youtube id=KaNrG8ocfwE class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

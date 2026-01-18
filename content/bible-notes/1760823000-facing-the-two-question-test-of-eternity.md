@@ -3,6 +3,7 @@ title = 'Facing The Two-Question Test of Eternity'
 slug = 'facing-the-two-question-test-of-eternity'
 date = 2025-10-18T16:30:00-05:00
 draft = false
+youtube = 'ms9zvqY9mW8'
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
 
@@ -12,8 +13,6 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Opens with a lighthearted “St. Peter at the gate” joke to expose common confusion about salvation and judgment.  
 * States pastoral priority: preparing believers for eternity above all else.  
 * Sets goal for message—clarify exactly what happens the moment after death and at Christ’s return.
-
-<!--more-->
 
 ## Scripture Reference(s)
 
@@ -90,11 +89,3 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 ## References & Resources  
 * Lake Pointe Foster & Adoption Conference – catalyst for Lewis & Casey’s ministry story.
-
----
-
-{{< youtube id=ms9zvqY9mW8 class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

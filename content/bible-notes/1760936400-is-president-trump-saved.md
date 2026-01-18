@@ -3,6 +3,7 @@ title = 'Is President Trump Saved?!'
 slug = 'is-president-trump-saved'
 date = 2025-10-20T00:00:00-05:00
 draft = false
+youtube = '9Mp0PiLaUXo'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -10,8 +11,6 @@ tags = ['live-free', 'podcast', 'lakepointe']
 * Pastors Josh Howerton, Carlos Erazo, and Paul Cunningham open a new series, “Run to Win,” examining how Christians live with eternal purpose.  
 * CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
 * Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
-
-<!--more-->
 
 ## Scripture References
 
@@ -31,7 +30,7 @@ tags = ['live-free', 'podcast', 'lakepointe']
 > “Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable. So I do not run aimlessly; I do not box as one beating the air. But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified.”  
 
 > Hebrews 12:1–2  
-> “Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith…”  
+> “Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith...”  
 
 (Full texts of the other quoted passages appear where they are discussed below.)
 
@@ -55,11 +54,11 @@ tags = ['live-free', 'podcast', 'lakepointe']
    * Dispensational view: multiple end-time judgments (Bēma after rapture; national, sheep-goats, Great White Throne).  
    * Covenant view: single final judgment with distinct outcomes for believers/unbelievers.  
 2. Degrees of Accountability – Luke 12:47-48  
-   “That servant who knew his master’s will…will receive a severe beating, but the one who did not know…will receive a light beating. Everyone to whom much was given, of him much will be required.”  
+   “That servant who knew his master’s will...will receive a severe beating, but the one who did not know...will receive a light beating. Everyone to whom much was given, of him much will be required.”  
 3. National Light & Responsibility – Matthew 11:21-24  
    Jesus warns Chorazin, Bethsaida, Capernaum that their greater revelation makes future judgment “less tolerable” for notorious OT cities. Concern applied to modern America.  
 4. Salvation by Grace – Ephesians 2:8-9  
-   “For by grace you have been saved through faith…not a result of works, so that no one may boast.”  
+   “For by grace you have been saved through faith...not a result of works, so that no one may boast.”  
 
 ## Interaction & Group Responses  
 * Hosts recall personal “rope-climb” failures and how setbacks deepen faith.  
@@ -86,11 +85,3 @@ tags = ['live-free', 'podcast', 'lakepointe']
 ## Next Meeting / Future Arrangements  
 * Continue “Run to Win” series: upcoming messages on storing treasure in heaven.  
 * Podcast listeners: text “NOTES” to 2041 or visit lakepoint.church/shownotes for weekly discipleship guide.
-
----
-
-{{< youtube id=9Mp0PiLaUXo class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

@@ -3,6 +3,7 @@ title = 'Slavery, Feminism & Obedience'
 slug = 'slavery-feminism-obedience'
 date = 2025-11-17T00:00:00-05:00
 draft = false
+youtube = 'QZmhRfV4Gjs'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -11,8 +12,6 @@ The conversation centres on Paul’s trial before Felix (Acts 24) and three link
 1. Procrastination in spiritual obedience (Felix’s tragic delay)  
 2. “Does the Bible condone slavery?” - a historical–exegetical survey  
 3. The widening gender divide in modern politics, feminism and “toxic empathy”  
-
-<!--more-->
 
 ## Gathering Information
 * Hosts/Participants: Josh Howerton, Paul Cunningham, Jana Howerton  
@@ -39,7 +38,7 @@ The conversation centres on Paul’s trial before Felix (Acts 24) and three link
    * Paul is transferred to Caesarea (Acts 23:31-35) and kept in Herod’s praetorium.  
    * Felix: former Roman slave turned governor; married to Drusilla (Herod Agrippa I’s daughter).  
    * Paul reasons with them on righteousness, self-control and the coming judgment.  
-   * Felix becomes “alarmed” yet repeatedly postpones decision: “When I find it convenient…” (v. 25).  
+   * Felix becomes “alarmed” yet repeatedly postpones decision: “When I find it convenient...” (v. 25).  
    * Paul remains two years, uncompromising, refuses bribery.
 
 2. **Why People Delay Obedience**  
@@ -94,11 +93,3 @@ The conversation centres on Paul’s trial before Felix (Acts 24) and three link
 * Courage for those facing relational opposition to faith steps.  
 * Healing for victims of abuse and misuse of authority.  
 * Wisdom for the church to disciple men and women faithfully amid cultural confusion.
-
----
-
-{{< youtube id=QZmhRfV4Gjs class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 
