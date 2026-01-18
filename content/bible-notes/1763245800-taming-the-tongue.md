@@ -10,8 +10,6 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 * Leader opened with a real-life “home intruder” story to illustrate how one irreversible decision (pulling a trigger) parallels the permanent impact of spoken words.  
 * Group reflected on the gravity of life-and-death choices and transitioned to the greater spiritual issue: how words can destroy or give life.
 
-<!--more-->
-
 ## Scripture References
 
 * James 3:1–13
@@ -62,7 +60,3 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 
 ## Prayer / Intercession Items
 * Collective petition for Holy Spirit control over tongues; desire to reflect Christ in every word.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

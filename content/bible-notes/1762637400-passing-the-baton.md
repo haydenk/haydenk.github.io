@@ -3,6 +3,7 @@ title = 'Passing the Baton: Running the Relay of Faith'
 slug = 'passing-the-baton'
 date = 2025-11-08T16:30:00-05:00
 draft = false
+youtube = '7lBm8BRcm38'
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
 
@@ -10,8 +11,6 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Pastor opens by honoring students who led worship, remembering his own first preaching opportunity.  
 * Announces “Christmas at the Movies” (Nov 29–30) designed for evangelism.  
 * Sets tone: Today’s shorter message focuses on what will matter when believers are “hugging Jesus”—handing down the faith.
-
-<!--more-->
 
 ## Scripture References  
 * Hebrews 12:1–2  
@@ -82,11 +81,3 @@ For the 35-Plus:
 * Older believers: “Run through the line” and extend the baton with clarity and encouragement.  
 * Younger believers: Grip the baton with faith and sprint into God’s purposes, believing another awakening is imminent.  
 * Congregation invited to commit—each group to its charge—for the glory of Christ and the salvation of those yet to come.
-
----
-
-{{< youtube id=7lBm8BRcm38 class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

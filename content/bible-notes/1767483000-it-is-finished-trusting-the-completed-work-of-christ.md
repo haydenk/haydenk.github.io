@@ -71,7 +71,3 @@ The group mirrored Sunday's sermon on John 19:30 ("It is finished"), asking: "If
 * Growth in vulnerability: courage to ask for prayer for personal needs.
 * Wisdom for upcoming career or life decisions; willingness to let God close or open doors.
 * Freedom from the habit of striving for approval; rest in Christ's completed work.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

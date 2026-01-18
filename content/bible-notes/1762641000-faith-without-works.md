@@ -11,8 +11,6 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 *  Tonight’s focus: James 2 : 14 - 26, presented as the “apex” of James—everything before it points forward and everything after it looks back.  
 *  Goal: allow the passage to “penetrate marrow,” producing conviction and action rather than mere agreement.
 
-<!--more-->
-
 ## Scripture References
 
 * Luke 10:25-37
@@ -22,13 +20,13 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 
 ### Full Texts (NIV)  
 Luke 10 : 25 - 37  
-“On one occasion an expert in the law stood up to test Jesus…‘Go and do likewise.’”
+“On one occasion an expert in the law stood up to test Jesus...‘Go and do likewise.’”
 
 James 2 : 14 - 26  
-“What good is it, my brothers and sisters, if someone claims to have faith but has no deeds?…as the body without the spirit is dead, so faith without deeds is dead.”
+“What good is it, my brothers and sisters, if someone claims to have faith but has no deeds?...as the body without the spirit is dead, so faith without deeds is dead.”
 
 Matthew 7 : 21 - 23  
-“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven…‘I never knew you. Away from me, you evildoers!’”
+“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven...‘I never knew you. Away from me, you evildoers!’”
 
 Romans 3 : 28  
 “For we maintain that a person is justified by faith apart from the works of the law.”
@@ -75,7 +73,3 @@ Romans 3 : 28
 *  Conviction leading to repentance where talk outweighs walk.  
 *  Discernment for members facing complicated family-help situations.  
 *  Courage to “cross the road” and engage the marginalized this week.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

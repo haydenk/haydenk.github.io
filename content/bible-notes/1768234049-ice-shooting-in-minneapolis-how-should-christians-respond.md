@@ -3,6 +3,7 @@ title = 'ICE Shooting in Minneapolis: How Should Christians Respond!?'
 slug = 'ice-shooting-in-minneapolis-how-should-christians-respond'
 date = 2026-01-12 00:00:29
 draft = false
+youtube = 'qrFZznW-K48'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -52,12 +53,12 @@ The episode tackles four main topics:
 ## Theological / Exegetical Points
 * Metonymy: "baptism" can stand for the whole salvation event; water alone does not justify.
 * Day of Atonement typology: two identical goats foreshadow Jesus (sacrifice) and Barabbas (scapegoat).
-* Trinitarian revelation at Jesus' baptism—Father's voice reveals the heart of true fatherhood ("You are my beloved Son…") and affirms identity before performance.
+* Trinitarian revelation at Jesus' baptism—Father's voice reveals the heart of true fatherhood ("You are my beloved Son...") and affirms identity before performance.
 * Spirit-filling language: "baptism," "filling," "unction" point to the same experiential grace.
 
 ## Interaction & Group Responses
 * Hosts share personal stories: Josh Howerton's 2014 Spirit-encounter; childhood baptisms; humorous cultural mash-ups.
-* Audience sent in a child quoting Josh's three-step invitation ("God loves you… lock that elbow!")—illustrates baptism enthusiasm.
+* Audience sent in a child quoting Josh's three-step invitation ("God loves you... lock that elbow!")—illustrates baptism enthusiasm.
 * Live chat questions addressed: rebaptism after infant sprinkling, timing for children, baptism after recommitment ("one-and-done").
 
 ## Practical Applications
@@ -97,11 +98,3 @@ The episode tackles four main topics:
 4. The Holy Spirit stirs not riots but repentance, empowering God’s people to build, not burn; reformation replaces the spirit of lawlessness with joyful submission to Christ’s kingdom.
 5. Every authority draws breath from the Father’s throne; when we honor rightful order, we proclaim that Jesus remains the ultimate Lord over earth and heaven, silencing chaos with humble obedience.
 6. Stop measuring your worth by yesterday’s failures; Christ’s finished work shouts that nothing can be added to the salvation He already secured, so walk freely in the confidence of sons and daughters.
-
----
-
-{{< youtube id=qrFZznW-K48 class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/)

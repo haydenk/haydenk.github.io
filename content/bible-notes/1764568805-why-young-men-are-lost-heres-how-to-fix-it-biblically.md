@@ -1,8 +1,9 @@
 +++
-title = 'Why Young Men Are LOST… Here’s How To Fix it (Biblically)'
+title = "Why Young Men Are LOST... Here's How To Fix it (Biblically)"
 slug = 'why-young-men-are-lost-heres-how-to-fix-it-biblically'
 date = 2025-12-01 00:00:05-06:00
 draft = false
+youtube = '7-pZCLdtvH0'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -139,11 +140,3 @@ The episode centres on two themes:
 * Christmas Candlelight Services—text "CHRISTMAS" to 20411 for times/locations.
 * Rooted launches in a few weeks—sign-ups open.
 * Final tally on Christmas-tree poll and next merch-giveaway winner announced on the following episode.
-
----
-
-{{< youtube id=7-pZCLdtvH0 class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

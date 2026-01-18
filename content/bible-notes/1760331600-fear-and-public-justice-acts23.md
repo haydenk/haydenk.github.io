@@ -3,13 +3,12 @@ title = 'Fear & Public Justice '
 slug = 'fear-and-public-justice'
 date = 2025-10-13T00:00:00-05:00
 draft = false
+youtube = 'hH7dflzoNCk'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
 Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shores) walk through Acts 23, share personal testimony on overcoming anxiety, and evaluate current cultural questions about abortion, capital punishment, and immigration—responding to recent comments from Pope Francis and a Seattle mayor.
-
-<!--more-->
 
 ## Scripture Reference(s)
 
@@ -70,7 +69,7 @@ Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shor
 
 ## Practical Applications  
 * Memorize and pray Joshua 1:9 when fear rises.  
-* Replace “What if…?” loops with “Remember when God…?” testimonies.  
+* Replace “What if...?” loops with “Remember when God...?” testimonies.  
 * In civic engagement, uphold both compassion (individual calling) and justice/order (government calling).  
 * Evaluate news claims (e.g., papal statements) against Scripture and historic Christian teaching.  
 * Parents: model godly priorities—Josh stopped recording the moment his kids returned.
@@ -83,11 +82,3 @@ Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shor
 
 ## Next Meeting / Future Arrangements  
 * Lake Pointe’s upcoming series “Run to Win” (judgment & rewards, end-times themes) launches this weekend.
-
----
-
-{{< youtube id=hH7dflzoNCk class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

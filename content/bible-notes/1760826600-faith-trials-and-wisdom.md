@@ -11,8 +11,6 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 * Leader highlighted four biblical men named James and identified the letter’s author as “James the Just,” half-brother of Jesus and senior pastor of the Jerusalem church (circa A.D. 40).  
 * Purpose of the letter: equip scattered Jewish Christians to live out genuine faith amid persecution.  
 
-<!--more-->
-
 ## Scripture Reference(s)
 
 * James 1:1-12
@@ -68,7 +66,3 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 * Examine life for tangible evidence of faith: service, generosity, obedience.  
 * If materially comfortable, practice intentional humility; if lacking, remember high status in Christ.  
 * Make yourself available to disciple younger believers; seek mentors when you need perspective.
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

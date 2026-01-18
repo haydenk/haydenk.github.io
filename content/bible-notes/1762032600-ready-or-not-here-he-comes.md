@@ -3,6 +3,7 @@ title = 'Ready or Not, Here He Comes'
 slug = 'ready-or-not-here-he-comes'
 date = 2025-11-01T16:30:00-05:00
 draft = false
+youtube = 'LcLs28cTHCk'
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
 
@@ -10,8 +11,6 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Pastor begins with lighthearted remarks about arriving “disheveled” after family soccer and cheer events, then quickly shifts: no sleepy listeners—today is about the return of Jesus.  
 * Series theme: “Run to Win” (1 Cor 9)—races have a finish line; believers must live in view of the end.  
 * Hide-and-seek illustration with his children: escalating count and the shout “Ready or not, here I come!” parallels Christ’s escalating signs and certain return.
-
-<!--more-->
 
 ## Scripture References
 
@@ -84,11 +83,3 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 
 ## Conclusion & Call to Response  
 Pastor urges listeners: “Ready or not, here He comes.” Examine your life: Are you hiding from God or welcoming His appearing? Receive Christ’s salvation, join His mission, and run your race to win the eternal prize.
-
----
-
-{{< youtube id=LcLs28cTHCk class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

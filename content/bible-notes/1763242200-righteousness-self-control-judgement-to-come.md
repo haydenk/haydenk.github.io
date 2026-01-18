@@ -3,6 +3,7 @@ title = 'Righteousness, Self-Control & the Judgment to Come'
 slug = 'righteousness-self-control-judgement-to-come'
 date = 2025-11-15T16:30:00-05:00
 draft = false
+youtube = 'QpT1lUwzGN4'
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
 
@@ -11,8 +12,6 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Upcoming evangelistic weekend: “Christmas at the Movies,” Nov 29–30, designed for guests far from God.  
 * CS Lewis’s fictional dialogue in hell: the most effective lie is “There is no hurry.”  
 * Transition to Acts 24: the Apostle Paul on trial before Governor Felix and his wife Drusilla—powerful, elite, yet spiritually undecided.
-
-<!--more-->
 
 ## Scripture References
 
@@ -78,11 +77,3 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Pastor’s personal story: friend Ian postponed decision, died suddenly, and is now eternally lost.  
 * Urgent appeal: forgive, confess, reconcile, share the gospel, join serious discipleship—do it now, not later.  
 * Video testimony of a recent Rooted graduate shown to illustrate life-changing power of immediate obedience.
-
----
-
-{{< youtube id=QpT1lUwzGN4 class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

@@ -3,13 +3,12 @@ title = 'Evidence of the Unseen Realm'
 slug = 'evidence-of-the-unseen-realm'
 date = 2025-11-22T16:30:00-05:00
 draft = false
+youtube = 'LWuVMenVAmg'
 tags = ['seeing-the-supernatural', 'sermon', 'lakepointe']
 +++
 
 ## Introduction  
 The speaker—an investigative journalist and former skeptic—opens with a humorous family story and then recounts Elisha’s servant in 2 Kings 6 whose eyes are opened to angelic hosts. This biblical episode frames the central question: Does a supernatural realm still break into our world today? Drawing from years of research for his new book, “Seeing the Supernatural,” the preacher promises evidence-based glimpses into angels, miracles, near-death experiences, and visions that strengthen faith.
-
-<!--more-->
 
 ## Scripture References
 
@@ -85,11 +84,3 @@ A corporate prayer thanks Jesus for His sacrificial love, asks Him to seal decis
 * Film: The Case for Miracles (releases Dec 15)  
 * Tom Doyle’s works on Muslim dreams & visions  
 * John Burke, Imagine Heaven (research on NDEs)
-
----
-
-{{< youtube id=LWuVMenVAmg class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

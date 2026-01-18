@@ -3,6 +3,7 @@ title = 'True Success in Surrender'
 slug = 'true-success-in-surrender'
 date = 2025-10-25T16:30:00-05:00
 draft = false
+youtube = 'aMGfNMBgG1I'
 tags = ['run-to-win', 'sermon', 'lakepointe']
 +++
 
@@ -11,8 +12,6 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Ernest recounts Lake Pointe’s partnership, highlighting the Strategic Launch Network and personal support from Pastors Steve & Josh.  
 * Sets the stage by confessing a lifelong struggle with comparison and the cultural pressure to “be successful.”  
 * Central tension: God’s definition of success vs. our drive for status, wealth, and control.
-
-<!--more-->
 
 * How God re-defines achievement through Naaman’s healing and our own obedience.
 
@@ -84,11 +83,3 @@ tags = ['run-to-win', 'sermon', 'lakepointe']
 * Annual Missions Offering (Lake Pointe).  
 * Worship songs: “This Is Our God,” “Who Else Is Worthy,” “I Speak Jesus.”  
 * Book giveaway for recurring online givers: “The Songs of Jesus” by Timothy & Kathy Keller.
-
----
-
-{{< youtube id=aMGfNMBgG1I class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

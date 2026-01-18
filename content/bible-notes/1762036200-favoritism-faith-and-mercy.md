@@ -10,8 +10,6 @@ tags = ['man-project', 'bible-study', 'lakepointe']
 * Recap of James 1: external trials require internal, Spirit-formed responses (“listen and do,” “quick to listen, slow to anger”).  
 * Transition: James now moves from the general (chapter 1) to specific conduct issues—first up, favoritism in the church.  
 
-<!--more-->
-
 ## Scripture References  
 James 1:15; James 2:1-13  
 Matthew 5 (Beatitudes / Sermon on the Mount); Matthew 19:24  
@@ -20,7 +18,7 @@ Leviticus 19:18 (quoted, “Love your neighbor as yourself”)
 
 ## Key Points  
 1. James 1:15 reviewed - sin’s progression: desire → sin → death (Cain parallel).  
-2. James 2:1 - command: “Believers… must not show favoritism.”  
+2. James 2:1 - command: “Believers... must not show favoritism.”  
    * Working definition offered: valuing certain people over others.  
 3. Reasons we show favoritism (class input):  
    * Pride, comfort, prejudice (appearance, dress, wealth, tats, religion, age, orientation).  
@@ -56,7 +54,3 @@ Leviticus 19:18 (quoted, “Love your neighbor as yourself”)
 
 ## Next Meeting / Future Arrangements  
 * Next week: continuation in James 2 (faith & works). Leader anticipates “really, really heavy stuff.”
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

@@ -2,6 +2,7 @@
 title = 'Tetelestai It Is Finished: The Starting Line of Discipleship'
 slug = 'tetelestai-it-is-finished-the-starting-line-of-discipleship'
 date = 2026-01-03T16:00:00
+youtube = 'FxQYhwdVJdo'
 tags = ['bootcamp', 'sermon', 'lakepointe']
 +++
 
@@ -91,11 +92,3 @@ tags = ['bootcamp', 'sermon', 'lakepointe']
 * Lake Pointe "Field Guide" (discipleship pathway, 2026 calendar, QR codes).
 * Lift Read Podcast (weekly deep dive).
 * New Lake Pointe App (Bible-reading plan, sermon archive).
-
----
-
-{{< youtube id=FxQYhwdVJdo class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/)

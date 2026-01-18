@@ -1,8 +1,9 @@
 +++
-title = 'Christ’s Return, Prophetic Signs & Gospel-Shaped Charity'
+title = "Christ's Return, Prophetic Signs & Gospel-Shaped Charity"
 slug = 'stay-ready-christs-return'
 date = 2025-11-03T00:00:00-05:00
 draft = false
+youtube = 'CgNnDMbAfTU'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
@@ -12,8 +13,6 @@ A free-flowing discussion (Carlos Erazo, Ps. Josh Howerton, Ps. Paul, and team) 
 * How to read current events in light of biblical prophecy  
 * Practical readiness for Christ’s return  
 * A biblical critique of socialism vs. gospel generosity
-
-<!--more-->
 
 ## Scripture References
 
@@ -88,11 +87,3 @@ A free-flowing discussion (Carlos Erazo, Ps. Josh Howerton, Ps. Paul, and team) 
 * Wisdom for political leaders to honor God-given boundaries of authority.  
 * Renewed readiness and holiness within Christ’s church worldwide.  
 * Ongoing spread of the gospel to every nation.  
-
----
-
-{{< youtube id=CgNnDMbAfTU class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

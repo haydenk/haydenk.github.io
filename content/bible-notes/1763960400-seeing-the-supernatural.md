@@ -3,13 +3,12 @@ title = 'Seeing the Supernatural'
 slug = 'seeing-the-supernatural'
 date = 2025-11-24T00:00:00-05:00
 draft = false
+youtube = '94EERuXhzYc'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Introduction  
 The conversation centers on the unseen realm—angels, demons, territorial spirits, and modern phenomena often labeled “aliens” or “UFOs.” Scripture is used to frame a biblical worldview in which spiritual warfare is real, Christ is victorious, and believers are called to live alert, hope-filled lives.
-
-<!--more-->
 
 ## Gathering Information  
 * Setting: Deliver Free Podcast, Lake Pointe Church, Dallas, TX  
@@ -72,11 +71,3 @@ The conversation centers on the unseen realm—angels, demons, territorial spiri
 * Discernment for believers confronted with counterfeit spiritual experiences.  
 * Comfort for singles and couples longing for marriage or children; fulfilment in Christ while they wait.  
 * Boldness to share the gospel in a culture fascinated by the supernatural yet ignorant of its true nature.
-
----
-
-{{< youtube id=94EERuXhzYc class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 

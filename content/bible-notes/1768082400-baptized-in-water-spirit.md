@@ -3,6 +3,7 @@ title = 'Baptized in Water & Spirit'
 slug = 'baptized-in-water-spirit'
 date = 2026-01-10T16:00:00
 draft = false
+youtube = 'U7GQOlwj4bE'
 tags = ['bootcamp', 'sermon', 'lakepointe']
 +++
 
@@ -90,11 +91,3 @@ The world fearlessly parades wickedness; therefore disciples must courageously d
 
 * Martyn Lloyd-Jones, "Joy Unspeakable."
 * Lake Pointe Field Guide – discipleship tool distributed church-wide.
-
----
-
-{{< youtube id=U7GQOlwj4bE class=video-container >}}
-
----
-
-Notes Powered by Bible Note [https://biblenote.ai/](https://biblenote.ai/) 
