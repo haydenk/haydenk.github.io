@@ -5,6 +5,7 @@
 <!-- ARTICLES:START -->
 | **Date** | **Title** |
 |:---------|:----------|
+| 2026-01-19 | [Let's Talk Bible!](https://haydenk.github.io/bible-notes/2026/01/19/lets-talk-bible/) |
 | 2026-01-17 | [Trust, Obedience & Submission in the Wilderness](https://haydenk.github.io/bible-notes/2026/01/17/trust-obedience-submission-in-the-wilderness/) |
 | 2026-01-17 | [Men & Women of the Word](https://haydenk.github.io/bible-notes/2026/01/17/men-women-of-the-word/) |
 | 2026-01-12 | [ICE Shooting in Minneapolis: How Should Christians Respond!?](https://haydenk.github.io/bible-notes/2026/01/12/ice-shooting-in-minneapolis-how-should-christians-respond/) |
@@ -14,5 +15,4 @@
 | 2026-01-05 | [Why Socialism is a Disastrous Idea (and UNBIBLICAL)?!](https://haydenk.github.io/bible-notes/2026/01/05/why-socialism-is-a-disastrous-idea/) |
 | 2026-01-03 | [Tetelestai It Is Finished: The Starting Line of Discipleship](https://haydenk.github.io/bible-notes/2026/01/03/tetelestai-it-is-finished-the-starting-line-of-discipleship/) |
 | 2026-01-03 | [It is finished: Trusting the Completed Work of Christ](https://haydenk.github.io/bible-notes/2026/01/03/it-is-finished-trusting-the-completed-work-of-christ/) |
-| 2025-12-31 | [Was Jesus actually PROGRESSIVE? (React to the Daily Show clip)](https://haydenk.github.io/bible-notes/2025/12/31/was-jesus-actually-progressive-react-to-the-daily-show-clip/) |
 <!-- ARTICLES:END -->
