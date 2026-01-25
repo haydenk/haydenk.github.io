@@ -3,6 +3,7 @@ title = 'A Disciple Assembles a Band of Brothers / Sisters'
 slug = 'a-disciple-assembles-a-band-of-brothers-sisters'
 date = 2026-01-25 10:00:02
 draft = false
+youtube = 'LuJyT2kCtgY'
 tags = ['bootcamp', 'sermon', 'lakepointe', 'grace', 'community', 'confession', 'faith', 'insights']
 +++
 
