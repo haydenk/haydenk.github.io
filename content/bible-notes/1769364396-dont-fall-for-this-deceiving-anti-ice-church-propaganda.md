@@ -1,5 +1,5 @@
 +++
-title = 'Don't Fall for this DECEIVING Anti-ICE Church Propaganda'
+title = "Don't Fall for this DECEIVING Anti-ICE Church Propaganda"
 slug = 'dont-fall-for-this-deceiving-anti-ice-church-propaganda'
 date = 2026-01-25 12:06:36
 draft = false
