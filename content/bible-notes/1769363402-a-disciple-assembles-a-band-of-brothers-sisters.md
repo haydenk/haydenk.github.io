@@ -75,7 +75,7 @@ A disciple of Jesus "assembles a band of brothers or sisters." If Jesus did, we 
 * Women: settling for the wrong community; reluctance to be known; busyness; perfectionism; unrealistic dependence on friends rather than Christ.
 * Men: tendency to have *no* close community; prefer shoulder-to-shoulder mission; need to initiate around shared activity.
 
-### 7. On-Ramps at Lake Point
+### 7. On-Ramps at Lake Pointe
 
 * Ten-week "Rooted" experience = easiest place to form a band.
 * Text "ROOTED" to 20411 to enroll.
