@@ -1,6 +1,6 @@
 +++
-title = "Don't Fall for this DECEIVING Anti-ICE Church Propaganda"
-slug = 'dont-fall-for-this-deceiving-anti-ice-church-propaganda'
+title = 'Live Free: Luke 5 and Disciple-Making Principles'
+slug = 'luke-5-and-disciple-making-principles'
 date = 2026-01-25 12:06:36
 draft = false
 youtube = '5nhDkk4hLnA'
