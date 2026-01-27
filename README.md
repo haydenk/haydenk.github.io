@@ -5,7 +5,7 @@
 <!-- ARTICLES:START -->
 | **Date** | **Title** |
 |:---------|:----------|
-| 2026-01-25 | [Don't Fall for this DECEIVING Anti-ICE Church Propaganda](https://haydenk.github.io/bible-notes/2026/01/25/dont-fall-for-this-deceiving-anti-ice-church-propaganda/) |
+| 2026-01-25 | [Live Free: Luke 5 and Disciple-Making Principles](https://haydenk.github.io/bible-notes/2026/01/25/luke-5-and-disciple-making-principles/) |
 | 2026-01-25 | [A Disciple Assembles a Band of Brothers / Sisters](https://haydenk.github.io/bible-notes/2026/01/25/a-disciple-assembles-a-band-of-brothers-sisters/) |
 | 2026-01-21 | [Politics Got Spiritual: A Biblically-Rooted Reply to Progressive Claims](https://haydenk.github.io/bible-notes/2026/01/21/politics-got-spiritual-a-biblically-rooted-reply-to-progressive-claims/) |
 | 2026-01-19 | [Let's Talk Bible!](https://haydenk.github.io/bible-notes/2026/01/19/lets-talk-bible/) |
