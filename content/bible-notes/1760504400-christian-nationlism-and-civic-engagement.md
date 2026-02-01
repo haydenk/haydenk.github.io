@@ -2,7 +2,7 @@
 title = 'Christian Nationalism & Civic Engagement'
 slug = 'christian-nationlism-and-civic-engagement'
 date = 2025-10-15T00:00:00-05:00
-draft = false
+draft = true
 youtube = 'c874lvYWR9A'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

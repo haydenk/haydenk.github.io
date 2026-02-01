@@ -2,7 +2,7 @@
 title = 'Seeing the Supernatural'
 slug = 'seeing-the-supernatural'
 date = 2025-11-24T00:00:00-05:00
-draft = false
+draft = true
 youtube = '94EERuXhzYc'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

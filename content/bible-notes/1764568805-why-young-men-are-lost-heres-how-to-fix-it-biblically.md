@@ -2,7 +2,7 @@
 title = "Why Young Men Are LOST... Here's How To Fix it (Biblically)"
 slug = 'why-young-men-are-lost-heres-how-to-fix-it-biblically'
 date = 2025-12-01 00:00:05-06:00
-draft = false
+draft = true
 youtube = '7-pZCLdtvH0'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

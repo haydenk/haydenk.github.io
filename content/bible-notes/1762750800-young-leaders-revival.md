@@ -2,7 +2,7 @@
 title = 'Young Leaders, Revival & Cultural Discernment'
 slug = 'young-leaders-revival'
 date = 2025-11-10T00:00:00-05:00
-draft = false
+draft = true
 youtube = 'fJ34PSNJVrU'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

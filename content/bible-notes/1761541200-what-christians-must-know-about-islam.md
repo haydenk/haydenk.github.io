@@ -2,7 +2,7 @@
 title = 'What Christians MUST KNOW about Islam in America'
 slug = 'what-christians-must-know-about-islam'
 date = 2025-10-27T00:00:00-05:00
-draft = false
+draft = true
 youtube = '2GuvtmbuEJA'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

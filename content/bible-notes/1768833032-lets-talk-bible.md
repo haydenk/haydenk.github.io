@@ -2,7 +2,7 @@
 title = "Let's Talk Bible!"
 slug = 'lets-talk-bible'
 date = 2026-01-19 08:30:32
-draft = false
+draft = true
 youtube = 'W6I4oZzJjkI'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

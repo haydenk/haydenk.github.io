@@ -2,7 +2,7 @@
 title = 'Why Socialism is a Disastrous Idea (and UNBIBLICAL)?!'
 slug = 'why-socialism-is-a-disastrous-idea'
 date = 2026-01-05T00:00:00
-draft = false
+draft = true
 youtube = 'ahIQRn7bGvw'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
