@@ -2,7 +2,7 @@
 title = 'Politics Got Spiritual: A Biblically-Rooted Reply to Progressive Claims'
 slug = 'politics-got-spiritual-a-biblically-rooted-reply-to-progressive-claims'
 date = 2026-01-21 11:53:18
-draft = false
+draft = true
 youtube = 'Yfu7BgYxXms'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

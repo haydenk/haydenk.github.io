@@ -2,9 +2,9 @@
 title = 'Was Jesus an "Illegal Immigrant"...!? (What the Bible ACTUALLY Says)'
 slug = 'was-jesus-an-illegal-immigrant-what-the-bible-actually-says'
 date = 2025-12-22 00:00:18-06:00
-draft = false
+draft = true
 youtube = 'KaNrG8ocfwE'
-tags = []
+tags = ['live-free', 'podcast', 'lakepointe']
 +++
 
 ## Gathering Information

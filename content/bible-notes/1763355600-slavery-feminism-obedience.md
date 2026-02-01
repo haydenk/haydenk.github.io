@@ -2,7 +2,7 @@
 title = 'Slavery, Feminism & Obedience'
 slug = 'slavery-feminism-obedience'
 date = 2025-11-17T00:00:00-05:00
-draft = false
+draft = true
 youtube = 'QZmhRfV4Gjs'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

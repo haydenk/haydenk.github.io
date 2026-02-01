@@ -2,7 +2,7 @@
 title = 'ICE Shooting in Minneapolis: How Should Christians Respond!?'
 slug = 'ice-shooting-in-minneapolis-how-should-christians-respond'
 date = 2026-01-12 00:00:29
-draft = false
+draft = true
 youtube = 'qrFZznW-K48'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

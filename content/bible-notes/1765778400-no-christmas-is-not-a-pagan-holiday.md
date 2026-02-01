@@ -2,7 +2,7 @@
 title = 'NO, Christmas Is Not A Pagan Holiday'
 slug = 'no-christmas-is-not-a-pagan-holiday'
 date = 2025-12-15T00:00:00
-draft = false
+draft = true
 youtube = 'BfM0WDNq4FU'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++

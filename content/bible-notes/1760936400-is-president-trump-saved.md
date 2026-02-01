@@ -2,7 +2,7 @@
 title = 'Is President Trump Saved?!'
 slug = 'is-president-trump-saved'
 date = 2025-10-20T00:00:00-05:00
-draft = false
+draft = true
 youtube = '9Mp0PiLaUXo'
 tags = ['live-free', 'podcast', 'lakepointe']
 +++
