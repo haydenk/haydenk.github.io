@@ -21,3 +21,5 @@ hugo.linux
 themes/hugo-plain
 node_modules
 dist/
+
+sermon-notes/
