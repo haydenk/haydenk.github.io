@@ -3,6 +3,7 @@ title = "Stewards, Not Owners: Faithful With God's Resources"
 slug = 'stewards-not-owners-faithful-with-gods-resources'
 date = 2026-02-07 16:00:00
 draft = false
+youtube = 'TkK8fx9M8hw'
 tags = ['bootcamp', 'sermon', 'lakepointe']
 +++
 
