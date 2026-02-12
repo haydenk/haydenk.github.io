@@ -2,5 +2,5 @@
 MISE_ENV_FILE = ".env"
 
 [tools]
-go = "latest"
-hugo = "latest"
+go = "1.25.5"
+hugo = "0.154.4"
