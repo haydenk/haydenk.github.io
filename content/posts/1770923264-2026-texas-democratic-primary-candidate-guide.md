@@ -1,6 +1,6 @@
 +++
 title = 'Facts vs Feelings: A Data-Driven Guide to the 2026 Texas Democratic Primary'
-slug = '2026-texas-democratic-primary-candidate-guide'
+slug = 'texas-democratic-primary-candidate-guide'
 date = 2026-02-12 13:07:44
 draft = false
 tags = ['texas', 'politics', 'elections', '2026-primary', 'democrat', 'voter-guide', 'dallas-county']

@@ -8,7 +8,7 @@ tags = ['texas', 'politics', 'elections', '2026-primary', 'republican', 'democra
 
 > **Disclosure:** This analysis was researched and written with the assistance of [Claude Code](https://claude.ai/claude-code), Anthropic's AI coding assistant. All candidate information was sourced from public reporting, campaign websites, editorial board interviews, and polling data. The persuasion scoring reflects the author's editorial judgment applied through an AI-assisted workflow. Voters should verify claims independently before casting a ballot.
 
-I just finished scoring every candidate in every contested race on both the [Republican](/posts/2026-texas-republican-primary-candidate-guide/) and [Democratic](/posts/2026-texas-democratic-primary-candidate-guide/) primary ballots for Dallas County. Same methodology for both: two independent 1–10 scales measuring how much each candidate relies on facts/data versus feelings/emotions.
+I just finished scoring every candidate in every contested race on both the [Republican](/posts/2026/02/12/texas-republican-primary-candidate-guide/) and [Democratic](/posts/2026/02/12/texas-democratic-primary-candidate-guide/) primary ballots for Dallas County. Same methodology for both: two independent 1–10 scales measuring how much each candidate relies on facts/data versus feelings/emotions.
 
 Now that both ballots are done, patterns jump out. The two primaries are operating in different universes — different emotional registers, different power dynamics, different relationships with money. Here's what I found.
 
@@ -184,4 +184,4 @@ At least now you're not one of them.
 
 ---
 
-*This post accompanies the individual voter guides: [Republican Primary Guide](/posts/2026-texas-republican-primary-candidate-guide/) | [Democratic Primary Guide](/posts/2026-texas-democratic-primary-candidate-guide/). All scores, fundraising figures, and polling data reflect publicly available information as of February 12, 2026.*
+*This post accompanies the individual voter guides: [Republican Primary Guide](/posts/2026/02/12/texas-republican-primary-candidate-guide/) | [Democratic Primary Guide](/posts/2026/02/12/texas-democratic-primary-candidate-guide/). All scores, fundraising figures, and polling data reflect publicly available information as of February 12, 2026.*
