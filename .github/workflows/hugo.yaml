@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -66,7 +66,6 @@ jobs:
     needs: deploy
     permissions:
       contents: write
-      pages: write
       id-token: write
     steps:
       - name: Checkout
