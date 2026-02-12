@@ -14,6 +14,8 @@ Now that both ballots are done, patterns jump out. The two primaries are operati
 
 <!--more-->
 
+![2026 Texas Primary Elections Infographic](/posts/images/2026_primary_elections_infographic.png)
+
 ---
 
 ## By the Numbers
