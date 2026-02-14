@@ -1,0 +1,41 @@
+# https://github.com/repository-settings/app
+# Install: https://github.com/apps/settings
+
+repository:
+  name: haydenk.github.io
+  description: "Personal site and blog"
+  homepage: https://haydenk.github.io/
+  private: false
+  has_issues: false
+  has_projects: false
+  has_wiki: false
+  has_downloads: false
+  has_discussions: false
+  default_branch: master
+  allow_squash_merge: false
+  allow_merge_commit: false
+  allow_rebase_merge: false
+  allow_auto_merge: false
+  allow_forking: false
+  allow_update_branch: false
+  delete_branch_on_merge: true
+  enable_automated_security_fixes: true
+  enable_vulnerability_alerts: true
+  security_and_analysis:
+    secret_scanning:
+      status: enabled
+    secret_scanning_push_protection:
+      status: enabled
+
+branches:
+  - name: master
+    protection:
+      required_pull_request_reviews: null
+      required_status_checks: null
+      enforce_admins: false
+      required_linear_history: false
+      restrictions: null
+      allow_force_pushes: false
+      allow_deletions: false
+      block_creations: false
+      required_conversation_resolution: false
