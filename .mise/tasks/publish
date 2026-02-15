@@ -1,0 +1,22 @@
+#!/bin/bash
+#MISE description="Generate recent posts, update README, commit, and push if content changed"
+#MISE depends=["recent-posts", "update-readme"]
+
+set -e
+
+README_FILE="README.md"
+
+# Check if README actually changed
+if git diff --quiet "$README_FILE" 2>/dev/null; then
+    echo "ℹ No changes to $README_FILE — nothing new to publish"
+else
+    echo "✓ $README_FILE has changes:"
+    git diff --stat "$README_FILE"
+    git add "$README_FILE"
+    git commit --no-edit -m ":wrench: Update readme articles"
+fi
+
+git push -u origin master
+
+echo ""
+echo "✓ Pushed to GitHub"
