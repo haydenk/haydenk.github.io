@@ -7,6 +7,7 @@ set -e
 CONTENT_DIR="content/"
 OUTPUT_FILE="recent-posts.md"
 NUM_POSTS=10
+HUGO_BASEURL="https://haydenk.github.io"
 
 # Function to extract frontmatter field from markdown file
 extract_field() {
