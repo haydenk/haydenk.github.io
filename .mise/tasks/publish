@@ -1,6 +1,6 @@
 #!/bin/bash
 #MISE description="Generate recent posts, update README, commit, and push if content changed"
-#MISE depends=["recent-posts", "update-readme"]
+#MISE depends=["update-readme"]
 
 set -e
 

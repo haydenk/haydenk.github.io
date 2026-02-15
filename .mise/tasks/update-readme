@@ -1,5 +1,6 @@
 #!/bin/bash
 #MISE description="Update README.md with recent posts and cleanup"
+#MISE depends=["recent-posts"]
 
 set -e
 
