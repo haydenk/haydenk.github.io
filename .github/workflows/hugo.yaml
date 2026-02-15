@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -60,41 +60,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
-
-  update-readme-articles:
-    runs-on: ubuntu-latest
-    needs: deploy
-    permissions:
-      contents: write
-      id-token: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
-
-      - name: Setup dependencies
-        uses: jdx/mise-action@6d1e696aa24c1aa1bcc1adea0212707c71ab78a8 # v3
-
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
-
-      - name: Generate Top 10 Recents
-        run: mise recent-posts
-        env:
-          HUGO_BASEURL: "${{ steps.pages.outputs.base_url }}"
-      
-      - name: Update README.md
-        run: mise update-readme
-
-      - name: Commit and push changes
-        env:
-          # This is necessary in order to push a commit to the main branch
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.md
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git commit -m ":wrench: Update readme articles"
-            git push -u origin master
-          fi
+      - name: Dispatch to profile repo
+        uses: peter-evans/repository-dispatch@28959ce8df70de7be546dd1250a005dd32156697 # v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: haydenk/haydenk
+          event-type: blog-updated
