@@ -3,6 +3,7 @@ title = 'Embracing the Fathers Heart for The One'
 slug = 'embracing-the-fathers-heart-for-the-one'
 date = 2026-02-14 16:00:00
 draft = false
+youtube = 'mbItaH3jyJE'
 tags = ['bootcamp', 'sermon', 'lakepointe', 'grace', 'parables', 'prodigal son', 'repentance', 'evangelism', 'reconciliation', 'luke 15']
 +++
 
