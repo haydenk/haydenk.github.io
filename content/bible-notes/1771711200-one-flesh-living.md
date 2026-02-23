@@ -3,6 +3,7 @@ title = 'One-Flesh Living'
 slug = 'one-flesh-living'
 date = 2026-02-21 16:00:00
 draft = false
+youtube = 'S9BYWnItpUQ'
 tags = ['marriage', 'sermon', 'lakepointe', 'divorce', 'covenant', 'family', 'oneness']
 +++
 
