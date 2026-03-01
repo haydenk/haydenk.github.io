@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hayden King
+# Hayden King — Software Developer, Bible Student & Texan
 
 ## My latest articles 📝
 
