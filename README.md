@@ -17,4 +17,4 @@
 | 2026-02-07 | [Stewardship and the Parable of the Minas](https://haydenk.github.io/bible-notes/2026/02/07/stewardship-and-the-parable-of-the-minas/) |
 <!-- ARTICLES:END -->
 
-> **License:** Personal dotfiles — all rights reserved. Forking and reuse are not permitted. See [LICENSE](LICENSE).
+> **License:** Personal blog — all rights reserved. Forking and reuse are not permitted. See [LICENSE](LICENSE).
