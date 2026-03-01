@@ -1,7 +1,8 @@
 #!/usr/bin/env sh
 #MISE description="Clean up files created in build or serve"
 
-[ -d "$MISE_PROJECT_ROOT/public" ] && rm -rfv $MISE_PROJECT_ROOT/public
-[ -f "$MISE_PROJECT_ROOT/hugo_stats.json" ] && rm -rfv $MISE_PROJECT_ROOT/hugo_stats.json
-[ -d "$MISE_PROJECT_ROOT/dist" ] && rm -rfv $MISE_PROJECT_ROOT/dist
-echo
+[ -d "$MISE_PROJECT_ROOT/public" ] && rm -rf $MISE_PROJECT_ROOT/public
+[ -f "$MISE_PROJECT_ROOT/hugo_stats.json" ] && rm -rf $MISE_PROJECT_ROOT/hugo_stats.json
+[ -d "$MISE_PROJECT_ROOT/dist" ] && rm -rf $MISE_PROJECT_ROOT/dist
+[ -d "$MISE_PROJECT_ROOT/resources" ] && rm -rf $MISE_PROJECT_ROOT/resources
+echo "✓ Cleaned"
