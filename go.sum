@@ -1,2 +1,6 @@
 github.com/adityatelange/hugo-PaperMod v0.0.0-20260109161122-6c5a8f6b055c h1:aHN8p1KeE6aVHkBS4Jc/c28q8biynTolUzj3Ta4sPRc=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20260109161122-6c5a8f6b055c/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20260125152547-3bb0ca281fd1 h1:nS0GAIWJZIxy1YWwGce18ePQHB7v1Y1sxUTOOrBAIeA=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20260125152547-3bb0ca281fd1/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/haydenk/lynko v0.1.1 h1:gwhVN9YJjrSgbx9rG8qH7iW6dpPsuWfMd9rsOJxtKuk=
+github.com/haydenk/lynko v0.1.1/go.mod h1:8rJqrKGTGXBU7AmM4Zu1OKef9djJ0Q6Xxy/WwByhcu8=

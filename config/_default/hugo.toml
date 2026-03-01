@@ -12,6 +12,8 @@ mainSections = ['posts', 'bible-notes']
 [module]
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
+  [[module.imports]]
+    path = "github.com/haydenk/lynko"
 
 [params]
   keywords = ['hayden', 'king', 'blog', 'software', 'software development', 'aws', 'jesus', 'bible', 'God', 'lakepointe', 'man-project']
@@ -39,6 +41,65 @@ mainSections = ['posts', 'bible-notes']
     name = "StackOverflow"
     url = "https://stackoverflow.com/users/464467/hayden"
 
+# ── Lynko Configuration ───────────────────────────────────────────────────────
+[params.lynko]
+  # Display name shown on the page
+  title = "Hayden King"
+
+  # Subtitle / handle shown below the name
+  handle = "@haydenk"
+
+  # Short bio displayed under the handle
+  bio = "Builder of things on the web."
+
+  # Profile picture (relative to static/ or an absolute URL)
+  avatar = "https://avatars.githubusercontent.com/u/81236?v=4"
+
+  # Override the site's primary accent colour (any valid CSS colour).
+  # When omitted, the module default (sky blue) is used.
+  # primaryColor = "#f97316"
+
+  # Set to false to hide the "Powered by Lynko" footer line
+  showPoweredBy = true
+
+  # ── Main link buttons ────────────────────────────────────────────────────────
+  # Each entry becomes a large tappable button.
+  # icon is required; omitting it falls back to the generic "link" icon.
+  # Supported icons: github · twitter · linkedin · instagram · youtube · tiktok
+  #   facebook · discord · twitch · mastodon · bluesky · reddit · medium ·
+  #   substack · patreon · spotify · soundcloud · pinterest · email · rss ·
+  #   globe · link
+
+  [[params.lynko.links]]
+    title  = "My Blog"
+    url    = "https://haydenk.github.io"
+    icon   = "globe"
+
+  [[params.lynko.links]]
+    title  = "GitHub"
+    url    = "https://github.com/haydenk"
+    icon   = "github"
+
+  [[params.lynko.links]]
+    title  = "Support on Patreon"
+    url    = "https://patreon.com/haydenk"
+    icon   = "patreon"
+
+  # ── Social icon row ───────────────────────────────────────────────────────────
+  # Small platform icons shown at the bottom of the page.
+  # 'name' must match one of the supported icon names above.
+
+  [[params.lynko.social]]
+    name = "github"
+    url  = "https://github.com/haydenk"
+
+  [[params.lynko.social]]
+    name = "linkedin"
+    url  = "https://linkedin.com/in/haydenk"
+
+  [[params.lynko.social]]
+    name = "rss"
+    url  = "/feed.xml"
 
 [menus]
   [[menus.main]]
