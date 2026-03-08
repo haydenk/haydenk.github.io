@@ -6,7 +6,7 @@ draft = false
 tags = ['synology', 'nas', 'proxmox', 'lxc', 'homelab', 'linux', 'self-hosted']
 +++
 
-First, I this is not going to be a step by step guide. There are plenty of posts on the internet how to do it but this is _why_ you have to do things a particular way.
+First, this is not going to be a step by step guide. There are plenty of posts on the internet how to do it but this is _why_ you have to do things a particular way.
 
 I really like using the terminal but especially for things like Proxmox, I also really like keeping it to the UI where I can and just use the terminal where I have to.
 
