@@ -211,10 +211,13 @@ ignoreLogs = ['warning-goldmark-raw-html']
     [markup.goldmark.renderer]
       unsafe = true
     [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
         block = true
         title = true
         anchor = true
+      [markup.goldmark.renderHooks.image]
+        useEmbedded = 'auto'
 
 [privacy]
   [privacy.youTube]
