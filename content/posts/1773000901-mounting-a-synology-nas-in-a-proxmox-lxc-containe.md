@@ -18,7 +18,7 @@ Now, in the UI, I could click on the server that is my LXC container > Resources
 
 ![Create Mount Point](/posts/images/create_mount_point_screenshot.png)
 
-This could be useful but what it's going to do is create a disk image on Synology 8GB in size which will contain any files you save into `/opt/bacup`
+This could be useful but what it's going to do is create a disk image on Synology 8GB in size which will contain any files you save into `/opt/backup`
 
 but you cannot, if not easily, see what those files are from Synology.
 
