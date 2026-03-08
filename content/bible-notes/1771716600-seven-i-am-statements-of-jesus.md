@@ -3,7 +3,7 @@ title = 'Seven I AM Statements of Jesus'
 slug = 'seven-i-am-statements-of-jesus'
 date = 2026-02-21 17:30:00
 draft = false
-tags = ['bible-study', 'i-am', 'john', 'identity', 'bread-of-life', 'jesus']
+tags = ['man-project','bible-study', 'i-am', 'john', 'identity', 'bread-of-life', 'jesus']
 +++
 
 ## Scripture References

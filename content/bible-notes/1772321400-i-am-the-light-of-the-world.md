@@ -3,7 +3,7 @@ title = 'I Am the Light of the World'
 slug = 'i-am-the-light-of-the-world'
 date = 2026-02-28 17:30:00
 draft = false
-tags = ['john', 'i-am', 'light', 'discipleship', 'surrender', 'feast-of-tabernacles', 'pharisees']
+tags = ['man-project', 'john', 'i-am', 'light', 'discipleship', 'surrender', 'feast-of-tabernacles', 'pharisees']
 +++
 
 ## Scripture References
