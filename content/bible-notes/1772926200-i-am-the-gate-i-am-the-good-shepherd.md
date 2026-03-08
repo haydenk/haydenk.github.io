@@ -62,7 +62,7 @@ tags = ['john', 'i-am-statements', 'good-shepherd', 'bible-study', 'men-group', 
 * Practical discernment suggestions: examine fruit, rely on Scripture, trust Holy Spirit intuition but verify.
 * Tension voiced between separating from bad influences and Christ-like engagement with sinners.
 * Group wrestled with why shepherd sometimes goes after the one (active search) while father waits (faith posture).
-* Testimony: Steven shared how prison stripped away false supports, brought repentance, restoration, new job, engagement; illustrated Jesus' protective "pen" even when it looks like an 8x10 cell.
+* Testimony: A brother shared how prison stripped away false supports, brought repentance, restoration, new job, engagement; illustrated Jesus' protective "pen" even when it looks like an 8x10 cell.
 
 ## Major Lessons & Revelations
 
@@ -85,14 +85,6 @@ tags = ['john', 'i-am-statements', 'good-shepherd', 'bible-study', 'men-group', 
 
 * Closing quote: "Grace only becomes amazing when our sin becomes undeniable."
 * The Good Shepherd does not abandon--He searches, restores, and reinstates even the most scattered sheep.
-
-## Prayer
-
-* Comfort for James and family after loss of 17-year-old daughter.
-* Healing for members' spouses recovering from serious illness.
-* Ongoing health concerns described as possibly terminal.
-* Lance's family needs.
-* Wisdom and blessing for upcoming marriages in the group (Steven & Jennifer; others).
 
 ## References & Resources
 
