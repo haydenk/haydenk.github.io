@@ -4,7 +4,7 @@ slug = 'go-again-understanding-unanswered-prayer-and-the-fathers-heart'
 date = 2026-02-28 16:00:00
 draft = false
 youtube = 'in4r9_ZtRBQ'
-tags = ['prayer', 'faith', 'persistence', 'forgiveness', 'unanswered-prayer', 'luke', 'fatherhood-of-god']
+tags = ['prayer', 'faith', 'persistence', 'forgiveness', 'unanswered-prayer', 'luke', 'fatherhood-of-god', 'lakepointe']
 +++
 
 ## Scripture References
