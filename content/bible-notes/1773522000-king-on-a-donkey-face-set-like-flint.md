@@ -3,7 +3,7 @@ title = 'King on a Donkey, Face Set Like Flint'
 slug = 'king-on-a-donkey-face-set-like-flint'
 date = 2026-03-14 16:00:00
 draft = false
-tags = ['palm-sunday', 'triumphal-entry', 'prophecy', 'humility', 'kingdom', 'human-approval', 'easter', 'temptation', 'obedience']
+tags = ['palm-sunday', 'triumphal-entry', 'prophecy', 'humility', 'kingdom', 'human-approval', 'easter', 'temptation', 'obedience', 'sermon', 'lakepointe']
 +++
 
 ## Scripture References
