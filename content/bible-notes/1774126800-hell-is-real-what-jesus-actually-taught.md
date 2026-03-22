@@ -3,6 +3,7 @@ title = 'Hell Is Real: What Jesus Actually Taught'
 slug = 'hell-is-real-what-jesus-actually-taught'
 date = 2026-03-21 16:00:00
 draft = false
+youtube = 'QE8P66xQZnQ'
 tags = ['sermon', 'hell', 'evangelism', 'investigating-jesus', 'judgment', 'luke-16']
 +++
 
