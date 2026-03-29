@@ -2,6 +2,7 @@
 title = 'Shadows Pointing to the Cross'
 slug = 'shadows-pointing-to-the-cross'
 date = 2026-03-28 16:00:00
+youtube = 'LbF8nsHp1LQ'
 draft = false
 tags = ['sermon', 'lakepointe', 'easter', 'old-testament', 'law', 'grace', 'passover', 'exodus', 'atonement']
 +++
