@@ -16,8 +16,8 @@ mainSections = ['posts', 'bible-notes']
     path = "github.com/haydenk/lynko"
 
 [params]
-  keywords = ['hayden', 'king', 'blog', 'software', 'software development', 'aws', 'jesus', 'bible', 'God', 'lakepointe', 'man-project']
-  description = "I am a software developer in Texas. I have done software development or something technical going on 20 years. I don't know everything, I have learned a lot, but sometimes I still make mistakes. I am usually rather blunt and succinct so sometimes posts may be rather short but I am working on it."
+  keywords = ['hayden', 'king', 'blog', 'software', 'software development', 'aws', 'devops', 'homelab', 'jesus', 'bible', 'faith', 'Christian', 'discipleship', 'lakepointe', 'texas']
+  description = "Software developer in Texas with nearly 20 years of experience in web development, AWS, and DevOps. I write about technology, faith, and everyday life -- including Bible notes from Lakepointe Church."
   defaultTheme = "auto"
   disableThemeToggle = true
   ShowPostNavLinks = true
@@ -30,7 +30,7 @@ mainSections = ['posts', 'bible-notes']
   [params.homeInfoParams]
     enabled = true
     title = 'Hi there :wave:'
-    content = "I am a software developer in Texas. I have done software development or something technical going on 20 years. I don't know everything, I have learned a lot, but sometimes I still make mistakes. I am usually rather blunt and succinct so sometimes posts may be rather short but I am working on it."
+    content = "I'm a software developer in Texas with nearly 20 years of experience building things on the web. Here you'll find posts on software, DevOps, and AWS alongside Bible notes and reflections on faith. Pull up a chair."
   [[params.socialIcons]]
     name = "Github"
     url = "https://github.com/haydenk"
@@ -71,19 +71,19 @@ mainSections = ['posts', 'bible-notes']
   #   globe · link
 
   [[params.lynko.links]]
-    title  = "My Blog"
-    url    = "https://haydenk.github.io"
-    icon   = "globe"
-
-  [[params.lynko.links]]
     title  = "GitHub"
     url    = "https://github.com/haydenk"
     icon   = "github"
 
   [[params.lynko.links]]
-    title  = "Support on Patreon"
-    url    = "https://patreon.com/haydenk"
-    icon   = "patreon"
+    title  = "LinkedIn"
+    url    = "https://linkedin.com/in/haydenk"
+    icon   = "linkedin"
+
+  [[params.lynko.links]]
+    title  = "Contact"
+    url    = "https://haydenk.github.io/contact/"
+    icon   = "email"
 
   # ── Social icon row ───────────────────────────────────────────────────────────
   # Small platform icons shown at the bottom of the page.
