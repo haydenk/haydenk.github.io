@@ -3,6 +3,7 @@ title = 'The Greatest Reversal'
 slug = 'the-greatest-reversal'
 date = 2026-04-03 18:00:00
 draft = false
+youtube = 'gqDLHySAvvA'
 tags = ['resurrection', 'easter', 'gospel', 'faith', 'salvation', 'doubt', 'redemption']
 +++
 
