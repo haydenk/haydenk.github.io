@@ -1,0 +1,20 @@
+{{- if and hugo.IsProduction .Site.Params.goatcounterHost -}}
+{{- if eq .Kind "page" }}
+<div style="text-align: center; margin-top: 1rem; margin-bottom: 2rem; font-size: 12px; color: var(--secondary);">
+  Views for this page: <span id="gc-page-views">...</span> &middot; <em>stats by <a href="https://www.goatcounter.com" rel="noopener noreferrer" target="_blank">GoatCounter</a></em>
+</div>
+<script>
+  (function() {
+    var path = encodeURIComponent(window.location.pathname);
+    fetch('https://{{ .Site.Params.goatcounterHost }}/counter/' + path + '.json')
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        document.getElementById('gc-page-views').textContent = data.count;
+      })
+      .catch(function() {
+        document.getElementById('gc-page-views').textContent = '--';
+      });
+  })();
+</script>
+{{- end }}
+{{- end -}}
