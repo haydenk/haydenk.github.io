@@ -5,7 +5,6 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
 disableHugoGeneratorInject = true
 ignoreErrors = [ "error-disable-taxonomy" ]
 enableEmoji = true
-canonifyURLs = true
 enableRobotsTXT = true
 mainSections = ['posts', 'bible-notes']
 
@@ -16,8 +15,9 @@ mainSections = ['posts', 'bible-notes']
     path = "github.com/haydenk/lynko"
 
 [params]
-  keywords = ['hayden', 'king', 'blog', 'software', 'software development', 'aws', 'devops', 'homelab', 'jesus', 'bible', 'faith', 'Christian', 'discipleship', 'lakepointe', 'texas']
-  description = "Software developer in Texas with nearly 20 years of experience in web development, AWS, and DevOps. I write about technology, faith, and everyday life -- including Bible notes from Lakepointe Church."
+  images = ['/images/og-default.png']
+  keywords = ['software development', 'aws', 'devops', 'homelab', 'proxmox', 'bible study', 'sermon notes', 'faith', 'Christian', 'discipleship', 'lakepointe church', 'texas']
+  description = "Texas software developer writing about AWS, DevOps, and homelab projects -- plus Bible notes and faith reflections from Lakepointe Church."
   defaultTheme = "auto"
   disableThemeToggle = true
   ShowPostNavLinks = true
@@ -29,8 +29,8 @@ mainSections = ['posts', 'bible-notes']
     link = "plugins/themify-icons/icons.css"
   [params.homeInfoParams]
     enabled = true
-    title = 'Hi there :wave:'
-    content = "I'm a software developer in Texas with nearly 20 years of experience building things on the web. Here you'll find posts on software, DevOps, and AWS alongside Bible notes and reflections on faith. Pull up a chair."
+    title = "Hey, I'm Hayden"
+    content = "I build things on the web by day and take notes in church on Sunday. Here you'll find posts on AWS, DevOps, and homelab tinkering alongside Bible notes from Lakepointe Church. Pull up a chair."
   [[params.socialIcons]]
     name = "Github"
     url = "https://github.com/haydenk"
@@ -170,7 +170,7 @@ mainSections = ['posts', 'bible-notes']
 [permalinks]
   [permalinks.page]
     posts = '/posts/:year/:month/:day/:slug/'
-    bible-notes = '/bible-notes/:year/:month/:day/:slug'
+    bible-notes = '/bible-notes/:year/:month/:day/:slug/'
     snippets = '/snippets/:year/:month/:day/:slug/'
   [permalinks.section]
     posts = '/posts/'
