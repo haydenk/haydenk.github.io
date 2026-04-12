@@ -16,6 +16,7 @@ mainSections = ['posts', 'bible-notes']
 
 [params]
   goatcounterHost = 'haydenk.goatcounter.com'
+  resumeVersion = 'v2026.04.1'
   images = ['/images/og-default.png']
   keywords = ['software development', 'aws', 'devops', 'homelab', 'proxmox', 'bible study', 'sermon notes', 'faith', 'Christian', 'discipleship', 'lakepointe church', 'texas']
   description = "Texas software developer writing about AWS, DevOps, and homelab projects -- plus Bible notes and faith reflections from Lakepointe Church."
