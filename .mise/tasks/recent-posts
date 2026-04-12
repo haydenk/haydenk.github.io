@@ -29,11 +29,24 @@ extract_field() {
     ' "$file"
 }
 
-# Function to convert date to sortable format
+# Function to convert date to sortable datetime format (YYYY-MM-DD HH:MM:SS)
 get_sort_date() {
     local date_str=$1
 
-    # Try to extract YYYY-MM-DD from various formats
+    # Try to extract YYYY-MM-DD HH:MM:SS from various formats
+    if [[ $date_str =~ ([0-9]{4})-([0-9]{2})-([0-9]{2})([[:space:]]+([0-9]{2}):([0-9]{2}):([0-9]{2}))? ]]; then
+        local date_part="${BASH_REMATCH[1]}-${BASH_REMATCH[2]}-${BASH_REMATCH[3]}"
+        local time_part="${BASH_REMATCH[5]:-00}:${BASH_REMATCH[6]:-00}:${BASH_REMATCH[7]:-00}"
+        echo "${date_part} ${time_part}"
+    else
+        echo "0000-00-00 00:00:00"
+    fi
+}
+
+# Function to extract only the date portion for display (YYYY-MM-DD)
+get_display_date() {
+    local date_str=$1
+
     if [[ $date_str =~ ([0-9]{4})-([0-9]{2})-([0-9]{2}) ]]; then
         echo "${BASH_REMATCH[1]}-${BASH_REMATCH[2]}-${BASH_REMATCH[3]}"
     else
@@ -104,14 +117,15 @@ find "$CONTENT_DIR" -type f -name "*.md" | while read -r file; do
         continue
     fi
 
-    # Get sortable date
+    # Get sortable datetime and display-only date
     sort_date=$(get_sort_date "$date")
+    display_date=$(get_display_date "$date")
 
     # Get URL path
     url_path=$(get_url_path "$file" "$slug" "$date")
 
     # Write to temp file: sort_date|display_date|title|url_path
-    echo "${sort_date}|${sort_date}|${title}|${url_path}" >> "$temp_file"
+    echo "${sort_date}|${display_date}|${title}|${url_path}" >> "$temp_file"
 done
 
 # Sort by date (descending), take top N, format as markdown table
