@@ -5,8 +5,8 @@
         {{ partial "svg.html" . }}
     </a>
     {{- end }}
-    {{- with site.Params.resumeVersion }}
-    <a href="{{ printf "https://github.com/haydenk/vitae/releases/download/%s/hayden_king.pdf" . | safeURL }}" target="_blank" rel="noopener noreferrer"
+    {{- with site.Params.resumeURL }}
+    <a href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer"
         title="Resume" style="display:inline-flex;align-items:center;gap:3px;">
         {{ partial "svg.html" (dict "name" "cv") }}<span style="font-size:0.75em;font-weight:600;line-height:1;">CV</span>
     </a>
