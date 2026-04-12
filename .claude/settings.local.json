@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mise tasks:*)",
+      "Bash(mise task:*)",
+      "Bash(mise run:*)",
+      "Bash(bash .mise/tasks/new-post)",
+      "Bash(bash /workspaces/haydenk.github.io/.mise/tasks/new-post)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(zsh .mise/tasks/new-post)",
+      "Bash(/bin/bash:*)",
+      "Bash(hugo mod:*)",
+      "Bash(zsh -c \"hugo\")",
+      "Bash(zsh -c \"date && hugo --buildFuture 2>&1 | tail -5\")",
+      "Bash(GIT_EDITOR=true git rebase --continue)",
+      "Bash(git rebase:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
