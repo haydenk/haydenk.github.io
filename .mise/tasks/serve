@@ -2,4 +2,9 @@
 #MISE description="Run local server"
 #MISE depends=["clean"]
 
-hugo server --buildDrafts --noBuildLock --cleanDestinationDir --watch
+if [ -n "$CODESPACE_NAME" ]; then
+  BASE_URL="https://${CODESPACE_NAME}-1313.app.github.dev/"
+  hugo server --buildDrafts --noBuildLock --cleanDestinationDir --watch --baseURL "$BASE_URL" --appendPort=false
+else
+  hugo server --buildDrafts --noBuildLock --cleanDestinationDir --watch
+fi
