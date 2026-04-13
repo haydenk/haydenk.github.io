@@ -14,7 +14,8 @@
       "Bash(zsh -c \"date && hugo --buildFuture 2>&1 | tail -5\")",
       "Bash(GIT_EDITOR=true git rebase --continue)",
       "Bash(git rebase:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(gh api:*)"
     ]
   }
 }
