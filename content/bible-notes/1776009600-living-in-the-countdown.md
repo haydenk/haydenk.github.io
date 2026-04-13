@@ -3,6 +3,7 @@ title = 'Living in the Countdown'
 slug = 'living-in-the-countdown'
 date = 2026-04-11 16:00:00
 draft = false
+youtube = '7CLwe3JW9tU'
 tags = ['eschatology', 'prophecy', 'second-coming', 'great-commission', 'missions', 'lakepointe', 'sermon']
 +++
 
