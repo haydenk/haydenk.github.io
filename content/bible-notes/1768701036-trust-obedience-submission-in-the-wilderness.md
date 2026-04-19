@@ -3,7 +3,8 @@ title = 'Trust, Obedience & Submission in the Wilderness'
 slug = 'trust-obedience-submission-in-the-wilderness'
 date = 2026-01-17 17:30:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'bootcamp']
+series = 'bootcamp'
 +++
 
 ## Scripture References

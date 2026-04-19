@@ -3,7 +3,8 @@ title = 'Stewardship and the Parable of the Minas'
 slug = 'stewardship-and-the-parable-of-the-minas'
 date = 2026-02-07 17:30:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'bootcamp']
+series = 'bootcamp'
 +++
 
 ## Scripture References

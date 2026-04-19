@@ -5,6 +5,7 @@ date = 2025-12-22 00:00:18-06:00
 draft = true
 youtube = 'KaNrG8ocfwE'
 tags = ['live-free', 'podcast', 'lakepointe']
+series = 'live-free'
 +++
 
 ## Gathering Information
@@ -33,7 +34,7 @@ The team explored the many biblical “deep cuts” of the Christmas story, cont
 
 ## Key Points  
 1. Peace is not the absence of problems but the presence of the Savior.  
-2. Christmas services (52 at Lake Point) are strategic for evangelism; each member should “invite one more.”  
+2. Christmas services (52 at Lake Pointe) are strategic for evangelism; each member should “invite one more.”  
 3. “Advent Coin” illustration: Caesar Augustus falsely claimed divinity; Jesus fulfills every title truthfully (King of Kings, Prince of Peace).  
 4. John 1 is “Genesis 2.0”: new creation, new Adam, new race, inauguration of full recreation.  
 5. Moses’ longing to see God’s glory meets fulfillment on the Mount of Transfiguration (Moses finally sees God’s face—in Jesus—and stands in the Promised Land).  

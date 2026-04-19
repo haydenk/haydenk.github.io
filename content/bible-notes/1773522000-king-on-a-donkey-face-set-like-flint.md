@@ -5,6 +5,7 @@ date = 2026-03-14 16:00:00
 draft = false
 youtube = 'RU9lU0MRmig'
 tags = ['palm-sunday', 'triumphal-entry', 'prophecy', 'humility', 'kingdom', 'human-approval', 'easter', 'temptation', 'obedience', 'sermon', 'lakepointe']
+series = 'easter-2026'
 +++
 
 ## Scripture References

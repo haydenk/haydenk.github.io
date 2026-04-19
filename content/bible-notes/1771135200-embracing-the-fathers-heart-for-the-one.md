@@ -5,6 +5,7 @@ date = 2026-02-14 16:00:00
 draft = false
 youtube = 'mbItaH3jyJE'
 tags = ['bootcamp', 'sermon', 'lakepointe', 'grace', 'parables', 'prodigal son', 'repentance', 'evangelism', 'reconciliation', 'luke 15']
+series = 'luke-15-parables'
 +++
 
 ## Scripture References

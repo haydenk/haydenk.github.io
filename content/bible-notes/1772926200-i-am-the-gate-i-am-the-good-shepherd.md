@@ -3,7 +3,8 @@ title = 'I Am the Gate / I Am the Good Shepherd'
 slug = 'i-am-the-gate-i-am-the-good-shepherd'
 date = 2026-03-07 17:30:00
 draft = false
-tags = ['john', 'i-am-statements', 'good-shepherd', 'bible-study', 'men-group', 'man-project']
+tags = ['john', 'i-am-statements', 'good-shepherd', 'bible-study', 'men-group', 'man-project', 'seven-i-am-statements']
+series = 'seven-i-am-statements'
 +++
 
 ## Scripture References

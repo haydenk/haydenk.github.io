@@ -3,7 +3,8 @@ title = 'Jesus -- "The Way, the Truth, and the Life"'
 slug = 'jesus-the-way-the-truth-and-the-life'
 date = 2026-03-21 17:30:00
 draft = false
-tags = ['bible-study', 'man-project', 'john-14', 'i-am', 'exodus']
+tags = ['bible-study', 'man-project', 'john-14', 'i-am', 'exodus', 'seven-i-am-statements']
+series = 'seven-i-am-statements'
 +++
 
 ## Scripture References

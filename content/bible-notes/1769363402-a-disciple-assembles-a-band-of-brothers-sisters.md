@@ -5,6 +5,7 @@ date = 2026-01-25 10:00:02
 draft = false
 youtube = 'LuJyT2kCtgY'
 tags = ['bootcamp', 'sermon', 'lakepointe', 'grace', 'community', 'confession', 'faith', 'insights']
+series = 'bootcamp'
 +++
 
 ## Gathering Information

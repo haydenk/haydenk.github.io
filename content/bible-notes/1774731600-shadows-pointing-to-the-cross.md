@@ -5,6 +5,7 @@ date = 2026-03-28 16:00:00
 youtube = 'LbF8nsHp1LQ'
 draft = false
 tags = ['sermon', 'lakepointe', 'easter', 'old-testament', 'law', 'grace', 'passover', 'exodus', 'atonement']
+series = 'easter-2026'
 +++
 
 ## Scripture References

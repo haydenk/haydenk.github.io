@@ -5,6 +5,7 @@ date = 2025-12-01 00:00:05-06:00
 draft = true
 youtube = '7-pZCLdtvH0'
 tags = ['live-free', 'podcast', 'lakepointe']
+series = 'live-free'
 +++
 
 ## Gathering Information

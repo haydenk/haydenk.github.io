@@ -5,6 +5,7 @@ date = 2025-12-29 00:00:37-06:00
 draft = true
 youtube = 'Zo9fBX2nsdw'
 tags = ['live-free', 'podcast', 'lakepointe']
+series = 'live-free'
 +++
 
 # State-of-the-Pod Celebration  

@@ -5,6 +5,7 @@ date = 2025-10-13T00:00:00-05:00
 draft = true
 youtube = 'hH7dflzoNCk'
 tags = ['live-free', 'podcast', 'lakepointe']
+series = 'live-free'
 +++
 
 ## Introduction  

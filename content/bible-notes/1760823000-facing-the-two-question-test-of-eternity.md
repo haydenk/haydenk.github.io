@@ -5,6 +5,7 @@ date = 2025-10-18T16:30:00-05:00
 draft = false
 youtube = 'ms9zvqY9mW8'
 tags = ['run-to-win', 'sermon', 'lakepointe']
+series = 'run-to-win'
 +++
 
 ## Introduction  

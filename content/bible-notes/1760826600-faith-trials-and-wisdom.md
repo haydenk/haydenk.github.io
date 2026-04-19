@@ -3,7 +3,8 @@ title = 'Faith, Trials & Wisdom'
 slug = 'faith-trials-and-wisdom'
 date = 2025-10-18T17:30:00-05:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'james']
+series = 'james'
 +++
 
 ## Introduction  
