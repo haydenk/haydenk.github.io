@@ -3,6 +3,7 @@ title = 'Displayed Faith vs. Devoted Faith'
 slug = 'displayed-faith-vs-devoted-faith'
 date = 2026-04-18 16:00:00
 draft = false
+youtube = 'BUXzYrbQbLY'
 tags = ['hypocrisy', 'devoted-faith', 'matthew-23', 'pharisees', 'humility', 'servanthood', 'sermon', 'investigating-jesus']
 series = 'investigating-jesus'
 +++
