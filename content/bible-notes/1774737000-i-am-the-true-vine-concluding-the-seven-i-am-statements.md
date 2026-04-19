@@ -3,7 +3,8 @@ title = 'I Am the True Vine -- Concluding the Seven I Am Statements'
 slug = 'i-am-the-true-vine-concluding-the-seven-i-am-statements'
 date = 2026-03-28 17:30:00
 draft = false
-tags = ['man-project', 'bible-study', 'john', 'abiding', 'fruit', 'discipleship', 'i-am']
+tags = ['man-project', 'bible-study', 'john', 'abiding', 'fruit', 'discipleship', 'i-am', 'seven-i-am-statements']
+series = 'seven-i-am-statements'
 +++
 
 ## Scripture References

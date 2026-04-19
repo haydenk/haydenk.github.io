@@ -4,6 +4,7 @@ slug = 'no-acceptable-loss-in-jesus-economy'
 date = 2026-02-15 00:00:00
 draft = false
 tags = ['man-project', 'bible-study', 'lakepointe', 'parables', 'lost sheep', 'grace', 'repentance', 'luke 15']
+series = 'luke-15-parables'
 +++
 
 ## Scripture References

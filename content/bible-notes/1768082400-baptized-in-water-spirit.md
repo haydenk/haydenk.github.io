@@ -5,6 +5,7 @@ date = 2026-01-10T16:00:00
 draft = false
 youtube = 'U7GQOlwj4bE'
 tags = ['bootcamp', 'sermon', 'lakepointe']
+series = 'bootcamp'
 +++
 
 ## Scripture References

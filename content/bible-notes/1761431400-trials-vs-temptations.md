@@ -3,7 +3,8 @@ title = 'Trials vs Temptations'
 slug = 'trials-vs-temptations'
 date = 2025-10-25T17:30:00-05:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'james']
+series = 'james'
 +++
 
 ## Introduction  

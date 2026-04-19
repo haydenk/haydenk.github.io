@@ -3,7 +3,8 @@ title = 'Faith Without Works Is Dead'
 slug = 'faith-without-works'
 date = 2025-11-08T17:30:00-05:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'james']
+series = 'james'
 +++
 
 ## Introduction  

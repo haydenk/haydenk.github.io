@@ -3,7 +3,8 @@ title = 'It is finished: Trusting the Completed Work of Christ'
 slug = 'it-is-finished-trusting-the-completed-work-of-christ'
 date = 2026-01-03T17:30:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'bootcamp']
+series = 'bootcamp'
 +++
 
 ## Scripture References

@@ -3,7 +3,8 @@ title = 'Enough - Week 1 in Colossians'
 slug = 'enough-week-1-in-colossians'
 date = 2026-04-11 17:30:00
 draft = false
-tags = ['colossians', 'bible-study', 'discipleship', 'hope', 'faith', 'love', 'man-project']
+tags = ['colossians', 'bible-study', 'discipleship', 'hope', 'faith', 'love', 'man-project', 'enough']
+series = 'enough'
 +++
 
 ## Scripture References

@@ -3,7 +3,8 @@ title = 'The Call to Humble Service: Discipleship Boot Camp Week 5'
 slug = 'the-call-to-humble-service-discipleship-boot-camp-week-5'
 date = 2026-01-31 17:30:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'bootcamp']
+series = 'bootcamp'
 +++
 
 ## Gathering Information

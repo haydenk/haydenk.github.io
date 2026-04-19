@@ -3,7 +3,8 @@ title = 'Contending for the Faith'
 slug = 'contending-for-the-faith'
 date = 2025-10-11T17:30:00-05:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'jude']
+series = 'jude'
 +++
 
 ## Introduction  

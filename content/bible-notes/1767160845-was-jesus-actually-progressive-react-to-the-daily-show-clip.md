@@ -5,6 +5,7 @@ date = 2025-12-31 00:00:45-06:00
 draft = true
 youtube = 'dSDCuY5piDk'
 tags = ['live-free', 'podcast', 'lakepointe']
+series = 'live-free'
 +++
 
 # Progressivism vs. Historic Christianity

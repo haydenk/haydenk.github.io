@@ -5,6 +5,7 @@ date = 2026-01-29 06:00:29
 draft = true
 youtube = 'JsKedVLr6uw'
 tags = ['live-free', 'podcast', 'lakepointe']
+series = 'live-free'
 +++
 
 ## Scripture References

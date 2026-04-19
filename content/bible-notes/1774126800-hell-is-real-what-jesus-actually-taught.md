@@ -5,6 +5,7 @@ date = 2026-03-21 16:00:00
 draft = false
 youtube = 'QE8P66xQZnQ'
 tags = ['sermon', 'hell', 'evangelism', 'investigating-jesus', 'judgment', 'luke-16']
+series = 'investigating-jesus'
 +++
 
 ## Scripture References

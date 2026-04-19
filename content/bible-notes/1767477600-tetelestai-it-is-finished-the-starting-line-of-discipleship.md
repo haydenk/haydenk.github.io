@@ -4,6 +4,7 @@ slug = 'tetelestai-it-is-finished-the-starting-line-of-discipleship'
 date = 2026-01-03T16:00:00
 youtube = 'FxQYhwdVJdo'
 tags = ['bootcamp', 'sermon', 'lakepointe']
+series = 'bootcamp'
 +++
 
 ## Scripture References

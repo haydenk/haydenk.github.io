@@ -51,7 +51,7 @@ tags = ['eschatology', 'prophecy', 'second-coming', 'great-commission', 'mission
 * Jesus names it "the times of the Gentiles" (Luke 21:24 -- Greek: kairoi ton ethnon).
 * Great Commission mandate (Matthew 28:18-20): all authority, all nations (ta ethne), disciple-making until "the end of the age."
 * Spiritual reality: in Christ believers become "one" though not "the same" (Galatians 3:28).
-  * Illustration: pastor's multi-ethnic family mirrors multi-ethnic church; Lake Point seeks to embody a movement "for all people."
+  * Illustration: pastor's multi-ethnic family mirrors multi-ethnic church; Lake Pointe seeks to embody a movement "for all people."
 * What ends this age? The gospel reaching every ethnicity (Matthew 24:14).
   * Missiological evidence: 16,173 daily conversions in Africa; each hour of delay means 673 more souls, each minute 28 more.
   * Church response: church planting (90+ plants), 23 global partners, multi-campus strategy, sacrificial giving.
@@ -99,7 +99,7 @@ tags = ['eschatology', 'prophecy', 'second-coming', 'great-commission', 'mission
 
 ## References & Resources
 
-* Lake Point "Rooted" discipleship groups.
+* Lake Pointe "Rooted" discipleship groups.
 * Historical works: Josephus, Tacitus on 70 AD siege.
 
 ## Insights

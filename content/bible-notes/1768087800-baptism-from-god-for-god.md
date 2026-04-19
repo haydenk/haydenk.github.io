@@ -3,7 +3,8 @@ title = 'Baptism: From God; For God'
 slug = 'baptism-from-god-for-god'
 date = 2026-01-10T17:30:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'bootcamp']
+series = 'bootcamp'
 +++
 
 ## Scripture References

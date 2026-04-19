@@ -3,7 +3,8 @@ title = 'Confronting Hubris'
 slug = 'confronting-hubris'
 date = 2025-12-06T21:17:48-06:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'james']
+series = 'james'
 +++
 
 ## Scripture References

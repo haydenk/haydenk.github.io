@@ -4,6 +4,7 @@ slug = 'freedom-from-loneliness'
 date = 2025-11-29T20:33:06-06:00
 draft = false
 tags = ['glad-tidings-we-bring', 'sermon', 'lakepointe']
+series = 'glad-tidings-we-bring'
 +++
 
 ## Introduction  

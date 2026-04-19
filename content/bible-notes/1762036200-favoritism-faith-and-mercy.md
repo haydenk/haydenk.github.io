@@ -3,7 +3,8 @@ title = 'Favoritism, Faith & Mercy'
 slug = 'favoritism-faith-and-mercy'
 date = 2025-11-01T17:30:00-05:00
 draft = false
-tags = ['man-project', 'bible-study', 'lakepointe']
+tags = ['man-project', 'bible-study', 'lakepointe', 'james']
+series = 'james'
 +++
 
 ## Introduction  
