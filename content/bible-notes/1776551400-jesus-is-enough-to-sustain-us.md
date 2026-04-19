@@ -3,6 +3,7 @@ title = 'Jesus Is Enough to Sustain Us'
 slug = 'jesus-is-enough-to-sustain-us'
 date = 2026-04-18 17:30:00
 draft = false
+youtube = 'BUXzYrbQbLY'
 tags = ['colossians', 'preeminence-of-christ', 'sustainer', 'creation', 'reconciliation', 'bible-study', 'enough', 'man-project']
 series = 'enough'
 +++
