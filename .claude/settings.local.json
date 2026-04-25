@@ -48,7 +48,12 @@
       "Bash(grep -l '^series = ' content/bible-notes/*.md)",
       "Bash(grep -h '^series = ' content/bible-notes/*.md)",
       "Bash(hugo --quiet)",
-      "Bash(echo \"---exit: $?---\")"
+      "Bash(echo \"---exit: $?---\")",
+      "Bash(git fetch *)",
+      "Bash(git ls-remote *)",
+      "Bash(grep -E 'refs/tags/v[0-9]+\\\\.[0-9]+\\\\.[0-9]+\\\\^\\\\{\\\\}$')",
+      "Bash(ruby *)",
+      "Bash(sort -k2 -V)"
     ]
   }
 }

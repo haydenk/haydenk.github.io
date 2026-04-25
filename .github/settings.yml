@@ -6,13 +6,13 @@ repository:
   description: "Personal site and blog"
   homepage: https://haydenk.github.io/
   private: false
-  has_issues: false
+  has_issues: true
   has_projects: false
   has_wiki: false
   has_downloads: false
   has_discussions: false
   default_branch: master
-  allow_squash_merge: false
+  allow_squash_merge: true
   allow_merge_commit: false
   allow_rebase_merge: false
   allow_auto_merge: false
