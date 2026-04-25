@@ -24,3 +24,5 @@ node_modules
 dist/
 
 sermon-notes/
+
+.claude/settings.local.json
