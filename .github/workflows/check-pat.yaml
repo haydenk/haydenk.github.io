@@ -1,0 +1,115 @@
+name: Check PAT_TOKEN health
+
+on:
+  schedule:
+    # Weekly, Mondays at 12:17 UTC (off-the-hour to avoid scheduler congestion)
+    - cron: "17 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+concurrency:
+  group: check-pat
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Probe PAT against haydenk/haydenk
+        id: probe
+        env:
+          PAT: ${{ secrets.PAT_TOKEN }}
+        run: |
+          set -u
+          if [ -z "${PAT:-}" ]; then
+            echo "status=missing" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          code=$(curl -sS -o /dev/null -w '%{http_code}' \
+            --max-time 30 \
+            --retry 2 \
+            --retry-connrefused \
+            -H "Authorization: Bearer $PAT" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/haydenk/haydenk)
+          case "$code" in
+            200) echo "status=ok" >> "$GITHUB_OUTPUT" ;;
+            401) echo "status=invalid" >> "$GITHUB_OUTPUT" ;;
+            403) echo "status=forbidden" >> "$GITHUB_OUTPUT" ;;
+            404) echo "status=notfound" >> "$GITHUB_OUTPUT" ;;
+            *)   echo "status=http_$code" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Open or close tracking issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          STATUS: ${{ steps.probe.outputs.status }}
+        run: |
+          set -euo pipefail
+
+          # Ensure labels exist (idempotent).
+          gh label create pat-token \
+            --color B60205 \
+            --description "PAT_TOKEN secret health" \
+            >/dev/null 2>&1 || true
+          gh label create priority/high \
+            --color B60205 \
+            --description "High priority" \
+            >/dev/null 2>&1 || true
+
+          existing=$(gh issue list \
+            --label pat-token \
+            --state open \
+            --json number \
+            --jq '.[0].number // empty')
+
+          if [ "$STATUS" = "ok" ]; then
+            if [ -n "$existing" ]; then
+              gh issue close "$existing" \
+                --comment "PAT_TOKEN is valid again as of $(date -u '+%Y-%m-%d %H:%M UTC'). Closing automatically."
+            fi
+            exit 0
+          fi
+
+          title="PAT_TOKEN secret needs attention"
+          run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          body=$(cat <<EOF
+          The automated health check failed for \`PAT_TOKEN\` (status: \`$STATUS\`).
+
+          This token is used in \`.github/workflows/hugo.yaml\` to dispatch a \`blog-updated\` event to \`haydenk/haydenk\` after each successful deploy. While it is broken, the profile repo will not be notified of new posts.
+
+          **Status meaning:**
+
+          - \`missing\` -- the \`PAT_TOKEN\` secret is not set on this repo
+          - \`invalid\` -- token expired or was revoked (HTTP 401)
+          - \`forbidden\` -- token is valid but lacks access to \`haydenk/haydenk\` (HTTP 403)
+          - \`notfound\` -- target repo not visible to this token (HTTP 404)
+          - \`http_*\` -- unexpected HTTP status from GitHub API
+
+          **Fix:**
+
+          1. Create a new fine-grained PAT with \`Contents: write\` access on \`haydenk/haydenk\` (or a classic PAT with the \`repo\` scope).
+          2. Update the \`PAT_TOKEN\` secret in this repo's settings: Settings to Secrets and variables to Actions.
+          3. Re-run this workflow from the Actions tab to verify, or wait for the next scheduled run.
+
+          This issue will close automatically on the next successful check.
+
+          Run: $run_url
+          EOF
+          )
+
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" \
+              --body "Re-check on $(date -u '+%Y-%m-%d %H:%M UTC'): still \`$STATUS\`. ($run_url)"
+          else
+            gh issue create \
+              --title "$title" \
+              --label pat-token \
+              --label priority/high \
+              --body "$body"
+          fi
