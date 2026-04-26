@@ -6,7 +6,7 @@ disableHugoGeneratorInject = true
 ignoreErrors = [ "error-disable-taxonomy" ]
 enableEmoji = true
 enableRobotsTXT = true
-mainSections = ['posts', 'bible-notes']
+mainSections = ['posts', 'bible-notes', 'notes']
 
 [module]
   [[module.imports]]
@@ -130,6 +130,11 @@ mainSections = ['posts', 'bible-notes']
     weight = 13
 
   [[menus.main]]
+    name = "Notes"
+    pageRef = "/notes"
+    weight = 14
+
+  [[menus.main]]
     name = "Archive"
     pageRef = "/archives"
     weight = 99
@@ -174,10 +179,12 @@ mainSections = ['posts', 'bible-notes']
     posts = '/posts/:year/:month/:day/:slug/'
     bible-notes = '/bible-notes/:year/:month/:day/:slug/'
     snippets = '/snippets/:year/:month/:day/:slug/'
+    notes = '/notes/:slug/'
   [permalinks.section]
     posts = '/posts/'
     bible-notes = '/bible-notes/'
     snippets = '/snippets/'
+    notes = '/notes/'
 
 [taxonomies]
     tag = "tags"

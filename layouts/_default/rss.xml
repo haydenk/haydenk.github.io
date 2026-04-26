@@ -26,6 +26,9 @@
 {{- else }}
 {{- $pages = $pctx.Pages }}
 {{- end }}
+{{- if $.IsHome }}
+{{- $pages = where $pages "Type" "!=" "notes" }}
+{{- end }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
 {{- $pages = $pages | first $limit }}

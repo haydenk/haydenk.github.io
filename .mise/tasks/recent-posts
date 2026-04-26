@@ -94,8 +94,9 @@ EOF
 # Temporary file for sorting
 temp_file=$(mktemp)
 
-# Process all markdown files recursively
-find "$CONTENT_DIR" -type f -name "*.md" | while read -r file; do
+# Process all markdown files recursively (excludes notes section -- microblog content
+# shouldn't compete for the few README slots)
+find "$CONTENT_DIR" -type f -name "*.md" -not -path "*/notes/*" | while read -r file; do
     # Skip _index.md and other special files
     if [[ "$(basename "$file")" == "_index.md" ]]; then
         continue

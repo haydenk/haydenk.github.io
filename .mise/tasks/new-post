@@ -31,10 +31,10 @@ fi
 
 # Create filename with epoch timestamp
 filename="${timestamp}-${slug}.md"
-filepath="posts/$filename"
+filepath="notes/$filename"
 
 # Prompt for content directory
-read -p "Enter content directory: " content_directory
+read -p "Enter content directory (default: notes): " content_directory
 if [ -n "$content_directory" ]; then
     filepath="$content_directory/$filename"
 fi
