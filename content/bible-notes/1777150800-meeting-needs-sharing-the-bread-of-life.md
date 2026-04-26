@@ -3,6 +3,7 @@ title = 'Meeting Needs, Sharing the Bread of Life'
 slug = 'meeting-needs-sharing-the-bread-of-life'
 date = 2026-04-25 16:00:00
 draft = false
+youtube = 'MSm3w9JO9GQ'
 tags = ['sermon', 'evangelism', 'bread-of-life', 'john-6', 'service', 'kindness', 'i-am', 'win-your-one-more', 'lakepointe']
 +++
 
