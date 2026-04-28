@@ -120,9 +120,9 @@ mainSections = ['posts', 'bible-notes', 'notes']
     weight = 15
 
   [[menus.main]]
-    name = "Snippets"
-    pageRef = "/snippets"
-    weight = 12
+    name = "Gists"
+    url = 'https://gist.github.com/haydenk'
+    weight = 15
 
   [[menus.main]]
     name = "Bible Notes"
@@ -178,12 +178,10 @@ mainSections = ['posts', 'bible-notes', 'notes']
   [permalinks.page]
     posts = '/posts/:year/:month/:day/:slug/'
     bible-notes = '/bible-notes/:year/:month/:day/:slug/'
-    snippets = '/snippets/:year/:month/:day/:slug/'
     notes = '/notes/:slug/'
   [permalinks.section]
     posts = '/posts/'
     bible-notes = '/bible-notes/'
-    snippets = '/snippets/'
     notes = '/notes/'
 
 [taxonomies]
