@@ -3,7 +3,7 @@ title = "Go Again: Understanding Unanswered Prayer and the Father's Heart"
 slug = 'go-again-understanding-unanswered-prayer-and-the-fathers-heart'
 date = 2026-02-28 16:00:00
 draft = false
-youtube = 'in4r9_ZtRBQ'
+youtube = 'MJKPXzG9QOc'
 tags = ['prayer', 'faith', 'persistence', 'forgiveness', 'unanswered-prayer', 'luke', 'fatherhood-of-god', 'lakepointe']
 +++
 

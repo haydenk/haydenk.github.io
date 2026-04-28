@@ -2,7 +2,7 @@
 title = 'Men & Women of the Word'
 slug = 'men-women-of-the-word'
 date = 2026-01-17 16:00:00
-youtube = 'exRzmYjLvdg'
+youtube = 'VJYoIRGZURI'
 draft = false
 tags = ['bootcamp', 'sermon', 'lakepointe']
 series = 'bootcamp'
