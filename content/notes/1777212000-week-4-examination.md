@@ -4,7 +4,7 @@ slug = 'week-4-examination'
 date = 2026-04-26 09:00:00
 draft = false
 tags = ['faith', 'reflection']
-pinned = true
+pinned = false
 +++
 
 A short set of questions to sit with for a week. One per day, Monday through
