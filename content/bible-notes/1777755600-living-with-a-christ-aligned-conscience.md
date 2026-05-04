@@ -3,6 +3,7 @@ title = 'Living with a Christ-Aligned Conscience'
 slug = 'living-with-a-christ-aligned-conscience'
 date = 2026-05-02 16:00:00
 draft = false
+youtube = 'LyBJ6WTkoII'
 tags = ['conscience', 'acts-23', 'holiness', 'baptism', 'discipleship', 'lakepointe', 'sermon']
 series = 'there-is-more-endgame'
 +++
