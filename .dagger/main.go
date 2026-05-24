@@ -131,7 +131,7 @@ func (m *Blog) LinkCheck(
 		WithExec(
 			[]string{
 				"--no-progress",
-				"--base", "/site",
+				"--base-url", "/site",
 				"--max-retries", "2",
 				"--retry-wait-time", "5",
 				// 202 = some sites (e.g. ballotpedia) return Accepted to bot clients;
@@ -143,6 +143,14 @@ func (m *Blog) LinkCheck(
 				// LinkedIn returns 999 to non-browser clients; checking it adds noise.
 				"--exclude", `^https?://(www\.)?linkedin\.com`,
 				"--exclude", `^https?://localhost`,
+				// Social share endpoints — these URLs are constructed for logged-in
+				// browser clicks, not for bot crawls, and routinely return 4xx/5xx.
+				"--exclude", `^https?://news\.ycombinator\.com/submitlink`,
+				"--exclude", `^https?://(www\.)?reddit\.com/submit`,
+				"--exclude", `^https?://(www\.)?facebook\.com/sharer/`,
+				"--exclude", `^https?://(twitter\.com|x\.com)/intent/`,
+				"--exclude", `^https?://api\.whatsapp\.com/send`,
+				"--exclude", `^https?://(t\.me|telegram\.me)/share`,
 				// Known dead external links; remove from this list if/when content is updated.
 				"--exclude", `^https://www\.youtube\.com/embed/MSm3w9JO9GQ$`,
 				"--exclude", `^https://www\.britannica\.com/biography/Ken_Paxton$`,
