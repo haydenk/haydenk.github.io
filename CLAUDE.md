@@ -50,6 +50,8 @@ title = "Go Again: Understanding Unanswered Prayer and the Father's Heart"
 - `enough` -- Colossians study
 - `luke-15-parables` -- Lost sheep / coin / prodigal son (paired sermon + study)
 - `jude` -- Jude study
+- `there-is-more-endgame` -- Lake Pointe Acts sermon series
+- `completely` -- Tuesday bible study through Malachi (seven weeks)
 
 #### Content Structure (in order)
 1. `## Scripture References` — each reference as a separate `*` bullet (source has them semicolon-separated on one line)
