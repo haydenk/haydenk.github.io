@@ -87,3 +87,5 @@ series = 'there-is-more-endgame'
 4. Faith isn't avoiding rough air; it's opening Scripture mid-drop and finding steady ground inside.
 5. Your peace can pilot others; someone's survival may hinge on your choice to lead while chained.
 6. If God can outrun death, He can outlast this downpour -- so stop fearing the forecast.
+
+![Keep Calm, He's Got This](when-you-cant-control-the-storm.png)
