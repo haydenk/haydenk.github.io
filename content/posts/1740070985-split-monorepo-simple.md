@@ -9,7 +9,7 @@ tags = ['git', 'development', 'monorepo']
 Assume we have monorepo at `git@github.com/haydenk/monorepo.git`
 <!--more-->
 With directory contents:
-```
+```text
 packageA/
 packageB/
 packageC/

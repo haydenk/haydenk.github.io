@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+# Pre-commit gate. Enable with `mise install-hooks`.
+# Runs the same lint + htmltest that CI runs, but skips the slow linkcheck.
+# Override per-commit with `git commit --no-verify`.
+
+set -e
+
+if ! command -v dagger >/dev/null 2>&1; then
+  echo "pre-commit: dagger CLI not found; install Dagger (https://docs.dagger.io/install) or skip with --no-verify" >&2
+  exit 1
+fi
+
+echo "pre-commit: running lint..."
+dagger call lint
+
+echo "pre-commit: running htmltest..."
+dagger call html-test

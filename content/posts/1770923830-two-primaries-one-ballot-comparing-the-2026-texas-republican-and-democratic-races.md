@@ -73,7 +73,7 @@ The money story is fascinating. Cornyn has $50 million in satellite support. Tal
 | **Frontrunner** | Greg Abbott (Facts: 5, Emotion: 7) | Gina Hinojosa (7/6) |
 | **Cash on hand** | $23M+ (Abbott) | $1.3M (Hinojosa) |
 | **Primary field** | 11 candidates, none competitive | 9 candidates, none competitive |
-| **General election polling** | Abbott 49%, Hinojosa 42% |
+| **General election polling** | Abbott 49% | Hinojosa 42% |
 
 Both are essentially uncontested primaries — Abbott and Hinojosa each lead by 30+ points. But the general election preview is revealing. Abbott runs on emotional spectacle (razor wire, migrant buses, Operation Lone Star) backed by economic data. Hinojosa runs on education policy specifics ($10,000 teacher pay gap, the "Greg Abbott corruption tax") backed by working-family empowerment narratives. Abbott's $23 million dwarfs Hinojosa's $1.3 million by a factor of 18. The 49–42 general election polling is closer than the money gap suggests.
 

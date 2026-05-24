@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+#MISE description="Check links in built site via Dagger (lychee)"
+
+set -e
+exec dagger call link-check

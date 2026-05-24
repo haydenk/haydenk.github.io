@@ -10,7 +10,7 @@ tags = ['texas', 'politics', 'elections', '2026-primary', 'democrat', 'voter-gui
 
 The March 3, 2026 Texas Democratic Primary ballot for Dallas County is enormous — 31 contested races spanning federal, state, and local offices. I went through my sample ballot (Precinct 12), researched every candidate in every contested race, and scored them on how much they rely on **facts and data** versus **feelings and emotions** to make their case.
 
-Same methodology as [the Republican guide](/posts/2026-texas-republican-primary-candidate-guide/): two independent 1–10 scales. A candidate can score high on both, low on both, or anywhere in between. Judicial races tend to cluster low on emotion, which is appropriate — you probably don't want a judge who campaigns on rage.
+Same methodology as [the Republican guide](/posts/2026/02/12/texas-republican-primary-candidate-guide/): two independent 1–10 scales. A candidate can score high on both, low on both, or anywhere in between. Judicial races tend to cluster low on emotion, which is appropriate — you probably don't want a judge who campaigns on rage.
 
 One important context note: Democrats haven't won statewide in Texas since 1994. The primary winner in most Dallas County local races *is* effectively the general election winner, but every statewide nominee faces long odds in November.
 

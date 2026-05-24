@@ -1,0 +1,9 @@
+DirectoryPath: "."
+CheckExternal: false
+EnforceHTTPS: false
+IgnoreEmptyHref: true
+IgnoreEmptyAlt: true
+LogLevel: 2
+IgnoreInternalURLs:
+  - "/feed.xml"
+  - "/feed.json"

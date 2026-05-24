@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
-#MISE description="Build Hugo site"
+#MISE description="Build Hugo site via Dagger"
 #MISE depends=["clean"]
 
-hugo --gc --minify --noBuildLock --cleanDestinationDir --buildDrafts=false --destination $MISE_PROJECT_ROOT/dist
+set -e
+exec dagger call build ${HUGO_BASEURL:+--base-url="$HUGO_BASEURL"} export --path="$MISE_PROJECT_ROOT/dist"

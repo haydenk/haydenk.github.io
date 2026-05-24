@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+#MISE description="Validate built HTML via Dagger (htmltest)"
+
+set -e
+exec dagger call html-test

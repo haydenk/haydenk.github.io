@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+#MISE description="Run lint, htmltest, and linkcheck in parallel via Dagger"
+
+set -e
+exec dagger call test

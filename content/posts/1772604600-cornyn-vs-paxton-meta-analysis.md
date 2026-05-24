@@ -146,7 +146,7 @@ The ideal AI-generated political analysis does not yet exist. This exchange brin
 
 ---
 
-## Authorship and Versioning
+## Authorship and Versioning (Final)
 
 - **Claude-authored content:** Part I summary and Part III final response.
 - **OpenAI-authored content:** Part II critique, methodological recommendations, and joint takeaway framing.
