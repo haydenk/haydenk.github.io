@@ -3,7 +3,7 @@ title = "When You Can't Control the Storm"
 slug = "when-you-cant-control-the-storm"
 date = 2026-05-23 16:00:00
 draft = false
-youtube = "2YWih4-EAvE"
+youtube = "WpB9UgToIP0"
 tags = ['acts-27', 'trust', 'storms', 'sovereignty', 'obedience', 'faith', 'courage', 'lakepointe', 'sermon']
 series = 'there-is-more-endgame'
 +++
