@@ -143,6 +143,9 @@ func (m *Blog) LinkCheck(
 				// LinkedIn returns 999 to non-browser clients; checking it adds noise.
 				"--exclude", `^https?://(www\.)?linkedin\.com`,
 				"--exclude", `^https?://localhost`,
+				// GoatCounter attribution in the footer; intermittent connection refused
+				// from CI runners means every page reports a false positive.
+				"--exclude", `^https?://(www\.)?goatcounter\.com`,
 				// Social share endpoints — these URLs are constructed for logged-in
 				// browser clicks, not for bot crawls, and routinely return 4xx/5xx.
 				"--exclude", `^https?://news\.ycombinator\.com/submitlink`,
