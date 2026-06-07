@@ -22,11 +22,15 @@ fi
 # Convert title to slug (lowercase, replace spaces with hyphens, remove special chars)
 slug=$(echo "$post_title" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9 -]//g' | sed 's/ /-/g' | sed 's/--*/-/g' | sed 's/^-//' | sed 's/-$//')
 
-# Create Unix timestamp (epoch seconds) from date
-timestamp=$(date -j -f "%Y-%m-%d %H:%M:%S" "$post_date" "+%s" 2>/dev/null)
+# Create Unix timestamp (epoch seconds) from date.
+# Try GNU date first (Linux, and macOS with coreutils on PATH), then BSD date.
+timestamp=$(date -d "$post_date" "+%s" 2>/dev/null || true)
 if [ -z "$timestamp" ]; then
-    # Fallback for Linux
-    timestamp=$(date -d "$post_date" "+%s" 2>/dev/null)
+    timestamp=$(date -j -f "%Y-%m-%d %H:%M:%S" "$post_date" "+%s" 2>/dev/null || true)
+fi
+if [ -z "$timestamp" ]; then
+    echo "Error: failed to parse date '$post_date'"
+    exit 1
 fi
 
 # Create filename with epoch timestamp

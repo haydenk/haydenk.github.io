@@ -52,6 +52,7 @@ title = "Go Again: Understanding Unanswered Prayer and the Father's Heart"
 - `jude` -- Jude study
 - `there-is-more-endgame` -- Lake Pointe Acts sermon series
 - `completely` -- Tuesday bible study through Malachi (seven weeks)
+- `en-fuego` -- Four-week sermon series on fire imagery (anger, passion, refinement)
 
 #### Content Structure (in order)
 1. `## Scripture References` — each reference as a separate `*` bullet (source has them semicolon-separated on one line)
