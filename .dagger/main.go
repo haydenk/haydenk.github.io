@@ -158,6 +158,7 @@ func (m *Blog) LinkCheck(
 				"--exclude", `^https://www\.youtube\.com/embed/MSm3w9JO9GQ$`,
 				"--exclude", `^https://www\.britannica\.com/biography/Ken_Paxton$`,
 				"--exclude", `^https://www\.houstonpublicmedia\.org/articles/news/politics/election-2026/2026/03/03/texas-senate-republican-primary-election-results-cornyn-paxton-hunt/$`,
+				"--exclude", `^https://www\.topbug\.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/$`,
 				"**/*.html",
 			},
 			dagger.ContainerWithExecOpts{UseEntrypoint: true},
