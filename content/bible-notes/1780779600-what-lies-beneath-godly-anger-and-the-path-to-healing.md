@@ -3,6 +3,7 @@ title = 'What Lies Beneath: Godly Anger and the Path to Healing'
 slug = 'what-lies-beneath-godly-anger-and-the-path-to-healing'
 date = 2026-06-06 16:00:00
 draft = false
+youtube = '7hqEqQRQmpM'
 tags = ['en-fuego', 'sermon', 'lakepointe', 'anger', 'ephesians', 'ephesians-4', 'proverbs', 'holy-spirit', 'self-control', 'sermon-on-the-mount']
 series = 'en-fuego'
 +++
