@@ -3,6 +3,7 @@ title = "Consumed by God's Fire: Surrendering All to Him"
 slug = 'consumed-by-gods-fire-surrendering-all-to-him'
 date = 2026-06-20 16:00:00
 draft = false
+youtube = "VYYAMF33B3c"
 tags = ['en-fuego', 'sermon', 'lakepointe', 'surrender', 'idolatry', '1-kings', 'elijah', 'consecration', 'holy-spirit', 'fathers-day']
 series = 'en-fuego'
 +++
