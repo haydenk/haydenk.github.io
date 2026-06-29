@@ -3,6 +3,7 @@ title = "Refined by Fire: Trusting God Through Life's Trials"
 slug = 'refined-by-fire-trusting-god-through-lifes-trials'
 date = 2026-06-27 16:00:00
 draft = false
+youtube = 'S7I3aRCOVF8'
 tags = ['en-fuego', 'sermon', 'lakepointe', 'trials', 'refinement', 'faith', 'daniel', 'daniel-3', 'courage', 'envy', 'suffering', 'perseverance']
 series = 'en-fuego'
 +++
