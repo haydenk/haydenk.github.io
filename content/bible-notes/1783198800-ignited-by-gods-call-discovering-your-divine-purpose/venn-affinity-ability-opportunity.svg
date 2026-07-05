@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 620" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="title desc">
+  <title id="title">The Venn Diagram of Calling</title>
+  <desc id="desc">Three overlapping circles labeled Affinity, Ability, and Opportunity. Where all three overlap is Your Calling.</desc>
+  <rect width="640" height="620" fill="#ffffff"/>
+  <g style="mix-blend-mode:multiply">
+    <circle cx="240" cy="240" r="160" fill="#e63946" fill-opacity="0.55"/>
+  </g>
+  <g style="mix-blend-mode:multiply">
+    <circle cx="400" cy="240" r="160" fill="#f77f00" fill-opacity="0.55"/>
+  </g>
+  <g style="mix-blend-mode:multiply">
+    <circle cx="320" cy="380" r="160" fill="#fcbf49" fill-opacity="0.55"/>
+  </g>
+  <circle cx="240" cy="240" r="160" fill="none" stroke="#b02a35" stroke-width="2"/>
+  <circle cx="400" cy="240" r="160" fill="none" stroke="#c76600" stroke-width="2"/>
+  <circle cx="320" cy="380" r="160" fill="none" stroke="#d99a1f" stroke-width="2"/>
+  <g text-anchor="middle" fill="#2b2b2b">
+    <text x="185" y="175" font-size="24" font-weight="bold">AFFINITY</text>
+    <text x="185" y="200" font-size="15">What breaks</text>
+    <text x="185" y="219" font-size="15">your heart?</text>
+    <text x="455" y="175" font-size="24" font-weight="bold">ABILITY</text>
+    <text x="455" y="200" font-size="15">What are you</text>
+    <text x="455" y="219" font-size="15">good at?</text>
+    <text x="320" y="470" font-size="24" font-weight="bold">OPPORTUNITY</text>
+    <text x="320" y="495" font-size="15">What doors</text>
+    <text x="320" y="514" font-size="15">are open?</text>
+  </g>
+  <g text-anchor="middle" fill="#ffffff">
+    <text x="320" y="282" font-size="19" font-weight="bold">YOUR</text>
+    <text x="320" y="304" font-size="19" font-weight="bold">CALLING</text>
+  </g>
+</svg>
