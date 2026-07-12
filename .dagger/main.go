@@ -154,6 +154,9 @@ func (m *Blog) LinkCheck(
 				"--exclude", `^https?://(twitter\.com|x\.com)/intent/`,
 				"--exclude", `^https?://api\.whatsapp\.com/send`,
 				"--exclude", `^https?://(t\.me|telegram\.me)/share`,
+				// congress.gov sits behind bot protection: browsers get 403 while the
+				// CI runner's connection is reset outright, so 403 in --accept can't help.
+				"--exclude", `^https?://(www\.)?congress\.gov`,
 				// Known dead external links; remove from this list if/when content is updated.
 				"--exclude", `^https://www\.youtube\.com/embed/MSm3w9JO9GQ$`,
 				"--exclude", `^https://www\.britannica\.com/biography/Ken_Paxton$`,
