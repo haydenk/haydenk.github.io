@@ -3,6 +3,7 @@ title = "Ignited by God's Call: Discovering Your Divine Purpose"
 slug = 'ignited-by-gods-call-discovering-your-divine-purpose'
 date = 2026-07-04 16:00:00
 draft = false
+youtube = 'PSmq9ZvvIS8'
 tags = ['en-fuego', 'sermon', 'lakepointe', 'calling', 'purpose', 'moses', 'exodus-3', 'burning-bush', 'i-am', 'obedience']
 series = 'en-fuego'
 +++
