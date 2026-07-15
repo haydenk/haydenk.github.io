@@ -56,7 +56,8 @@ enableRobotsTXT = true
   showSocialMedia = true
   socialMediaLinks = [
     { link = 'https://github.com/haydenk/', icon = 'fab fa-github', rel = 'me' },
-    { link = 'http://linkedin.com/in/haydenking', icon = 'fab fa-linkedin' },
+    { link = 'http://linkedin.com/in/imhaydenk', icon = 'fab fa-linkedin' },
+    { link = 'https://stackoverflow.com/users/464467/hayden', icon = 'fa fa-stack-overflow'}
     { link = '/feed.xml', icon = 'fas fa-rss' },
   ]
   showArchive = true
@@ -103,8 +104,13 @@ enableRobotsTXT = true
 
   [[params.lynko.links]]
     title  = "LinkedIn"
-    url    = "https://linkedin.com/in/haydenk"
+    url    = "https://linkedin.com/in/imhaydenk"
     icon   = "linkedin"
+
+  [[params.lynko.links]]
+    title  = "StackOverflow"
+    url    = "https://stackoverflow.com/users/464467/hayden"
+    icon   = "stackoverflow"
 
   [[params.lynko.links]]
     title  = "Contact"
@@ -121,7 +127,11 @@ enableRobotsTXT = true
 
   [[params.lynko.social]]
     name = "linkedin"
-    url  = "https://linkedin.com/in/haydenk"
+    url  = "https://linkedin.com/in/imhaydenk"
+
+  [[params.lynko.social]]
+    name  = "StackOverflow"
+    url    = "https://stackoverflow.com/users/464467/hayden"
 
   [[params.lynko.social]]
     name = "rss"
