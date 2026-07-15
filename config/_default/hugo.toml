@@ -57,8 +57,6 @@ enableRobotsTXT = true
   socialMediaLinks = [
     { link = 'https://github.com/haydenk/', icon = 'fab fa-github', rel = 'me' },
     { link = 'http://linkedin.com/in/haydenking', icon = 'fab fa-linkedin' },
-    { link = 'http://x.com/__haydenk', icon = 'fab fa-square-x-twitter' },
-    { link = 'http://instagram.com/mr.haydenk', icon = 'fab fa-instagram' },
     { link = '/feed.xml', icon = 'fas fa-rss' },
   ]
   showArchive = true

@@ -151,7 +151,9 @@ func (m *Blog) LinkCheck(
 				"--exclude", `^https?://news\.ycombinator\.com/submitlink`,
 				"--exclude", `^https?://(www\.)?reddit\.com/submit`,
 				"--exclude", `^https?://(www\.)?facebook\.com/sharer/`,
-				"--exclude", `^https?://(twitter\.com|x\.com)/intent/`,
+				// X serves 404 to non-browser clients for profile pages, so the whole
+				// domain is excluded, not just share intents.
+				"--exclude", `^https?://(www\.)?(twitter\.com|x\.com)`,
 				"--exclude", `^https?://api\.whatsapp\.com/send`,
 				"--exclude", `^https?://(t\.me|telegram\.me)/share`,
 				// congress.gov sits behind bot protection: browsers get 403 while the
