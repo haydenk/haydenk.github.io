@@ -10,6 +10,8 @@ tags = ['seeing-the-supernatural', 'sermon', 'lakepointe']
 ## Introduction  
 The speaker—an investigative journalist and former skeptic—opens with a humorous family story and then recounts Elisha’s servant in 2 Kings 6 whose eyes are opened to angelic hosts. This biblical episode frames the central question: Does a supernatural realm still break into our world today? Drawing from years of research for his new book, “Seeing the Supernatural,” the preacher promises evidence-based glimpses into angels, miracles, near-death experiences, and visions that strengthen faith.
 
+<!--more-->
+
 ## Scripture References
 
 * 2 Kings 6:15-17

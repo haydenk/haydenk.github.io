@@ -22,6 +22,8 @@ series = 'easter-2026'
 * Explains annual Easter survey card that shapes future teaching series and campus expansion.
 * Frames the day around humanity's love for comeback stories, preparing hearts to see Jesus' resurrection as history's ultimate reversal.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. The Greatest Comeback in History

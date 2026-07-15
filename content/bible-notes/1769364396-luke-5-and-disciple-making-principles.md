@@ -63,6 +63,8 @@ The episode weaves three major threads:
 2. Practical disciple-making: cultivating a "band of brothers" and performing "radical amputations" of relationships that hinder holiness.
 3. Cultural engagement: a thorough, biblically framed response to protesters who disrupted a Minnesota church service and the wider immigration debate.
 
+<!--more-->
+
 ## Key Points
 
 * Luke 5 displays both Jesus' authority and tenderness in calling ordinary yet diverse men.

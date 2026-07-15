@@ -23,6 +23,8 @@ series = 'live-free'
 * Biblical immigration principles: welcome with moral alignment; government vs. individual roles  
 * Government-as-savior rhetoric (“no problem too large for government”) contrasted with Christ
 
+<!--more-->
+
 ## Key Information  
 * “Harpazō” (caught up) appears 1 Th 4:17 & 2 Cor 12:2; possible link—Paul personally experienced what believers will at Christ’s return.  
 * Hebrews calls Jesus “seated...at the right hand”; 1 Jn 2 clarifies He is our Advocate—defense, not plea-for-mercy.  

@@ -25,6 +25,8 @@ series = 'live-free'
 ## Introduction
 Josh & Jana Howerton walk through (1) Jesus' temptation narrative, (2) how believers overcome temptation, and (3) very practical counsel on engaging the Bible—reading plans, habits, and reliable English translations.
 
+<!--more-->
+
 ## Key Points
 * Wrestling with temptation is evidence of spiritual life, not failure.
 * Jesus models victory by replying, "It is written," showing Scripture is the believer's offensive weapon (Eph 6).

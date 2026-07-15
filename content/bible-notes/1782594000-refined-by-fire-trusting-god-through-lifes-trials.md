@@ -22,6 +22,8 @@ series = 'en-fuego'
 * Whether God delivers us from, through, or by the fire, He is always good--"even better on the bad days."
 * This talk closes a four-week run in the "En Fuego" series. Previous weeks dealt with anger and with Elijah's Mount Carmel showdown. Tonight's focus: how God refines character when the heat is turned up.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Trials Are Certain, but They're Temporary

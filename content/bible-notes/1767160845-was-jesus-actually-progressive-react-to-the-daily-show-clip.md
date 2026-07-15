@@ -28,6 +28,8 @@ series = 'live-free'
 ## Introduction  
 A viral Daily Show clip by author/comedian John Fugelsang claims Jesus was “inherently progressive.” Because similar arguments intensify around election seasons, the speaker equips believers to test such claims against Scripture—following the Berean model of examining everything and holding fast to what is good.
 
+<!--more-->
+
 ## Key Points / Exposition  
 
 ### 1. Not All Change Is Progress

@@ -23,6 +23,8 @@ tags = ['sabbath', 'rest', 'faith', 'obedience', 'sermon', 'lakepointe']
 * Sets context: part of the "Investigating Jesus" series, examining what put Jesus at odds with religious leaders.
 * Announces the focus--God's gift of Sabbath rest--and promises rapid-fire Bible exposition.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. The Sabbath Is a Command

@@ -15,6 +15,8 @@ series = 'run-to-win'
 * States pastoral priority: preparing believers for eternity above all else.  
 * Sets goal for message—clarify exactly what happens the moment after death and at Christ’s return.
 
+<!--more-->
+
 ## Scripture Reference(s)
 
 * Romans 14:10-12

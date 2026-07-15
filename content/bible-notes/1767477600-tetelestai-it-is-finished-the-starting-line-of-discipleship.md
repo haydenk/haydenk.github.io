@@ -28,6 +28,8 @@ series = 'bootcamp'
 * Practical tools distributed: "Field Guide," tear-off "One More" evangelism card, 2026 church-family calendar, new Lake Pointe app with Bible-reading plan and Lift Read podcast.
 * Series challenge: Each person asks, "What is my next step of obedience?"—then does it.  
 
+<!--more-->
+
 ## Key Points / Exposition  
 
 ### 1. "It Is Finished" — What Was Finished

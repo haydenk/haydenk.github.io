@@ -28,6 +28,8 @@ series = 'bootcamp'
 * Reads Luke 19:11-27 (parable of the minas) while congregation stands in reverence.
 * Explains prophetic backdrop: Jesus' approach to Jerusalem, prediction of temple destruction (Luke 19:44) fulfilled in A.D. 70; therefore His future promises--including judgment and reward--are certain.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. I Am a Steward, Not an Owner

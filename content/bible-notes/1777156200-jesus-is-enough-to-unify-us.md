@@ -19,6 +19,8 @@ series = 'enough'
 * Purpose: create a micro-example of the tension we carry into relationships and to explore how Jesus' sufficiency addresses unity.
 * Study continues the Colossians series "Enough--Jesus Is Enough for ___"; tonight's blank: "to unify us."
 
+<!--more-->
+
 ## Key Points
 
 1. Routine changes (e.g., new seats) create inner tension; tension originates in us, not in the stranger beside us.

@@ -13,6 +13,8 @@ series = 'live-free'
 ## Opening Moments  
 Laughter, snorts, and a playful “Let’s kick this pig” opened episode 56—a surprise year-end bonus recorded minutes after Pastor Josh stepped off the Christmas-service stage at Lake Pointe. The mood: breathless joy and holy awe at what God has done in just one year.
 
+<!--more-->
+
 ## Testimonies  
 
 ### Pastor Josh

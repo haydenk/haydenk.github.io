@@ -11,6 +11,8 @@ series = 'james'
 * Recap of James 1: external trials require internal, Spirit-formed responses (“listen and do,” “quick to listen, slow to anger”).  
 * Transition: James now moves from the general (chapter 1) to specific conduct issues—first up, favoritism in the church.  
 
+<!--more-->
+
 ## Scripture References  
 James 1:15; James 2:1-13  
 Matthew 5 (Beatitudes / Sermon on the Mount); Matthew 19:24  

@@ -22,6 +22,8 @@ series = 'completely'
 * Malachi promises either a curse or an overflow of blessing, and the men wrestled honestly with whether such consequences still apply under Christ.
 * The study opened with light banter about volunteering at the church's upcoming "At the Movies" outreach, then shifted to a question: "If your grandparents walked into your house today, what would they say you waste the most?" Answers--time on phones, eating out, bottled water, oversized houses--set the stage for a deeper look at stewardship.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. We Waste What Earlier Generations Guarded

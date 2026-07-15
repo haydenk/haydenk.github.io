@@ -10,6 +10,8 @@ series = 'james'
 ## Introduction  
 Ice-breaker question: “Which is harder to deal with—trials or temptations?” The group used personal experience to compare the two and set the stage for studying James 1:12-15.
 
+<!--more-->
+
 ## Scripture Reference(s)  
 James 1:12 - 15  
 

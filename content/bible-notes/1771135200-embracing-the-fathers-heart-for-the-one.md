@@ -24,6 +24,8 @@ series = 'luke-15-parables'
 * Purpose: expose both the "rebellious prodigal" and the "rule-keeping elder brother" hearts in all of us, then reveal the welcoming, pursuing heart of the Father.
 * Sermon arises from Jesus' own context: religious leaders angry that He ate with "tax collectors and notorious sinners," prompting the three lost-and-found stories of Luke 15.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Two Sons, Two Shadows

@@ -22,6 +22,8 @@ series = 'there-is-more-endgame'
 * From a prisoner's chains, Paul steadies 276 frightened people, proving that God -- not weather, not authorities -- holds the outcome.
 * The chapter carries three big lessons: stay calm by remembering who is in charge, realize storms reveal real faith, and do your part while trusting God for everything else.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Stay Calm by Remembering Who Controls the Outcome

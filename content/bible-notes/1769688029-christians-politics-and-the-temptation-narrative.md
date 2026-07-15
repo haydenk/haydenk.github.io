@@ -31,6 +31,8 @@ series = 'live-free'
 
 The host reacts to Rhett & Link's claim that Christians are compromising themselves in politics. He distinguishes between compassionate engagement with honest doubters and firm resistance toward outspoken unbelief that tries to draw others away from Christ.
 
+<!--more-->
+
 ## Key Points
 
 1. Distinguishing Doubters vs. False Teachers

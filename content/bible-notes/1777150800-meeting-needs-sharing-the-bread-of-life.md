@@ -19,6 +19,8 @@ tags = ['sermon', 'evangelism', 'bread-of-life', 'john-6', 'service', 'kindness'
 * Announces focus on a single verse--John 6:35--calling it "fighting words" (Spurgeon) and "the Bible in a nutshell" (Billy Graham).
 * Sets expectation to link that verse to the previous day's event in Luke 9 (feeding of the 5,000), showing Jesus' method before His message.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. "I AM the Bread of Life" -- Words That Cost Blood

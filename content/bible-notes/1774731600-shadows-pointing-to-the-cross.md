@@ -26,6 +26,8 @@ series = 'easter-2026'
 * Sets up the theme: as Easter approaches, move from "investigating where Jesus went" to "who He is and what He's done."
 * Uses everyday "shadows" (sunsets, dark alleyways, Groundhog Day) to introduce the biblical idea of Old-Testament shadows pointing forward to Christ.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. The Grand Storyline

@@ -18,6 +18,8 @@ series = 'bootcamp'
 
 The group mirrored Sunday's sermon on John 19:30 ("It is finished"), asking: "If Jesus really finished the work, is my life showing that I believe it?" Big idea: "If Jesus truly finished the work, trusting Him isn't optional; it is simply what belief looks like."
 
+<!--more-->
+
 ## Key Points
 
 * Western culture prizes self-reliance; trust in others (and in God) is declining.

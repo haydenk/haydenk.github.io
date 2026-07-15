@@ -11,6 +11,8 @@ series = 'live-free'
 ## Introduction  
 Pastors Josh and Paul (recording while Josh is on a family vacation at Gulf Shores) walk through Acts 23, share personal testimony on overcoming anxiety, and evaluate current cultural questions about abortion, capital punishment, and immigration—responding to recent comments from Pope Francis and a Seattle mayor.
 
+<!--more-->
+
 ## Scripture Reference(s)
 
 * Acts 22–23

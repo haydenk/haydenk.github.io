@@ -60,6 +60,8 @@ series = 'james'
 * Tonight’s aim: let James 5:1-6 expose hubris in both material and spiritual “wealth,” then learn patience from 5:7-12.  
 * Context: Last week Mark covered James 4; the class is now in the penultimate session of the letter.
 
+<!--more-->
+
 ## Key Points
 
 1. Definition of hubris * excessive pride that presumes upon “the next” (next breath, day, or year).  

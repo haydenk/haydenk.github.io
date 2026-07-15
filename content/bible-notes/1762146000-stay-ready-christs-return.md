@@ -15,6 +15,8 @@ A free-flowing discussion (Carlos Erazo, Ps. Josh Howerton, Ps. Paul, and team) 
 * Practical readiness for Christ’s return  
 * A biblical critique of socialism vs. gospel generosity
 
+<!--more-->
+
 ## Scripture References
 
 * Acts 1

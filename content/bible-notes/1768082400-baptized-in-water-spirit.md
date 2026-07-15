@@ -36,6 +36,8 @@ series = 'bootcamp'
 * Humorous opening: video of young Caroline taking medicine, mimicking pastor's salvation invitation count-down—illustrates responding in obedience.
 * Setting: Luke 3 and the ministry of John the Baptizer—eccentric, fearless forerunner who prepared Israel for Messiah after 400 years of prophetic silence.
 
+<!--more-->
+
 ## Key Points / Exposition  
 
 ### 1. A Disciple Must Be Baptized in Water

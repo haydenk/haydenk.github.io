@@ -23,6 +23,8 @@ tags = ['marriage', 'sermon', 'lakepointe', 'divorce', 'covenant', 'family', 'on
 * Sets stage for new series "Investigating Jesus," beginning with society's top question: What did Jesus teach about gender, marriage, divorce, and sexuality?
 * Pastor frames marriage as a primary spiritual battleground -- strong families produce generational disciples.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Marriage: From Garden to Glory

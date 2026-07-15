@@ -28,6 +28,8 @@ series = 'at-the-movies'
 * Drawing on Proverbs, Peter, Mark and other texts, the message calls every listener--young or old--to lay down pride, serve like Jesus, seek godly mentors, and invest in the next generation.
 * The sermon ends with a gospel invitation and a challenge to run our race with eyes fixed on Christ.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Pride + Insecurity: The Fatal Cocktail On and Off the Track

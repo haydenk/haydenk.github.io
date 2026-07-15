@@ -3,4 +3,4 @@ MISE_ENV_FILE = ".env"
 
 [tools]
 go = "1.26.2"
-hugo = "0.157.0"
+hugo-extended = "0.157.0"

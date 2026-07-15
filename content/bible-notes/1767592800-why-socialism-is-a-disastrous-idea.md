@@ -39,6 +39,8 @@ series = 'live-free'
 * Week 1 of Lake Pointe's year-long "Boot-Camp Training for Team Jesus."
 * Ps. Josh's Sunday message centred on Jesus' cry Τετέλεσται ("It is finished") and launched a discussion of atonement, personal discipleship rhythms, and cultural issues (race, adoption, socialism).  
 
+<!--more-->
+
 ## Key Points
 
 1. Τετέλεσται – "Paid in full / completed / won."

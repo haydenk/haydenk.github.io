@@ -17,6 +17,8 @@ series = 'seven-i-am-statements'
 * Last of the seven "I Am" statements in John: "I am the True Vine."
 * To surface the longings Jesus satisfies, six groups analyzed popular songs from six decades, each identifying the "cultural crisis" the lyrics reveal.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Song-Analysis Exercise

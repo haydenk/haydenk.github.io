@@ -13,6 +13,8 @@ series = 'run-to-win'
 * Announces “Christmas at the Movies” (Nov 29–30) designed for evangelism.  
 * Sets tone: Today’s shorter message focuses on what will matter when believers are “hugging Jesus”—handing down the faith.
 
+<!--more-->
+
 ## Scripture References  
 * Hebrews 12:1–2  
 * Hebrews 11  

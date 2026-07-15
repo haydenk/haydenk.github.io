@@ -32,6 +32,8 @@ tags = ['eschatology', 'prophecy', 'second-coming', 'great-commission', 'mission
 * Core question: "When will Christ return, and what will He do then?"
 * Jesus' longest answer (Luke 21 & Matthew 24) divides history into three ages; the sermon traces them and their transitions.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Age #1 - Judaism Concludes (33 AD prophecy, 70 AD fulfillment)

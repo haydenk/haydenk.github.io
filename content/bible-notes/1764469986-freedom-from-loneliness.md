@@ -13,6 +13,8 @@ series = 'glad-tidings-we-bring'
 * Opening week emphasis: the “all people” element—God’s heart to reach every person wrestling with loneliness.  
 * Film illustration: Home Alone. Beneath its humor lies the universal ache of isolation heightened during Christmas.
 
+<!--more-->
+
 ## Scripture References
 
 * Luke 2:10

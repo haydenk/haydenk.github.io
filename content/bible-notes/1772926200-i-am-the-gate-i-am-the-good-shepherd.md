@@ -25,6 +25,8 @@ series = 'seven-i-am-statements'
 * Ice-breaker: "If you were important enough to have a posse/entourage, who would be in it?"--led to discussion about bodyguards, counselors, hype-men, moral friends, etc.
 * Transitional point: Our choice of "posse" reveals who we are; likewise, Israel's leaders revealed their hearts. Jesus contrasts Himself with every false leader by declaring, "I am the Gate" and "I am the Good Shepherd."
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. OT Light Review (from Previous Week)

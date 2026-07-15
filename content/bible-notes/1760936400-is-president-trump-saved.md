@@ -13,6 +13,8 @@ series = 'live-free'
 * CrossFit legend Rich Froning joins to relate elite athletic discipline to Christian discipleship.  
 * Key cultural moment: Former President Trump admits, “I don’t think I’m getting into heaven,” leading to a discussion on salvation by grace.
 
+<!--more-->
+
 ## Scripture References
 
 * 1 Corinthians 9:24–27

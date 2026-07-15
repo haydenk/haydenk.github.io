@@ -12,6 +12,8 @@ series = 'live-free'
 
 Hosts Carlos Erazo, Pastor Josh Howerton, and Pastor Paul Cunningham review Carlos’s sermon on Acts 22, explore current cultural pressures (Netflix’s transgender content, historic LGBT strategy), and offer counsel on parenting, testimony-sharing, and discipleship.
 
+<!--more-->
+
 ## Scripture Reference(s)
 
 * Acts 21

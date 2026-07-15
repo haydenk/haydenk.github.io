@@ -29,6 +29,8 @@ series = 'investigating-jesus'
   * Sap believers' urgency to evangelize.
   * Diminish God's glory in redeemed lives.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Six Popular but Unbiblical Views of Hell

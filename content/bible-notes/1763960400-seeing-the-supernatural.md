@@ -11,6 +11,8 @@ series = 'live-free'
 ## Introduction  
 The conversation centers on the unseen realm—angels, demons, territorial spirits, and modern phenomena often labeled “aliens” or “UFOs.” Scripture is used to frame a biblical worldview in which spiritual warfare is real, Christ is victorious, and believers are called to live alert, hope-filled lives.
 
+<!--more-->
+
 ## Gathering Information  
 * Setting: Deliver Free Podcast, Lake Pointe Church, Dallas, TX  
 * Leaders / Voices: Pastor Josh Howerton, Paul Cunningham, host Carlos Erazo  

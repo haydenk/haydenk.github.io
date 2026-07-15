@@ -19,6 +19,8 @@ series = 'completely'
 * Half-hearted offerings, broken promises, and self-centered living desecrate the "sanctuary" of our bodies, homes, and relationships.
 * Faithfulness to God shows up as faithfulness to people.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. God Rejects Half-Hearted Sacrifices (Malachi 1:7-14)

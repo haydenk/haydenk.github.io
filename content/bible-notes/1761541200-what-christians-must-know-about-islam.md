@@ -11,6 +11,8 @@ series = 'live-free'
 ## Introduction  
 The group reviewed Pastor Ernest’s sermon on Naaman (2 Kings 5), discussed pride and humility, addressed whether Christians should take part in Halloween, and considered Islam’s theological and political claims in light of Scripture and current events (New York mayoral race, Nigerian persecution).  
 
+<!--more-->
+
 ## Scripture References
 
 * 2 Kings 5

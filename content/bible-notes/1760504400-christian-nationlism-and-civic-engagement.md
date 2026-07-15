@@ -11,6 +11,8 @@ series = 'live-free'
 ## Introduction  
 A panel of pastors and ministry leaders discussed the rapidly growing debate over “Christian nationalism.” They clarified definitions, corrected caricatures, examined biblical texts, cited America’s founding documents, answered common objections, and shared pastoral experiences—especially from strongly progressive regions—about why Christians should engage the public square without idolatry.
 
+<!--more-->
+
 ## Scripture Reference(s)
 
 * Jeremiah 29:4–7

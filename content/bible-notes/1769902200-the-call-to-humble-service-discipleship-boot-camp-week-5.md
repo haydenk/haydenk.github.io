@@ -22,6 +22,8 @@ series = 'bootcamp'
 * Session aim: expose our default instinct to protect personal status and contrast it with Jesus' call to humble service.
 * Warm-up: rapid-fire everyday scenarios (potluck line, last slice of pizza, four-way stop, credit for work, etc.) to surface personal instincts.
 
+<!--more-->
+
 ## Key Points
 
 1. Human Instinct vs. Kingdom Posture

@@ -14,6 +14,8 @@ series = 'run-to-win'
 * Acknowledges common, paralyzing fears—rejection, failure, success, loneliness, financial entrapment, relational stagnation.  
 * Sets the stage for Acts 23, continuing Lake Pointe's series on the life of Paul.
 
+<!--more-->
+
 ## Scripture Reference(s)
 
 * Acts 23

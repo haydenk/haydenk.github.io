@@ -20,6 +20,8 @@ The leader opened with real-life examples of "acceptable loss"--a 2% inventory s
 
 Group members suggested thresholds based on profit margins, emotional investment, or right intentions, but admitted the standards are usually arbitrary.
 
+<!--more-->
+
 ## Key Points
 
 Full passage read aloud:

@@ -56,7 +56,7 @@ title = "Go Again: Understanding Unanswered Prayer and the Father's Heart"
 
 #### Content Structure (in order)
 1. `## Scripture References` — each reference as a separate `*` bullet (source has them semicolon-separated on one line)
-2. `## Introduction`
+2. `## Introduction` — followed by `<!--more-->` on its own line (blank line above and below) after the last intro line, so list pages show only the refs + intro as the summary
 3. `## Key Points / Exposition` — with `###` numbered sub-headings
 4. `## Major Lessons & Revelations`
 5. `## Practical Application`

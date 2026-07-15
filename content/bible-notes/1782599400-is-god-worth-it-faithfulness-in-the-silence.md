@@ -21,6 +21,8 @@ series = 'completely'
 * Malachi 3:13-4:6 exposes Israel's cynical complaints, contrasts them with a small faithful remnant, and then lifts the group's eyes to the coming "day when I act," when God will separate the righteous from the wicked and bring healing.
 * The night pressed us to examine our own temptations to treat God transactionally and to remember that His apparent silence never equals His absence.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. The Cynical Complaint (Malachi 3:13-15)

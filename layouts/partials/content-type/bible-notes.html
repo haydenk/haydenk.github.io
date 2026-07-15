@@ -1,0 +1,30 @@
+<a class="bubble" href="{{ .ctx.Permalink }}">
+    <i class="fas fa-fw {{ or .ctx.Params.icon "fa-book-bible" }}"></i>
+</a>
+
+<article class="default article">
+    {{ partial "featured-image.html" .ctx }}
+    {{ partial "default-content.html" (dict "ctx" .ctx "template_type" .template_type) }}
+    {{ if eq .template_type "single" }}
+    <div class="content">
+        {{ with .ctx.Params.youtube }}
+        <div style="margin-bottom: 1.5rem;">
+            <iframe
+                src="https://www.youtube.com/embed/{{ . }}"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+                style="aspect-ratio: 16/9; width: 100%;">
+            </iframe>
+        </div>
+        {{ end }}
+        <p>
+            Notes Powered by Bible Note <a href="https://biblenote.ai/">https://biblenote.ai</a>
+        </p>
+    </div>
+    {{ partial "goatcounter-views.html" .ctx }}
+    {{ end }}
+    {{ partial "article-footer.html" .ctx }}
+</article>

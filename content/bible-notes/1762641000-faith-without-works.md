@@ -12,6 +12,8 @@ series = 'james'
 *  Tonight’s focus: James 2 : 14 - 26, presented as the “apex” of James—everything before it points forward and everything after it looks back.  
 *  Goal: allow the passage to “penetrate marrow,” producing conviction and action rather than mere agreement.
 
+<!--more-->
+
 ## Scripture References
 
 * Luke 10:25-37

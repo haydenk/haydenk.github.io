@@ -13,6 +13,8 @@ series = 'run-to-win'
 * Series theme: “Run to Win” (1 Cor 9)—races have a finish line; believers must live in view of the end.  
 * Hide-and-seek illustration with his children: escalating count and the shout “Ready or not, here I come!” parallels Christ’s escalating signs and certain return.
 
+<!--more-->
+
 ## Scripture References
 
 * Revelation 22:12

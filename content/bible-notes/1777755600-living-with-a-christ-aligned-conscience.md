@@ -31,6 +31,8 @@ series = 'there-is-more-endgame'
 * The sermon defines conscience, explains why it matters, and walks through four biblical conditions of the conscience: good, defiled, seared, and weak.
 * The message moves from teaching to direct response, calling listeners to examine their conscience before God and obey Jesus publicly.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Paul Stands Before Earthly Courts with an Inner Court at Peace

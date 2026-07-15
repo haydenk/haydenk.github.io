@@ -19,6 +19,8 @@ series = 'bootcamp'
 * Ice-breaker on favorite fast-food chains (Whataburger, Burger King, Portillo's, Raising Canes, In-N-Out, Steak 'n Shake, etc.) highlighted convenience, taste, speed, and affordability—setting up the contrast between quick satisfaction and long-term health.
 * Theme: believers often feed on "spiritual fast food." Luke 4 shows Jesus choosing the harder, healthier way of trust, obedience, and submission in the wilderness immediately after His baptism.
 
+<!--more-->
+
 ## Key Points
 
 ### 1. Spirit-Led Wilderness

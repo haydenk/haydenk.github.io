@@ -84,6 +84,8 @@ The episode centres on two themes:
 1. Biblical, life-on-life relationships (using Timothy as a case study).  
 2. A warning about letting internet personalities (e.g., Nick Fuentes) disciple you more than godly people & pastors.
 
+<!--more-->
+
 ## Key Points
 
 * At-the-Movies series saw ~30,000 in-person attenders; many salvations celebrated.

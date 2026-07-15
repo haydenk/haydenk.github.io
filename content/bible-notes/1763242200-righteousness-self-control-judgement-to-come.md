@@ -14,6 +14,8 @@ series = 'run-to-win'
 * CS Lewis’s fictional dialogue in hell: the most effective lie is “There is no hurry.”  
 * Transition to Acts 24: the Apostle Paul on trial before Governor Felix and his wife Drusilla—powerful, elite, yet spiritually undecided.
 
+<!--more-->
+
 ## Scripture References
 
 * Acts 22–24

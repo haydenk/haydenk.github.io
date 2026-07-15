@@ -21,6 +21,8 @@ series = 'seven-i-am-statements'
 * Ice-breaker: each man completed "I am ___" (e.g., "cool dude," "loved," "so grateful," "duck-hunter," etc.).
 * Purpose: last summer's seven signs revealed Jesus' divinity; the seven "I AMs" show how that divinity meets human need.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Cultural Longing

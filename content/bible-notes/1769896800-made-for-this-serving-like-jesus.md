@@ -21,6 +21,8 @@ series = 'bootcamp'
 * He frames the current sermon series as "Boot Camp," a practical training in living the life of Jesus. Previous weeks covered baptism, Spirit-dependence, truth, and community; today's theme is serving.
 * Personal mission statement written at age 25: "I just want to look, love, and live like Jesus." Serving is indispensable to that pursuit.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. "Not So With You" – The Call to Serve (Mark 10:42–45)

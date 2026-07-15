@@ -31,6 +31,8 @@ tags = ['prayer', 'faith', 'persistence', 'forgiveness', 'unanswered-prayer', 'l
 * Pastoral moment: The church's gracious response to last week's hard teaching on marriage led 60 co-habiting couples to register for a forthcoming mass wedding -- evidence that obedience to Scripture yields fruit.
 * Today's focus: Prayer can be exhilarating when answered, but agonising when heaven seems silent. The sermon asks, "If Jesus is real, why didn't He answer my prayer?"
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Prayer Begins With "Father"

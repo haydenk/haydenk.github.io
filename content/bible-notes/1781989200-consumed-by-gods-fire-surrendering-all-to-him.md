@@ -25,6 +25,8 @@ series = 'en-fuego'
 * The central invitation is surrender--laying our lives on God's altar so His power, not our preferences, defines us.
 * "How long will you waver?" becomes the piercing question that demands a decision today.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Our Consumer Reflex vs. God's Call to Be Consumed

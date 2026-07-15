@@ -32,6 +32,8 @@ series = 'bootcamp'
 * Pastor warns that drowning people don't need Greek word studies on "life-jacket"; they need someone to throw the jacket—today's sermon is that practical life-jacket.
 * Special assignment: text "BIBLE" to 20411 for a podcast deep-dive on reading, studying, and teaching Scripture to families.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. You Have an Enemy

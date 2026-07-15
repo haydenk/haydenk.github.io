@@ -23,6 +23,8 @@ series = 'investigating-jesus'
 * Rooted Celebration Weekend: 2,500 graduates; invitation to text ROOTED to 20411 for next session.
 * Context: Matthew 23 takes place on the Tuesday of Passion Week--Jesus' final public confrontation with the Pharisees.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. "Team Jesus" vs. "Team Jesus in Name Only"

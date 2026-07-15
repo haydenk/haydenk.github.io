@@ -22,6 +22,8 @@ series = 'seven-i-am-statements'
 * Leader affirmed how much he learns from the group's dialogue; encouraged honest reactions to the sermon on hell and the exclusivity of Christ.
 * Tonight's "I AM" focus: Jesus' claim, "I am the way, the truth, and the life" (John 14:6), explored through the lens of Tracy Chapman's "Fast Car."
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Cultural Crisis

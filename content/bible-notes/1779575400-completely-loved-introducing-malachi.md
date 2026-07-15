@@ -21,6 +21,8 @@ series = 'completely'
 * Tonight's study launches a seven-week series called "Completely," showing how God's covenant love for His people is total even when life feels empty.
 * By tracing Israel's history, their dashed expectations, and God's covenant response about Jacob and Esau, we learn that grace -- not fairness -- anchors the relationship.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Historical Context

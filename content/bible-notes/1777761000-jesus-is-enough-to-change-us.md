@@ -17,6 +17,8 @@ series = 'enough'
 * Believers deepen by returning to what they already received in Jesus: trust, dependence, surrender, fullness, forgiveness, and victory.
 * The question is not whether Christ has made us complete, but whether we will live as if His finished work is true.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Return to the Fundamentals

@@ -31,6 +31,8 @@ series = 'easter-2026'
 * Historical backdrop: Passover week swells Jerusalem to ~2 million pilgrims; Rome dispatches extra troops; political tension is electric.
 * Two contrasting parades will converge: Pilate from the west with war-horses; Jesus from the east on a donkey portraying humility and true power.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. The Road from Jericho

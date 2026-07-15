@@ -19,6 +19,8 @@ series = 'live-free'
 ## Introduction
 The speaker responds to Kirk Cameron's recent podcast segment in which Cameron and his son James advocate annihilationism (a view that the lost are ultimately destroyed rather than eternally tormented). Emphasizing pastoral care over critique, the preacher sets a respectful tone toward fellow believers while underscoring the seriousness of doctrine about hell—an especially challenging topic during the Christmas season.
 
+<!--more-->
+
 ## Key Points / Exposition  
 
 ### 1. Tone Matters: Wolves vs. Mistaken Brothers

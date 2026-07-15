@@ -32,6 +32,8 @@ series = 'live-free'
 ## Introduction  
 The team explored the many biblical “deep cuts” of the Christmas story, contrasted Jesus with Caesar Augustus, clarified the divergent genealogies in Matthew and Luke, and discussed contemporary topics (immigration imagery, responses to political rhetoric). All discussion centered on seeing Jesus as the true King of Kings and Prince of Peace.
 
+<!--more-->
+
 ## Key Points  
 1. Peace is not the absence of problems but the presence of the Savior.  
 2. Christmas services (52 at Lake Pointe) are strategic for evangelism; each member should “invite one more.”  

@@ -23,6 +23,8 @@ series = 'enough'
 * Purpose of Paul's letter: counter "Jesus + something" teaching creeping into the Colossian church (matter is evil, Jesus can't be fully human, legalism vs. license).
 * Big idea: If Jesus is not pre-eminent in your life, something else is pretending to sustain you.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Definition of Pre-eminence

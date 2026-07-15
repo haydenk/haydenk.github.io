@@ -28,6 +28,8 @@ series = 'en-fuego'
 * Series context: the four-week "En Fuego" series explores fire imagery. Weeks 1-2 tackle the smoldering fire of anger before moving on to passion and refinement.
 * The teaching opens with cultural examples of things going "en fuego," then shifts to the staggering personal and societal damage of mismanaged anger.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Murder Begins in the Heart

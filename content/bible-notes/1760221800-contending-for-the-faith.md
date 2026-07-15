@@ -11,6 +11,8 @@ series = 'jude'
 *  Ice-breaker: everyone rated their fear of heights (0 - 10). The leader later tied this to “spiritual heights,” safety harnesses, and the assurance God gives in vv. 24-25.  
 *  Session goal: finish the Jude series (week 5) by exploring vv. 20-25—how believers contend inwardly (vv. 20-21) and outwardly (vv. 22-23), and how God ultimately keeps them (vv. 24-25).
 
+<!--more-->
+
 ## Scripture Reference(s)  
 * Jude 1:20–25  
 * Romans 8:39  

@@ -35,6 +35,8 @@ series = 'en-fuego'
 * The only key that unlocks that cell is forgiveness: receiving it from God, extending it to others, and seeking it from those we have hurt.
 * Series context: week three of the "En Fuego" series continues the focus on the smoldering fire of anger before moving on to passion and refinement.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Two Kinds of Anger

@@ -35,6 +35,8 @@ The episode tackles four main topics:
 3. "Baptism in / filling with" the Holy Spirit—why believers still need fresh encounters after conversion.
 4. A real-time cultural case study: the Minneapolis ICE shooting, discernment, and the biblical call to resist a "spirit of lawlessness."
 
+<!--more-->
+
 ## Key Points
 1. Salvation is by grace alone through faith alone—“apart from works.”
 2. In the New Testament baptism always follows personal repentance and faith; no explicit infant-baptism command or example exists.

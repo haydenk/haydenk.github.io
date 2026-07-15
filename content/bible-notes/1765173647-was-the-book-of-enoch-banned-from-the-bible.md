@@ -37,6 +37,8 @@ Christmas week recap (33 000+ in-person), viral “Home Alone is a Christian mov
 3. What the Book of Enoch is—and why it is not Bible.  
 4. Rapid response to a 15-million-view deconstruction video (“Bible compiled by Constantine” myth).  
 
+<!--more-->
+
 ## Key Points  
 1. LUKE 2 & THE SCARLET THREAD
    * Angels announce to *shepherds*—lowest social class—signalling Christ came for the humble.

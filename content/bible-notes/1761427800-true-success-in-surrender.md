@@ -16,6 +16,8 @@ series = 'run-to-win'
 
 * How God re-defines achievement through Naaman’s healing and our own obedience.
 
+<!--more-->
+
 ## Scripture References  
 * 2 Kings 5:1–15  
 * 1 Kings 22:34–40  

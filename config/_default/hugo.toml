@@ -1,16 +1,14 @@
 baseURL = 'https://haydenk.github.io/'
 languageCode = 'en-us'
+defaultContentLanguage = 'en'
 title = 'Hayden King'
-theme = 'github.com/adityatelange/hugo-PaperMod'
 disableHugoGeneratorInject = true
-ignoreErrors = [ "error-disable-taxonomy" ]
 enableEmoji = true
 enableRobotsTXT = true
-mainSections = ['posts', 'bible-notes', 'notes']
 
 [module]
   [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
+    path = "github.com/Lednerb/bilberry-hugo-theme/v4"
   [[module.imports]]
     path = "github.com/haydenk/lynko"
 
@@ -18,30 +16,58 @@ mainSections = ['posts', 'bible-notes', 'notes']
   goatcounterHost = 'haydenk.goatcounter.com'
   resumeURL = 'https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf'
   images = ['/images/og-default.png']
-  keywords = ['software development', 'aws', 'devops', 'homelab', 'proxmox', 'bible study', 'sermon notes', 'faith', 'Christian', 'discipleship', 'lakepointe church', 'texas']
+
+  # Custom CSS/JS modules loaded after theme.css / theme.js
+  css_modules = []
+  js_modules = []
+
+  # SEO / metadata
+  authorName = 'Hayden King'
+  authorEmail = ''
   description = "Texas software developer writing about AWS, DevOps, and homelab projects -- plus Bible notes and faith reflections from Lakepointe Church."
-  defaultTheme = "auto"
-  disableThemeToggle = true
-  ShowPostNavLinks = true
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  [[params.plugins.css]]
-    link = "plugins/themify-icons/icons.css"
-  [params.homeInfoParams]
-    enabled = true
-    title = "Hey, I'm Hayden"
-    content = "I build things on the web by day and take notes in church on Sunday. Here you'll find posts on AWS, DevOps, and homelab tinkering alongside Bible notes from Lakepointe Church. Pull up a chair."
-  [[params.socialIcons]]
-    name = "Github"
-    url = "https://github.com/haydenk"
-  [[params.socialIcons]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/imhaydenk/"
-  [[params.socialIcons]]
-    name = "StackOverflow"
-    url = "https://stackoverflow.com/users/464467/hayden"
+  keywords = 'software development,aws,devops,homelab,proxmox,bible study,sermon notes,faith,Christian,discipleship,lakepointe church,texas'
+
+  paginate = 10
+
+  enable_mathjax = false
+  algolia_search = false
+
+  # Media configuration
+  resizeImages = false
+
+  # Header configuration
+  subtitle = "I build things on the web by day and take notes in church on Sunday."
+  customImage = 'https://avatars.githubusercontent.com/u/81236?v=4'
+  overlayIcon = 'fa-home'
+  permanentTopNav = true
+  stickyNav = false
+  enableLightDarkTheme = true
+
+  # Content configuration
+  enableMomentJs = false
+  dateFormat = '2006-01-02'
+  showReadingTime = true
+  tocMinWordCount = 400
+
+  # Footer configuration
+  showFooter = true
+  amountLatestPostsInFooter = 7
+  amountCategoriesInFooter = -1
+  showSocialMedia = true
+  socialMediaLinks = [
+    { link = 'https://github.com/haydenk/', icon = 'fab fa-github', rel = 'me' },
+    { link = 'http://linkedin.com/in/haydenking', icon = 'fab fa-linkedin' },
+    { link = 'http://x.com/__haydenk', icon = 'fab fa-square-x-twitter' },
+    { link = 'http://instagram.com/mr.haydenk', icon = 'fab fa-instagram' },
+    { link = '/feed.xml', icon = 'fas fa-rss' },
+  ]
+  showArchive = true
+  archiveDateGrouping = '2006-01'
+  copyrightBy = 'by Hayden King'
+  copyrightUseCurrentYear = true
+  copyrightUrl = 'https://github.com/haydenk'
+  creditsText = 'Bilberry Hugo Theme'
+  creditsUrl = 'https://github.com/Lednerb/bilberry-hugo-theme'
 
 # ── Lynko Configuration ───────────────────────────────────────────────────────
 [params.lynko]
@@ -104,75 +130,40 @@ mainSections = ['posts', 'bible-notes', 'notes']
     url  = "/feed.xml"
 
 [menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
+  [[menus.topnav]]
+    name = 'Posts'
+    pageRef = '/posts'
     weight = 10
 
-  [[menus.main]]
-    name = "Posts"
-    pageRef = "/posts"
+  [[menus.topnav]]
+    name = 'Bible Notes'
+    pageRef = '/bible-notes'
     weight = 11
 
-  [[menus.main]]
-    name = "Tags"
-    pageRef = "/tags"
-    weight = 15
+  [[menus.topnav]]
+    name = 'Notes'
+    pageRef = '/notes'
+    weight = 12
 
-  [[menus.main]]
-    name = "Gists"
-    url = 'https://gist.github.com/haydenk'
-    weight = 15
-
-  [[menus.main]]
-    name = "Bible Notes"
-    pageRef = "/bible-notes"
+  [[menus.topnav]]
+    name = 'Tags'
+    pageRef = '/tags'
     weight = 13
 
-  [[menus.main]]
-    name = "Notes"
-    pageRef = "/notes"
+  [[menus.topnav]]
+    name = 'Gists'
+    url = 'https://gist.github.com/haydenk'
     weight = 14
 
-  [[menus.main]]
-    name = "Archive"
-    pageRef = "/archives"
+  [[menus.topnav]]
+    name = 'Resume'
+    url = 'https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf'
+    weight = 15
+
+  [[menus.topnav]]
+    name = 'Archive'
+    pageRef = '/archive'
     weight = 99
-
-  [[menus.footer]]
-    name = 'Github'
-    url = 'https://github.com/haydenk/'
-    weight = 1
-    [menus.footer.params]
-      icon = 'fa-brands fa-github'
-
-  [[menus.footer]]
-    name = 'LinkedIn'
-    url = 'http://linkedin.com/in/haydenking'
-    weight = 2
-    [menus.footer.params]
-      icon = 'fa-brands fa-square-linkedin'
-
-  [[menus.footer]]
-    name = 'X'
-    url = 'http://x.com/__haydenk'
-    weight = 3
-    [menus.footer.params]
-      icon = 'fa-brands fa-square-x-twitter'
-
-  [[menus.footer]]
-    name = 'Instagram'
-    url = 'http://instagram.com/mr.haydenk'
-    weight = 4
-    [menus.footer.params]
-      icon = 'fa-brands fa-instagram'
-
-  [[menus.footer]]
-    name = 'RSS Feed'
-    url = '/feed.xml'
-    weight = 5
-    [menus.footer.params]
-      icon = 'fa-solid fa-rss'
 
 [permalinks]
   [permalinks.page]
@@ -185,20 +176,18 @@ mainSections = ['posts', 'bible-notes', 'notes']
     notes = '/notes/'
 
 [taxonomies]
-    tag = "tags"
-    category = "archive"
+  author = 'author'
+  tag = 'tags'
+  category = 'categories'
+  series = 'series'
 
 [outputFormats]
   [outputFormats.rss]
     mediaType = "application/rss+xml"
     baseName = "feed"
-  [outputFormats.json]
-    mediaType = "application/json"
-    baseName = "feed"
-    isPlainText = true
 
 [outputs]
-  home = ['html','json','rss']
+  home = ['html', 'rss']
   page = ['html']
   section = ['html']
   taxonomy = ['html']
@@ -211,7 +200,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [markup]
   [markup.highlight]
-    noClasses = false
+    noClasses = true
+    style = 'monokai'
     lineNos = true
 
   [markup.goldmark]
@@ -225,6 +215,11 @@ ignoreLogs = ['warning-goldmark-raw-html']
         anchor = true
       [markup.goldmark.renderHooks.image]
         useEmbedded = 'auto'
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false
 
 [privacy]
   [privacy.youTube]

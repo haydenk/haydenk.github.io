@@ -22,6 +22,8 @@ series = 'en-fuego'
 * Every Christian has a divine assignment, no matter age or past failures. Our call becomes clear at the intersection of what breaks our hearts (affinity), what we're gifted to do (ability), and the doors God opens (opportunity).
 * Big idea: God ignites every believer with a specific calling; when affinity, ability, and opportunity meet, step out--because the great "I AM" is with you.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. You Have a Calling

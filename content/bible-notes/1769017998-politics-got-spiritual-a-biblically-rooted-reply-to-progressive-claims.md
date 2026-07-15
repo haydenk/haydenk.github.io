@@ -32,6 +32,8 @@ series = 'live-free'
 
 Pastor Josh reacts to statements made by Texas State Representative James Talarico, who self-identifies as a minister while advancing progressive positions on abortion, homosexuality, and "economic justice." Josh frames the conversation around spiritual deception, distinguishing between seekers ("refugees from the world") and intentional deceivers ("apostles of the world"). He insists the church has not drifted into politics; rather, politics has entered spiritual territory by redefining marriage, life, and gender.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Two Kinds of Believers in Political Engagement

@@ -15,6 +15,8 @@ series = 'bootcamp'
 
 The group listened to the same passage that was preached in Sunday service and revisited it for deeper discussion. Conversation opened with a light-hearted "button" exercise about risk versus guarantee, which served as a bridge into Jesus' parable on stewardship, trust, and faithfulness while the Kingdom is "delayed but not denied."
 
+<!--more-->
+
 ## Key Points
 
 * Super Bowl gathering: host's home opens 3 PM; finger foods encouraged; worship & prayer will replace the NFL halftime show; spouses welcome; host will ask guests to leave when the evening winds down.

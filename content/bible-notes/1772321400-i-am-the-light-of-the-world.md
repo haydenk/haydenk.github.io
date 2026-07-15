@@ -18,6 +18,8 @@ series = 'seven-i-am-statements'
 * Leader opens with a personal update: son (22, Marine Corps, Camp Pendleton) placed on higher-alert status; unit itself non-deployable but he could be re-assigned. Group thanks members for earlier texts and prayers.
 * Ice-breaker: "When you're driving, would you rather be lost and moving or know where you're going but be stuck in traffic?" -- designed to explore control, patience, and adventure before linking to the Bible text.
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Context of John 8

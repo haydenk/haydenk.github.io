@@ -39,6 +39,8 @@ series = 'bootcamp'
   * Healing testimony: Jackson, 19, 18-months free of fentanyl, instant relief from 10/10 back pain
   * Jana's ongoing ministry to couples battling infertility
 
+<!--more-->
+
 ## Key Points
 
 ### 1. Central Thesis

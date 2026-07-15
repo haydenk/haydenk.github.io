@@ -18,6 +18,8 @@ series = 'bootcamp'
 
 The group launched week 2 of an eight-week discipleship series that parallels Sunday sermons at Lake Pointe. Tonight's focus: baptism—Is it something we do for God, or something God does for us?  
 
+<!--more-->
+
 ## Key Points
 
 * Two emphases of baptism

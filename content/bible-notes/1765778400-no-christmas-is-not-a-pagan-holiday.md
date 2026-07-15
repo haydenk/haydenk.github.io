@@ -34,6 +34,8 @@ The conversation tackles two big themes:
 1. Biblical joy – how it differs from mere happiness and why Scripture actually commands it.
 2. Christmas myths – Is 25 December pagan? What about Christmas trees and Santa Claus?
 
+<!--more-->
+
 ## Key Points
 
 1. **Joy vs. Happiness**

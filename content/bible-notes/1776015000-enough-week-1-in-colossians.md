@@ -20,6 +20,8 @@ series = 'enough'
 * Leader distributed a five-question "heart-check" card during the week; tonight's discussion revisited those questions.
 * New 8-10-week series launched in Colossians titled "Enough--Jesus Is Enough."
 
+<!--more-->
+
 ## Key Points / Exposition
 
 ### 1. Pursuing Goodness vs. Avoiding Sin

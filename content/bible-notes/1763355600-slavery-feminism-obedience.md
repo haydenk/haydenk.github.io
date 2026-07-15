@@ -14,6 +14,8 @@ The conversation centres on Paul’s trial before Felix (Acts 24) and three link
 2. “Does the Bible condone slavery?” - a historical–exegetical survey  
 3. The widening gender divide in modern politics, feminism and “toxic empathy”  
 
+<!--more-->
+
 ## Gathering Information
 * Hosts/Participants: Josh Howerton, Paul Cunningham, Jana Howerton  
 * Setting: Live recording of “Live Free” podcast (Episode 50) with rooted-group members present
