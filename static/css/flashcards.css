@@ -1,0 +1,139 @@
+/* Flash cards — pure CSS flip cards (checkbox hack, no JavaScript).
+   Used by the flashcards/flashcard shortcodes. */
+
+.flashcards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.6rem;
+  margin: 2.4rem 0;
+  counter-reset: flashcard;
+}
+
+.flashcard {
+  position: relative;
+  display: block;
+  height: 240px;
+  margin: 0;
+  perspective: 1000px;
+  cursor: pointer;
+  counter-increment: flashcard;
+  font-weight: normal;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.flashcard > input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.flashcard-inner {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.5s ease;
+}
+
+.flashcard > input:checked ~ .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard:has(> input:focus-visible) {
+  outline: 2px solid #5c8b59;
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+.flashcard-face {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem 1.6rem;
+  border: 1px solid #e4e4e4;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  overflow-y: auto;
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  background: #f4f8f4;
+  border-color: #cfdccd;
+}
+
+.flashcard-label {
+  flex-shrink: 0;
+  font-size: 0.65em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #999;
+}
+
+.flashcard-front .flashcard-label::after {
+  content: ' ' counter(flashcard);
+}
+
+.flashcard-back .flashcard-label {
+  color: #5c8b59;
+}
+
+.flashcard-text {
+  margin: auto 0;
+  padding: 0.8rem 0;
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
+.flashcard-text p {
+  margin: 0;
+}
+
+.flashcard-hint {
+  flex-shrink: 0;
+  font-size: 0.6em;
+  text-align: right;
+  color: #bbb;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flashcard-inner {
+    transition: none;
+  }
+}
+
+/* Dark mode (Bilberry theme toggles .dark-mode on the root) */
+.dark-mode .flashcard-face {
+  background: #222;
+  border-color: #545454;
+  box-shadow: none;
+  color: #aaa;
+}
+
+.dark-mode .flashcard-back {
+  background: #26302a;
+  border-color: #4a5f4d;
+}
+
+.dark-mode .flashcard-label {
+  color: #888;
+}
+
+.dark-mode .flashcard-back .flashcard-label {
+  color: #7db479;
+}
+
+.dark-mode .flashcard-hint {
+  color: #666;
+}

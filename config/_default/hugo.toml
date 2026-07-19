@@ -18,7 +18,7 @@ enableRobotsTXT = true
   images = ['/images/og-default.png']
 
   # Custom CSS/JS modules loaded after theme.css / theme.js
-  css_modules = []
+  css_modules = ['css/flashcards.css']
   js_modules = []
 
   # SEO / metadata
